@@ -1,0 +1,120 @@
+this very much confirms our 
+original basis for acquiring pine mills 
+and the subsequent strategic efforts 
+we expended in the first half of 2017 to 
+secure 100% of the asset.the financial statements are required by law to give a true 
+and fair view of the state of affairs of the company and the 
+group and of the profit or loss of the group for that year.in preparing these financial statements, the directors are 
+required to:
+• select suitable accounting policies and then apply them 
+consistently;
+• make judgments and estimates that are reasonable and 
+prudent;
+• prepare the financial statements on the going concern 
+basis unless it is inappropriate to presume that the 
+company will continue in business; and
+• follow ifrs as adopted by the european union.the directors are responsible for keeping proper accounting 
+records which disclose with reasonable accuracy at any time 
+the financial position of the company and the group and to 
+enable them to ensure that the financial statements comply 
+with the companies act 2006. they are also responsible for 
+safeguarding the assets of the company and the group and 
+hence for taking reasonable steps for the prevention and 
+detection of fraud and other irregularities.statement as to disclosure of information 
+to auditors
+so far as the directors are aware, there is no relevant audit 
+information (as defined by section 418 of the companies 
+act 2006) of which the group’s auditors are unaware, and 
+each director has taken all the steps that he ought to have 
+taken as a director in order to make himself aware of any 
+relevant audit information and to establish that the group’s 
+auditors are aware of that information.they 
+make no statement of compliance with the code overall 
+and do not ‘explain’ in detail any aspect of the code with 
+which they do not comply.’
+the directors recognise the importance of sound corporate 
+governance, commensurate with the group’s size and 
+shareholders’ interests.the directors are responsible for:
+• management structure and appointments;
+• consideration of strategy and policy;
+• approval of major capital investments and transactions; and
+• significant financing matters.we are 
+independent of the company in accordance with the 
+ethical requirements that are relevant to our audit of the 
+financial statements in the uk, including the frc’s ethical 
+standard as applied to listed entities, and we have fulfilled 
+our other ethical responsibilities in accordance with these 
+requirements.as a consequence of the lack of 
+access to primary accounting information we have been 
+unable to obtain sufficient appropriate audit evidence in 
+relation to the group and company financial statements 
+concerning:
+• the carrying value of £nil of the group’s investment 
+in the subsidiary as at 31 december 2017
+• the group’s share of profit or loss attributable to the 
+group’s underlying interest in the east ghazalat licence 
+for the period from 1 january 2017 to 31 december 2017
+the lack of primary accounting information has led to ire 
+being excluded from the consolidated financial statements.the financial statements do 
+not include the adjustments that would result if the group 
+was unable to continue as a going concern.our opinion on the financial 
+statements does not cover the other information and, except 
+to the extent otherwise explicitly stated in our report, we 
+do not express any form of assurance conclusion thereon.share issue expenses in the year comprise costs incurred in respect of the issue of new shares.nostra terra oil and gas company plc annual report and accounts 2017
+27
+1. accounting policies continued
+standards, interpretations and amendments to published standards that are not yet effective
+the following new standards, amendments to standards and interpretations have been issued, but are not effective for the 
+financial period beginning 1 january 2017 and have not been early adopted.the consolidated financial statements 
+present the results of the company and its subsidiaries (“the group”) as if they formed a single entity.the consolidated financial statements incorporate the results of business combinations using the purchase method.the cost of an 
+acquisition is measured as the fair value of the assets given, equity instruments issued and liabilities incurred or assumed 
+at the date of exchange, plus costs directly attributable to the acquisition.the excess of the cost of acquisition over the fair value of the group’s 
+share of the identifiable net assets acquired is recorded as goodwill.28 investments in associates are accounted for using the equity method, with the group’s share of profits or losses being 
+adjusted against the original cost of the investment on an annual basis.gains and losses on the disposal of an entity include the 
+carrying amount of goodwill relating to the entity sold.functional currency translation
+(i) functional and presentation currency
+items included in the financial statements of the group are measured using the currency of the primary economic environment 
+in which the entity operates (the functional currency), which is mainly united states dollars (us$).goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the 
+foreign entity and translated at the closing rate.the tax currently payable is based 
+on the taxable profit for the year.the total amount to be expensed over the vesting year is determined by reference to the fair value of the options 
+granted, excluding the impact of any non-market vesting conditions (for example, profitability and sales growth targets).the fair value of share-based payments recognised in the statement of comprehensive income is measured by use of the 
+black scholes model, which takes into account conditions attached to the vesting and exercise of the equity instruments.the expected life used in the model is adjusted, based on management’s best estimate, for the effects of non-transferability, 
+exercise restrictions and behavioural considerations.however, to the 
+extent that such a tangible asset is consumed in developing an intangible e&e asset, the amount reflecting that consumption 
+is recorded as part of the cost of the intangible asset.notes to the financial statements continued
+for the year ended 31 december 2017
+nostra terra oil and gas company plc annual report and accounts 2017
+32
+1. accounting policies continued
+development and production assets
+development and production assets are accumulated generally on a field-by-field basis and represent the cost of developing 
+the commercial reserves discovered and bringing them into production, together with the e&e expenditures incurred in 
+finding commercial reserves transferred from intangible e&e assets as outlined above.the cost of development and production assets also includes the cost of acquisitions and purchases of such assets, directly 
+attributable overheads and the cost of recognising provisions for future restoration and decommissioning.the estimates and assumptions which have a significant risk of causing a 
+material adjustment to the carrying amount of assets and liabilities are discussed below:
+(a) impairment of investments
+costs of investments are reviewed for impairment if events or changes in circumstances indicate that the carrying amount 
+may not be recoverable.in addition, the directors are of the opinion that an impairment of £nil (2016: £14,000) should be provided.as a non-monetary long-term asset, the consideration for acquiring the share capital of trans globe gos inc. has been 
+recorded at the prevailing exchange rate at the time of completion of the acquisition but has not been retranslated at 
+the prevailing year-end exchange rate.the details of the transactions and the amount owed 
+by the subsidiaries at the year end were:
+2017 2016
+balance
+£000
+loan
+advance/
+repayment
+£000
+balance
+£000
+loan
+advance/
+provision
+£000
+new horizon energy 1 llc — (7,916) — (7,413)
+goldhawk oil & gas, llc — — — (860)
+churchill operating, llc — — — —
+nostra terra (overseas) limited — — — (7)
+independent resources (egypt) ltd — (7) — (5)
+total — (7,923) — (8,285)
+the intercompany loans are unsecured and interest-free.

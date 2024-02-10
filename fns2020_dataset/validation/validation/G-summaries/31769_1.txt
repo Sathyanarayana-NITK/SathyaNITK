@@ -1,0 +1,209 @@
+with over 10% of the 
+group’s staff dedicated to end-user 
+customer support, focusrite makes sure 
+that the users of its products have the 
+best possible experience.the strategic report has been approved 
+by the directors and signed by order of 
+the board.it is this team that has generated the 
+strong growth over the last decade and it signals significant 
+strength in depth within the group.the board has a schedule of matters reserved for its 
+consideration which includes, but is not limited to, matters of 
+strategy, risk management, consideration and approval of 
+financial budgets, major capital expenditure decisions, 
+acquisitions and disposals, approval of the interim and final 
+results and the recommendation of any dividends.the board has arranged a schedule of meetings to consider 
+strategy, performance and the framework of internal controls 
+and will both support and challenge the management team to 
+deliver the objectives set.the ultimate responsibility for reviewing and approving the 
+annual report and accounts and the half-yearly reports remains 
+with the board.following dave froker’s decision to retire at the end of 
+2016, the nomination committee led the process to appoint his 
+successor with the assistance of odgers berndtson, an 
+international executive search firm.details of each director’s contractual arrangements, including 
+notice periods, are included as part of the directors’ 
+remuneration report on pages 37 to 41 and that information is 
+incorporated by reference into the directors’ report.other than the general provisions of the 
+articles of association and prevailing legislation, there are no 
+specific restrictions on the size of a holding of the company’s 
+share capital.the directors’ report has been approved by the board of 
+directors on 21 november 2017.
+signed on behalf of the board.accordingly, although not required to comply with schedule 8 of the large and medium-sized companies and groups 
+(accounts and reports) regulations 2008 (the ‘regulations’), the company has used these regulations as guidance for presenting 
+selected disclosures where it considers these to be relevant, helpful and appropriate.directors’ remuneration report focusrite plc annual report 2017 38
+base salary
+base salaries for the executive directors are reviewed annually and determined taking account of individual performance, scope of 
+responsibility, relative pay levels within the group and reference to external market data as referred to above.to the extent they elected to do so, the company made a matching award of shares 
+(the ‘matching shares’).an award of 
+options under the company’s enterprise management incentive plan (‘the emi plan’) was made to jeremy wilson prior to the 
+company’s flotation on aim when he joined focusrite in september 2014. this emi plan award has three tranches, each in respect 
+of a three-year performance period, running respectively to the end of the 2017, 2018 and 2019 financial years.these awards are worth a 
+maximum of 100% of base salary at the time of grant and are based on the achievement of eps targets.our procedures included:
+• control design: evaluating the group’s 
+procedures for calculating the inventory 
+provision;
+• tests of details: comparing the cost of a 
+sample of inventory items to after date sales to 
+identify items sold at below cost.application of these standards and interpretations is not expected to have a material effect on the financial statements in the future.goodwill is measured as the excess of the sum of the consideration transferred, the amount of any non‑ controlling interest in the 
+acquiree and the fair value of the acquirer’s previously held equity interest (if any) in the entity over the net of the amounts of the 
+identifiable assets acquired and the liabilities assumed.interest income
+interest income is recognised when it is probable that the economic benefits will flow to the group and the amount of revenue can 
+be measured reliably.3 significant accounting policies continued
+notes to the financial statements continued
+for the year ended 31 august 2017 focusrite plc annual report 2017 55
+strategic report governance financial statements
+if vesting periods or other non‑ market vesting conditions apply, the expense is allocated over the vesting period based on the best 
+available estimate of the number of share options expected to vest.a financial asset other than a financial asset held for trading may be designated as at fvtpl upon initial recognition if:
+• such designation eliminates or significantly reduces a measurement or recognition inconsistency that would otherwise arise; or
+• the financial asset forms part of a group of financial assets or financial liabilities or both, which is managed and its performance 
+is evaluated on a fair value basis, in accordance with the group’s documented risk management or investment strategy, and 
+information about the grouping is provided internally on that basis; or
+• it forms part of a contract containing one or more embedded derivatives, and ias 39 ‘financial instruments: recognition and 
+measurement’ permits the entire combined contract (asset or liability) to be designated as at fvtpl.for listed and unlisted equity investments classified as afs, a significant or prolonged decline in the fair value of the security below 
+its cost is considered to be objective evidence of impairment.the effective interest rate is the rate that exactly discounts estimated future cash payments through the 
+expected life of the financial liability, or, where appropriate, a shorter period, to the net carrying amount on initial recognition.also included within central administration costs is the charge relating to 
+the share option scheme (note 29) of £145,000 for the year ended 31 august 2017 (2016: £120,000).14 tax continued
+notes to the financial statements continued
+for the year ended 31 august 2017 focusrite plc annual report 2017 65
+strategic report governance financial statements
+16 earnings per share
+reported eps
+the calculation of the basic and diluted eps is based on the following data:
+year ended 31 august
+earnings
+2017 
+£’000
+2016 
+£’000
+earnings for the purposes of basic and diluted eps being net profit for the period 8,553 6,256
+year ended 31 august
+number of shares
+2017 
+number 
+’000
+2016 
+number 
+’000
+weighted average number of ordinary shares for the purposes of basic eps calculation 55,432 53,207
+effect of dilutive potential ordinary shares:
+emi scheme and unapproved share option plan 2,357 5,297
+weighted average number of ordinary shares for the purposes of diluted eps calculation 57,789 58,504
+eps pence pence
+basic eps 15.4 11.8
+diluted eps 14.8 10.7
+at 31 august 2017, the total number of ordinary shares issued and fully paid was 58,075,000. this included 2,546,845 (2016: 
+4,494,504) shares held by the ebt to satisfy options vesting in future years.notes to the financial statements continued
+for the year ended 31 august 2017 focusrite plc annual report 2017 67
+strategic report governance financial statements
+18 other intangible assets
+intellectual 
+property 
+£’000
+development 
+costs 
+£’000
+licences 
+£’000
+trademark 
+£’000
+computer 
+software 
+£’000
+total 
+£’000
+cost
+at 1 september 2015 72 9,904 211 – 107 10,294
+additions 133 2,716 – – 53 2,902
+at 31 august 2016 205 12,620 211 – 160 13,196
+additions – 2,721 – 127 273 3,121
+disposals – – (124) – (10) (134)
+at 31 august 2017 205 15,341 87 127 423 16,183
+depreciation
+at 1 september 2015 30 6,485 165 – 92 6,772
+charge for the year 42 1,963 32 – 14 2,051
+at 31 august 2016 72 8,448 197 – 106 8,823
+charge for the year 72 2,822 9 14 33 2,950
+eliminated on disposal – – (124) – (10) (134)
+at 31 august 2017 144 11,270 82 14 129 11,639
+carrying amount
+at 31 august 2017 61 4,071 5 113 294 4,544
+at 31 august 2016 133 4,172 14 – 54 4,373
+at 31 august 2015 42 3,419 46 – 15 3,522
+19 property, plant and equipment
+plant, tooling 
+equipment 
+and machinery 
+£’000
+fixtures, 
+fittings and 
+leasehold 
+improvements 
+£’000
+computer 
+equipment 
+£’000
+customer 
+demonstration 
+units 
+£’000
+total 
+£’000
+cost
+at 1 september 2015 2,807 1,031 764 – 4,602
+additions 402 18 177 176 773
+at 31 august 2016 3,209 1,049 941 176 5,375
+additions 279 28 154 32 493
+disposals (905) (114) (539) (23) (1,581)
+at 31 august 2017 583 963 556 185 4,287
+accumulated depreciation and impairment
+at 1 september 2015 2,124 506 649 – 3,279
+charge for the year 275 92 118 36 521
+at 31 august 2016 2,399 598 767 36 3,800
+charge for the year 397 92 145 55 689
+eliminated on disposals (903) (112) (538) (18) (1,571)
+at 31 august 2017 1,893 578 374 73 2,918
+carrying amount
+at 31 august 2017 690 385 182 112 1,369
+at 31 august 2016 810 451 174 140 1,575
+at 31 august 2015 683 525 115 – 1,323 focusrite plc annual report 2017 68
+20 subsidiaries
+the group’s subsidiary undertakings for the period are listed below, including the name, country of incorporation, and proportion of 
+ownership interest:
+name
+country of registration 
+or incorporation address principal activity
+class of 
+shares
+2017 
+%
+2016 
+%
+focusrite audio engineering limited england and wales windsor house, 
+turnpike road, high wycombe, 
+bucks, hp12 3fx
+manufacture 
+and distribution
+ordinary 100 100
+focusrite novation inc
+1
+usa 840 apollo st, el segundo, 
+ca, 90245, usa
+marketing 
+services
+ordinary 100 100
+focusrite novation asia limited
+1
+hong kong 2316, 23/f hong kong plaza, 
+181–191 connaught road west, 
+shek tong tsui, hong kong
+marketing 
+services
+ordinary 100 100
+1 owned indirectly through fael.therefore the merger difference 
+reserve represents the difference between the sum of the plc share capital and merger reserve and the sum of focusrite audio 
+engineering limited’s share capital, share premium and capital redemption reserve.other than amounts that are deducted from employees’ remuneration and accrued pending payment to the pension fund, no further 
+obligations fall on the group as the assets of these arrangements are held and managed by third parties entirely separate from 
+the group.for a 10% weakening of sterling against the relevant currency, there would be a comparable impact on the profit and 
+other equity, and the balances below would be positive.the following table details the group’s expected maturity for its non‑ derivative financial assets.foreign currency forward contracts are measured using quoted forward 
+exchange rates and yield curves derived from quoted interest rates matching maturities of the contracts.in the opinion of the directors, the company and its subsidiaries are not involved 
+currently in any other legal proceedings which, at 31 august 2017 and for the period up to the date of approval of these financial 
+statements, have had a significant effect on the financial position or profitability of the company and its subsidiaries.

@@ -1,0 +1,183 @@
+amortisation and acquisition costs 
+increased significantly during the period, as the group continued to 
+accelerate its growth through the acquisition element of its strategy.the company conducts extensive checks on the suitability of its 
+prospective franchisees but it cannot be entirely certain that a 
+franchisee does not have some potentially embarrassing adverse 
+history which may come to light and which risks damaging the 
+reputation of the brand.the performance of the directors is evaluated on an 
+ongoing basis.the financial reporting framework 
+that has been applied in their preparation is applicable law and 
+international financial reporting standards (ifrss) as adopted by 
+the european union and, as regards the parent company financial 
+statements, as applied in accordance with the provisions of the 
+companies act 2006.
+in our opinion:
+• the financial statements give a true and fair view of the state  
+of the group’s and of the parent company’s affairs as at  
+31 december 2017 and of the group’s profit for the year  
+then ended;
+• the group financial statements have been properly prepared in 
+accordance with ifrss as adopted by the european union;
+• the parent company financial statements have been properly 
+prepared in accordance with ifrss as adopted by the european 
+union and as applied in accordance with the provisions of the 
+companies act 2006; and 
+• the financial statements have been prepared in accordance with 
+the requirements of the companies act 2006.
+basis for opinion
+we conducted our audit in accordance with international standards 
+on auditing (uk) (isas (uk) and applicable law.area of focus how addressed
+business combinations
+the group has acquired a new lettings book and the 
+trade and assets of another business (besley hill) in 
+the year.with respect to the lettings book acquisition 
+- management judgement is required in assessing 
+whether the acquisition constitutes the acquisition of a 
+business, in which case ifrs 3 ‘business combinations’ 
+applies or simply the acquisition of intangible assets, in 
+which case ias 38 would apply.we reviewed and challenged management’s calculation of the fair value of 
+consideration, specifically with the respect to the fair value of the shares in 
+hunters property plc issued as part of the consideration for the besley hill 
+business combination.to the members of hunters property plc
+independent auditor’s report continued
+strategic report overview governance financial statements
+28 29 hunters property plc annual report and accounts financial statements
+an overview of the scope of our audit
+we tailored the scope of our audit to ensure that we performed sufficient work to be able to give an opinion on the financial statements as 
+a whole, taking into account the group’s accounting processes and controls, and the industry in which it operates.strategic report overview governance financial statements
+32 33 hunters property plc annual report and accounts financial statements
+as at 31 december 2017
+company statement of financial position consolidated statement of changes in equity
+notes
+2017 
+£000s
+2016 
+£000s
+non-current assets
+investments 14 1,189 1,071
+current assets
+trade and other receivables 16 5,482 3,120
+total assets 6,671 4,191
+current liabilities
+current tax liabilities (22) (20)
+trade and other payables 19 (26) (27)
+(48) (47)
+net assets 6,623 4,144
+equity
+share capital 26 1,272 1,145
+share premium account 4,105 2,633
+share option reserve 317 203
+retained earnings 929 163
+total equity 6,623 4,144
+as permitted by s408 companies act 2006, the company has not presented its own statement of comprehensive income.for the year ended 31 december 2017
+strategic report overview governance financial statements
+34 35 hunters property plc annual report and accounts financial statements
+for the year ended 31 december 2017
+company statement of changes in equity
+notes 
+share 
+capital 
+£000s
+share 
+premium 
+account 
+£000s
+share option 
+reserve 
+£000s
+retained 
+earnings 
+£000s
+total 
+£000s
+balance at 1 january 2016 1,131 2,579 12 60 3,782
+year ended 31 december 2016:
+profit and total comprehensive income for the year – – – 556 556
+issue of share capital 26 14 53 – – 67
+dividends 10 – – – (453) (453)
+share-based payment expense of subsidiary 14 – – 192 – 192
+exercise of share options – 1 (1) – –
+balance at 31 december 2016 1,145 2,633 203 163 4,144
+year ended 31 december 2017:
+profit and total comprehensive income for the year – – – 1,400 1,400
+issue of share capital 26 127 1,544 – – 1,671
+dividends 10 – – – (634) (634)
+costs of raising equity 26 – (76) – – (76)
+share-based payment expense of subsidiary 14 – – 118 – 118
+exercise of share options – 4 (4) – –
+balance at 31 december 2017 1,272 4,105 317 929 6,623
+the notes on pages 39 to 67 form part of these financial statements.the financial statements have been prepared on the historical cost convention, modified to include the revaluation of certain financial 
+instruments at fair value.where necessary, adjustments are made to the financial information of subsidiaries to bring the accounting policies used into line with 
+those used by the group.revenue is 
+recognised to the extent that it is probable that economic benefits will flow to the group and the revenue can be measured reliably.no amounts are deferred as the directors are of the opinion that 
+virtually all inception costs are incurred at the outset, and hence although contracts run for several years this policy is considered to be the 
+fairest presentation to comply with the matching and accruals concepts.revenue from franchisee management service fees are recognised monthly in arrears, calculated by reference to the terms of the contract 
+and the value of sales attributable to each franchisee.financial services revenue is recognised at the later of the policy inception date or confirmation of entitlement to the commission.amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the 
+following bases:
+software    3–7 years or over the life of the license 
+franchise development costs  over the life of the franchise contract (typically 10–15 years) 
+brands    10 years 
+customer lists   2–15 years
+1.7 property, plant and equipment 
+property, plant and equipment are recognised as an asset only if it is probable that future economic benefits associated with the item will 
+flow to the group and the cost of the item can be measured reliably.strategic report overview governance financial statements
+40 41 hunters property plc annual report and accounts financial statements
+for the year ended 31 december 2017
+notes to the financial statements continued
+1 accounting policies continued
+1.10 financial instruments
+loans and receivables 
+financial assets are recognised in the statement of financial position when, and only when, the group becomes a party to the contractual 
+provisions of the instrument.the cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.disclosures have been extended in the current reporting period to reflect the updated requirements of ias 7 ‘statement of cash flows’.all other amendments, including the adoption of ifrs 15, are not expected to have a material impact on the group’s financial statements.franchisee revenue & intangible assets
+franchisee sign up fees are recognised upfront at the inception of a franchisee contract, which in the directors’ opinion matches to the 
+estimated cost of time and knowledge to create the franchiser-franchisee contractual arrangement.the chief operating decision maker of the group is considered to be the board  
+of directors.due to the specific nature of the group’s market, each 
+component of revenue naturally falls within one of these segments.segmental analysis of revenue
+2017 
+£000s
+2016 
+£000s
+residential sales 4,609 5,042
+lettings sales 3,210 3,176
+franchisee revenues 4,648 4,035
+other 1,702 1,580
+14,169 13,833
+revenue analysed by geographical market 
+2017 
+£000s
+2016 
+£000s
+united kingdom 14,169 13,833
+further disclosure of the segmental analysis of goodwill is made in note 12. due to the nature of operations, the directors, as the chief 
+operating decision-making body, review financial information for the group’s overall business and have identified a single operating segment 
+at cost and asset / liability levels.carrying value
+£000s
+fair value 
+adjustments
+ £000s
+fair value 
+recognised on 
+acquisition 
+£000s
+assets
+intangible assets – customer lists – 2,253 2,253
+total assets – 2,253 2,253
+liabilities
+deferred tax liabilities – (406) (406)
+total liabilities – (406) (406)
+total identifiable net assets – 1,847 1,847
+goodwill arising on acquisition 653
+purchase consideration transferred 2,500
+the analysis of the cash flows on acquisition is: 
+£000s
+transaction costs of the acquisition (45)
+cash and cash equivalents acquired on combination –
+cash and cash equivalents paid for the combination (2,250)
+net cash flow on acquisition (2,295)
+from the date of acquisition, besley hill contributed £367,264 of revenue and £110,027 of profit before tax from continuing operations  
+of the group.historical data and forecasts have been used, together with a 10% discount 
+rate (reduced to reflect the relatively low risk profile of a lettings book acquisition) and an assumption of a useful life of 12 years for the 
+lettings book to estimate the fair value of this intangible.the group has a bank loan and loan facility upon which interest is charged at 2.8% over the bank of england base rate.operationally the group are actively involved in the running of the franchising businesses, including frequent 
+exchange of financial and key performance data, and are able to manage their own credit risk by using this knowledge to minimise exposure 
+to potential bad debt.the company incurred transaction costs relating to the 
+issue of new shares of £75,933.

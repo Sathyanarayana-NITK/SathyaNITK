@@ -1,0 +1,546 @@
+there were challenging times with the 
+changes in the buy-to-let regulations, 
+followed by the slow down post eu 
+referendum.3 the uls platform 
+instructs the selected 
+solicitor to undertake 
+the conveyancing.uls technology annual report 2017 08 how we create value for stakeholders
+benefits for 
+customers
+benefits for 
+introducers
+benefits for 
+solicitors
+uls aims to reduce 
+the cost of services 
+to users by creating 
+price competition 
+between providers.in 2016, uls took a 35% stake in 
+homeowners alliance (hoa), with an 
+option to acquire the business between 
+three and five years following completion 
+of the investment.the group constantly monitors its panel of 
+firms and their capacity and looks to bring on 
+new firms across a range of sizes to maintain 
+sufficient capacity within the model and keep 
+prices at a competitive level, while keeping 
+quality of service high.05
+geoff wicks 
+independent  
+non-executive director
+geoff wicks was ceo of group nbt plc, 
+a specialist in online brand protection 
+and digital asset management, from 
+2001 until he led the sale of the business 
+to hgcapital in 2011. he remained as 
+part of the group nbt business, now 
+renamed netnames, as a non-executive 
+director until 2013.
+geoff spent much of his earlier career 
+at reuters, including heading divisions 
+in the uk, france and nordic regions, 
+and latterly was director of corporate 
+communications.its disruptive technology creates competition amongst 
+the providers of legal services to the benefit of the consumer.the committee is 
+responsible for reviewing a wide range of matters, including half-
+year and annual results before their submission to the board, 
+and for monitoring the controls that are in force to ensure the 
+integrity of information reported to the shareholders.matters on which we are required to report  
+by exception
+we have nothing to report in respect of the following matters 
+where the companies act 2006 requires us to report to you if,  
+in our opinion:
+• adequate accounting records have not been kept by the parent 
+company, or returns adequate for our audit have not been 
+received from branches not visited by us; or
+• the parent company financial statements and the part of 
+the directors’ remuneration report to be audited are not in 
+agreement with the accounting records and returns; or
+• certain disclosures of directors’ remuneration specified by  
+law are not made; or
+• we have not received all the information and explanations  
+we require for our audit.tracey james
+senior statutory auditor
+for and on behalf of grant thornton uk llp
+statutory auditor, chartered accountants
+oxford 
+26 june 2017
+independent auditor’s report 
+to the members of uls technology plc
+25 uls technology annual report 2017
+overview strategic report governance financial statements uls technology annual report 2017 26
+consolidated income statement 
+for the year ended 31 march 2017
+notes
+2017
+£000’s
+2016
+£000’s
+revenue 1 22,260 20,658
+cost of sales (12,796) (11,997)
+gross profit 9,464 8,661
+administrative expenses (5,233) (4,901)
+operating profit before exceptional expenses 4,231 3,760
+exceptional admin expenses 3 (386) (385)
+operating profit 2 3,845 3,375
+finance income 5 12 9
+finance costs 6 (83) (63)
+exceptional finance costs 6 (318) (240)
+profit before tax  3,456  3,081
+tax expense 7 (581) (704)
+profit for the financial year attributable to  
+the group’s equity shareholders 2,875 2,377
+earnings per share from operations
+basic earnings per share (£) 8 0.0443 0.0367
+diluted earnings per share (£) 8 0.0421 0.0351 overview strategic report governance financial statements
+27 uls technology annual report 2017
+consolidated statement of comprehensive income 
+for the year ended 31 march 2017
+2017
+£000’s
+2016
+£000’s
+profit for the financial year 2,875 2,377
+total comprehensive income for the financial year  
+attributable to the owners of the parent  2,875 2,377 uls technology annual report 2017 28
+consolidated balance sheet
+as at 31 march 2017
+assets notes
+2017
+£000’s
+2016
+£000’s
+non-current assets
+intangible assets 13 7,064 2,945
+goodwill 10 11,008 4,524
+afs financial assets 11 100 100
+investment in associates 12 549 575
+property, plant and equipment 14 516 485
+long-term receivables 16 200 100
+prepayments 16 173 181
+19,610 8,910
+current assets
+inventory 15 40 22
+trade and other receivables 16 1,676 1,301
+cash and cash equivalents 17 2,242 3,781
+3,958 5,104
+total assets 23,568 14,014
+equity and liabilities
+capital and reserves attributable to the group’s equity shareholders
+share capital 18 259 259
+share premium 4,585 4,585
+capital redemption reserve 113 113
+share based payment reserve 151 80
+retained earnings 4,145 2,148
+total equity 9,253 7,185
+non-current liabilities
+borrowings 20 3,750 170
+deferred consideration 28 2,613 852
+deferred taxation 7 1,092 438
+7,455 1,460
+current liabilities
+trade and other payables 19 4,229 4,234
+borrowings 20 2,000 720
+current tax payable 631 415
+6,860 5,369
+total liabilities 14,315 6,829
+total equity and liabilities 23,568 14,014
+the financial statements were approved by the board of directors on 26 june 2017 and were signed on its behalf by:
+ben thompson  john williams
+chief executive officer finance director
+uls technology plc uls technology plc
+company number: 07466574 overview strategic report governance financial statements
+29 uls technology annual report 2017
+consolidated statement of changes in equity
+for the year ended 31 march 2017
+share 
+capital
+£000’s
+share 
+premium
+£000’s
+capital 
+redemption 
+reserve
+£000’s
+share- 
+based 
+payments 
+reserve
+£000’s
+retained 
+earnings
+£000’s
+total  
+equity
+£000’s
+balance at 1 april 2015 259 4,530 113 23 1,609 6,534
+profit for the year – – – – 2,377 2,377
+total comprehensive income – – – – 2,377 2,377
+issue of shares – 55 – – – 55
+share-based payments – – – 57 – 57
+payment of dividends – – – – (1,838) (1,838)
+total transactions with owners – 55 – 57 (1,838) (1,726)
+balance at 31 march 2016 259 4,585 113 80 2,148 7,185
+balance at 1 april 2016 259 4,585 113 80 2,148 7,185
+profit for the year – – – – 2,875 2,875
+total comprehensive income – – – – 2,875 2,875
+exercise of options – – – (1) 1 -
+share-based payments – – – 72 – 72
+payment of dividends – – – – (879) (879)
+total transactions with owners – – – 71 (878) (807)
+balance at 31 march 2017 259 4,585 113 151 4,145 9,253 uls technology annual report 2017 30
+consolidated statement of cash flows
+for the year ended 31 march 2017
+notes
+2017
+£000’s
+2016
+£000’s
+cash flow from operating activities
+profit for the financial year before tax 3,456 3,081
+finance income 5 (12) (9)
+finance costs 6 401 303
+loss/(profit) on disposal of plant and equipment 1 (1)
+share of loss from associate 12 26 –
+amortisation 13 599 486
+depreciation 14 271 228
+share-based payments 72 57
+tax paid (625) (678)
+4,189 3,467
+changes in working capital
+(increase)/decrease in inventories (18) 7
+increase in trade and other receivables (246) (693)
+(decrease)/increase in trade and other payables (68) 1,894
+cash inflow from operating activities 3,857 4,675
+cash flow from investing activities
+purchase of intangible software assets 13 (642) (285)
+purchase of property, plant and equipment 14 (281) (51)
+disposal of property, plant and equipment 4 4
+acquisition of associates/investments 11/12 – (575)
+acquisition of subsidiary (net of cash acquired) 28 (6,989) –
+payment of deferred consideration (1,080) –
+interest received 5 12 9
+net cash used in investing activities (8,976) (898)
+cash flow from financing activities
+share issue proceeds (net of issue costs) 18a – 55
+dividends paid 32 (879) (1,838)
+interest paid 6 (401) (303)
+new loans 20 7,000 –
+repayment of loans 20 (2,140) (720)
+net cash generated from/(used in) financing activities 3,580 (2,806)
+net (decrease)/increase in cash and cash equivalents (1,539) 971
+cash and cash equivalents at beginning of financial year 3,781 2,810
+cash and cash equivalents at end of financial year 2,242 3,781 overview strategic report governance financial statements
+31 uls technology annual report 2017
+notes to the consolidated financial statements
+principal accounting policies
+basis of preparation
+the consolidated financial statements of uls technology plc and its subsidiaries (together, “the group”) have been prepared  
+in accordance with international financial reporting standards (“ifrs”), as adopted by the eu, ifric interpretations and with 
+those parts of the companies act 2006 applicable to companies reporting under ifrs.amounts reported in the financial statements of subsidiaries have been adjusted  
+where necessary to ensure consistency with the accounting policies adopted by the group.profit or loss and other comprehensive income of subsidiaries acquired or disposed of during the year are recognised from the 
+effective date of acquisition, or up to the effective date of disposal, as applicable.typically, for a conveyancing transaction, this will be on completion of the property transaction 
+and if the transaction falls through prior to completion, the customer does not have to pay.recoverable amount is the higher of fair value less costs to sell and value in use.inventories
+work in progress is valued on the basis of direct costs attributable to jobs under completion at the reporting date.the amount of the provision 
+is the difference between the asset’s carrying amount and the present value of the estimated future cash flows discounted at original 
+effective interest rate.financial assets are derecognised when the contractual rights to the cash flows from the financial asset expire, or when the financial 
+asset and all substantial risks and rewards are transferred.upon exercise of share options, the proceeds received net of any directly attributable transaction costs, are allocated to share capital 
+up to the nominal (par) value of the shares issued with any excess being recorded as share premium.the most commonly applied is the achievement of forecast 
+profitability.uls technology annual report 2017 44
+notes to the consolidated financial statements
+continued
+10. goodwill continued
+conveyancing alliance cgu
+the recoverable amount of the conveyancing alliance cgu has been determined from value in use calculations based on cash 
+flow projections from a formally approved 24 month forecast which has been extrapolated out over a five-year period followed by a 
+perpetuity.overview strategic report governance financial statements
+45 uls technology annual report 2017
+13. intangible assets
+capitalised 
+development 
+expenditure
+£000’s
+acquired 
+technology 
+platform
+£000’s
+customer 
+and supplier 
+relationships
+£000’s
+brands
+£000’s
+total
+£000’s
+cost
+at 1 april 2015 2,401 – 1,071 226 3,698
+additions 285 – – – 285
+disposals (11) – – – (11)
+at 31 march 2016 2,675 – 1,071 226 3,972
+additions 642 – – – 642
+acquired within business combination (note 28) 130 1,117 2,548 342 4,137
+disposals (29) – – – (29)
+at 31 march 2017 3,418 1,117 3,619 568 8,722
+accumulated amortisation
+at 1 april 2015 545 – 5 2 552
+charge 395 – 68 23 486
+disposals (11) – – – (11)
+at 31 march 2016 929 – 73 25 1,027
+charge 395 36 135 33 599
+acquired within business combination (note 28) 61 – – – 61
+disposals (29) – – – (29)
+at 31 march 2017 1,356 36 208 58 1,658
+net book value
+at 1 april 2015 1,856 – 1,066 224 3,146
+at 31 march 2016 1,746 – 998 201 2,945
+at 31 march 2017 2,062 1,081 3,411 510 7,064
+amortisation is included within administrative expenses.uls technology annual report 2017 46
+notes to the consolidated financial statements
+continued
+14. property, plant and equipment
+leasehold 
+improvements
+£000’s
+computer 
+equipment
+£000’s
+fixtures  
+and fittings
+£000’s
+total
+£000’s
+cost
+at 1 april 2015 569 505 77 1,151
+additions 0 42 9 51
+disposals – (118) (1) (119)
+       
+at 31 march 2016 569 429 84 1,082
+additions 0 280 1 281
+acquired within business combination  
+(note 28) – 40 8 48
+disposals – (130) (9) (139)
+       
+at 31 march 2017 569 619 84 1,272
+       
+accumulated depreciation
+at 1 april 2015 173 290 23 486
+charge 119 93 16 228
+disposals – (116) (1) (117)
+       
+at 31 march 2016 292 267 38 597
+charge 119 136 16 271
+acquired within business combination  
+(note 28) 20 2 22
+disposals – (130) (4) (134)
+       
+at 31 march 2017 411 293 52 756
+       
+net book value
+at 1 april 2015 396 215 54 665
+at 31 march 2016 277 162 46 485
+at 31 march 2017 158 326 32 516
+15. inventories
+2017
+£’000
+2016
+£’000
+work in progress 40 22 overview strategic report governance financial statements
+47 uls technology annual report 2017
+16. trade and other receivables
+2017
+£’000
+2016
+£’000
+current assets
+trade receivables 1,179 1,046
+other receivables 282 57
+pre-payments 215 198
+1,676 1,301
+non-current assets
+pre-payments 173 181
+long-term receivables (loans to associate and ebt) 200 100
+373 281
+the directors consider the carrying value of trade and other receivables is approximate to its fair value.details of the group’s exposure to credit risk is given in note 21. the issue of shares 
+was in part consideration for the investment in homeowners alliance limited (see note 12).overview strategic report governance financial statements
+49 uls technology annual report 2017
+a reconciliation of option movements over the year to 31 march 2017 is shown below:
+as at 31 march 2017 as at 31 march 2016
+number of 
+options
+weighted 
+average 
+exercise 
+price
+£
+number of 
+options
+weighted 
+average 
+exercise 
+price
+£
+outstanding at 1 april 3,178,218 0.43 2,912,739 0.41
+granted 1,853,127 0.76 278,424 0.54
+forfeited prior to vesting (466,036) 0.44 (12,945) 0.40
+exercised (12,945) 0.40 – –
+outstanding at 31 march 4,552,364 0.56 3,178,218 0.43
+19. trade and other payables
+ 
+2017
+£000’s
+2016
+£000’s
+trade payables 2,039 2,209
+paye and social security 100 82
+vat 586 423
+other creditors 21 21
+accruals and deferred income 494 510
+deferred consideration 989 989
+4,229 4,234
+20. borrowings 
+ 
+2017
+£000’s
+2016
+£000’s
+secured – at amortised cost
+– bank loan 5,750 890
+5,750 890
+current 2,000 720
+non-current 3,750 170
+5,750 890
+summary of borrowing arrangements:
+• the group fully repaid a term loan with clydesdale ahead of schedule in september 2016. in december 2016, it took out a 5-year 
+term loan for £5 million and a £2 million revolving cash flow facility.the tables below set out the group’s accounting classification of each class of its financial assets and liabilities.the discount rate used is 16.2%, based on the group’s estimated 
+weighted average cost of capital at the reporting date, and therefore reflects the group’s credit position.level 3 fair value measurements
+the reconciliation of the carrying amounts of financial instruments classified within level 3 is as follows:
+ 
+contingent consideration
+2017
+£000’s
+2016
+£000’s
+balance at 1 april 2016 1,841 1,268
+acquired through business combination 2,523 –
+payments made (1,080) –
+movement in consideration – 333
+movement in npv 318 240
+balance at 31 march 2017 3,602 1,841
+financial instrument risk exposure and management
+the group’s operations expose it to degrees of financial risk that include liquidity risk, credit risk and interest rate risk.net cash inflow on acquisition of subsidiaries
+2017
+£000’s
+consideration paid in cash 8,029
+less: cash and cash equivalent balances acquired (1,040)
+6,989
+the acquiree has been included in the consolidated financial information for the first time in 2017 , with revenue of £1,446,000 and 
+a net profit of £239,000 included.uls technology annual report 2017 56
+29. contingent liabilities
+the directors are not aware of any contingent liabilities within the group or the company at 31 march 2017 and 2016. notes to the consolidated financial statements
+continued overview strategic report governance financial statements
+57 uls technology annual report 2017
+parent company balance sheet 
+as at 31 march 2017
+assets notes
+2017
+£000’s
+2016
+£000’s
+non-current assets
+investments 2 17,511 6,887
+non-current receivables 3 86 15
+17,597 6,902
+current assets
+trade and other receivables 3 259 1,928
+cash and cash equivalents 601 949
+860 2,877
+total assets 18,457 9,779
+equity and liabilities
+capital and reserves attributable to the group’s equity shareholders
+share capital 7 259 259
+share premium 4,585 4,585
+capital redemption reserve 113 113
+capital contribution reserve 77 35
+share-based payment reserve 152 80
+opening retained earnings 1,569 1,283
+profit for the year 2,931 2,124
+payment of dividends (879) (1,838)
+total retained earnings 3,621 1,569
+total equity 8,807 6,641
+non-current liabilities
+borrowings 5 3,750 170
+provisions 6 2,613 852
+6,363 1,022
+current liabilities
+trade and other payables 4 1,287 1,396
+borrowings 5 2,000 720
+3,287 2,116
+total liabilities 9,650 3,138
+total equity and liabilities 18,457 9,779
+the financial statements were approved by the board of directors on 26 june and were signed on its behalf by:
+ben thompson
+chief executive officer
+uls technology plc
+company number: 07466574 uls technology annual report 2017 58
+parent company statement of changes in equity
+for the years ended 31 march 2017
+share 
+capital
+£000’s
+share 
+premium
+£000’s
+capital 
+redemption 
+reserve
+£000’s
+capital 
+contribution 
+reserve
+£000’s
+share- 
+based 
+payments 
+reserve
+£000’s
+retained 
+earnings
+£000’s
+total  
+equity
+£000’s
+balance at 1 april 2015 259 4,530 113 – 23 1,283 6,208
+profit for the year – – – – – 2,124 2,124
+total comprehensive income – – – – – 2,124 2,124
+issue of shares – 55 – – – – 55
+share-based payments – – – 35 57 – 92
+payment of dividends – – – – – (1,838) (1,838)
+total transactions with owners – 55 – 35 57 (1,838) (1,691)
+balance at 31 march 2016 259 4,585 113 35 80 1,569 6,641
+balance at 1 april 2016 259 4,585 113 35 80 1,569 6,641
+profit for the year – – – – – 2,931 2,931
+total comprehensive income – – – – – 2,931 2,931
+share-based payments – – – 42 72 – 114
+payment of dividends – – – – – (879) (879)
+total transactions with owners – – – 42 72 (879) (765)
+balance at 31 march 2017 259 4,585 113 77 152 3,621 8,807 overview strategic report governance financial statements
+59 uls technology annual report 2017
+notes to the parent company financial statements
+1. parent company accounting policies
+basis of preparation
+the annual ﬁnancial statements of uls technology plc (the parent company ﬁnancial statements) have been prepared in accordance 
+with financial reporting standard 100 application of financial reporting requirements (“frs 100”) and financial reporting 
+standard 101 reduced disclosure framework (“frs 101”).financial assets and financial 
+liabilities are measured subsequently as described below.equity and reserves
+equity and reserves comprises the following:
+• “share capital” represents amounts subscribed for shares at nominal value
+• “share premium” represents amounts subscribed for share capital, net of issue costs, in excess of nominal value
+• “capital redemption reserve” represents the nominal value of re-purchased share capital
+• “share based payment reserve” represents the accumulated value of share-based payments expensed in the profit and loss
+• “retained earnings” represents the accumulated profits and losses attributable to equity shareholders
+1. parent company accounting policies continued overview strategic report governance financial statements
+61 uls technology annual report 2017
+share-based employee remuneration
+the company operates share option based remuneration plan for its employees.where employees are rewarded using share-based payments, the fair value of employees’ services is determined indirectly by reference 
+to the fair value of the equity instruments granted.

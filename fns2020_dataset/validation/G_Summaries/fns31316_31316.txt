@@ -1,0 +1,150 @@
+our people  25 
+it systems
+we have significant it software and data 
+security capabilities and capacity, and the ability 
+to develop new applications and technologies 
+to the ongoing benefit of our customers.a large part of the group’s growth 
+strategy is geared around the exchange and 
+delivery of these meter assets.loss of required accreditations
+the installation and maintenance of electricity and gas 
+meters within the uk is a regulated activity and, as 
+such, the organisations need to maintain the required 
+industry accreditations which are reviewed on an 
+annual basis.the outcome of any 
+report or incident investigation is 
+summarised and provided to the 
+audit committee for its review.nevertheless, in considering its own arrangements for governance, the company has regard, so far as is 
+practicable and appropriate for a company of its size and nature, to the provisions of the uk corporate governance code, 
+and to the recommendations of the quoted companies alliance (qca).at each meeting the board received reports from:
+ x the ceo on health and safety, strategic, operational 
+and business developments, and investor relations;
+ x the cfo on the financial performance of the business, 
+budget, funding and capital; and
+ x each of the board committees on matters discussed 
+at their meetings.directors are provided in advance with a formal 
+agenda of matters to be discussed at each meeting and with 
+the detailed information needed to monitor the progress of 
+the company.audit committee
+during the year the audit committee comprised 
+graeme bissett (chair), miriam greenwood and 
+willie macdiarmid.x reviewing the effectiveness of the group’s systems 
+for internal financial control, financial reporting and 
+risk management.x the committee also monitored and guided the 
+evolution of the group’s risk management and 
+internal audit procedures.the committee is aware that the 
+board receives a report on termination 
+recoverability and provisioning each 
+month and has assessed the group’s 
+processes for calculating and regularly 
+monitoring termination income 
+recoverability.kelly will chair a newly 
+created information and technology committee of the 
+board, reviewing and providing strategic guidance on 
+development of the company’s technology programmes.remuneration of executive directors is structured to 
+ensure that:
+ x the fixed element of pay, salary, pension and benefits 
+is benchmarked against comparable companies of similar 
+size and complexity;
+ x a substantial proportion of executive directors and 
+senior management remuneration is linked to the group’s 
+performance; and
+ x remuneration rewards specific kpis which deliver, inter 
+alia, long‑ term value to shareholders, a safe operating 
+environment, compliance will relevant health and safety 
+policies and outstanding service to customers.a contribution of up to 
+5% per annum of salary 
+is paid into the scheme, 
+by the company, on 
+behalf of the cfo.to the fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the company and the company’s members as a body, for our audit work, for this report, 
+or for the opinions we have formed.financial statements
+smart metering systems plc annual report and accounts 2017 46
+independent auditor’s report continued
+to the members of smart metering systems plc
+overview of our audit approach
+key audit matters x recoverability of termination income and the impact on traditional domestic meter assets residual values.basis of consolidation
+the consolidated accounts of the group include the assets, liabilities and results of the company and subsidiary undertakings 
+in which smart metering systems plc has a controlling interest.specifically, the group controls an investee if, and only if, the group has all of the following: power over the investee 
+(i.e.revenue is recognised on 
+a straight line basis over the lease term.exceptional items and separately disclosed items
+the group presents as exceptional items on the face of the consolidated statement of comprehensive income those material 
+items of income and expense which, because of the nature or expected infrequency of the events giving rise to them, merit 
+separate presentation to allow shareholders to understand better the elements of financial performance in that year, so as 
+to facilitate comparison with prior periods and to assess better trends in financial performance.if any such indication exists, the 
+recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any).f
+annual report and accounts 2017 smart metering systems plc 59
+impairment continued
+where an impairment loss subsequently reverses, the carrying amount of the asset (or cgu) is increased to the revised 
+estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that 
+would have been determined had no impairment loss been recognised for the asset (or cgu) in prior years.financial statements
+smart metering systems plc annual report and accounts 2017 60
+accounting policies continued
+financial statements
+group as lessor
+leases in which the group does not transfer substantially all the risks and rewards of ownership of assets are classified 
+as operating leases with meter income recognised in line with the meter rental income policy.standards and interpretations
+these new accounting standards and amendments are applicable to the group for the first time in 2017. however, they do not 
+impact the annual consolidated financial statements of the group.under ifrs 16, a lease liability will 
+have to be recognised on the balance sheet for each and they will be depreciated over the period of the lease.financial statements
+smart metering systems plc annual report and accounts 2017 72
+notes to the financial statements continued
+for the year ended 31 december 2017
+19 financial risk management continued
+liquidity risk
+the group manages its cash in a manner designed to ensure maximum benefit is gained whilst ensuring security of investment 
+sources.the group’s maximum exposure to credit risk equates to the 
+carrying value of cash held on deposit and trade, other receivables and accrued income.the objective of sms’s strategy is to deliver long-term value to its shareholders whilst maintaining a balance sheet structure 
+that safeguards the group’s financial position.f
+annual report and accounts 2017 smart metering systems plc 73
+20 deferred taxation continued
+the group’s provision for deferred taxation consists of the tax effect of temporary differences in respect of:
+2017
+£’000
+2016
+£’000
+excess of taxation allowances over depreciation on property, plant and equipment 11,559 8,934
+tax losses available (61) (265)
+deferred tax asset on share options (1,998) (1,643)
+deferred tax on intangible acquired 427 679
+other (3) 180
+9,924 7,885
+the deferred tax included in the consolidated statement of comprehensive income is as follows:
+2017
+£’000
+2016
+£’000
+accelerated capital allowances 2,431 1,690
+tax losses 204 (175)
+deferred tax asset on share options 22 (33)
+movement in fair value of intangibles (252) (491)
+movement in fair value of interest rate swaps — 10
+other 13 184
+2,418 1,185
+the finance bill 2016, which was substantively enacted on 15 september 2016, included legislation reducing the main rate of 
+uk corporation tax from 20% to 17%.the performance conditions for awards are based on market 
+capitalisation and individual performance targets.sip awards
+the table below shows the number of shares held in the sip at the beginning and end of the financial year:
+type of award
+at
+1 january
+2017
+awarded
+shares sold lapsed
+at
+31 december
+2017
+weighted
+average
+acquisition
+price
+partnership 94,107 43,849 (13,628) — 124,328 £4.79
+matching 93,707 43,849 (4,632) (6,264) 126,660 £4.79
+dividend 1,497 1,419 (154) — 2,762 £5.22
+total 189,311 89,117 (18,414) (6,264) 253,750 
+24 other reserve
+this is a non-distributable reserve that initially arose by applying merger relief under section 162 of the companies act 2006 
+to the shares issued in 2009 in connection with the group restructuring.the primary components of this residual goodwill comprise:
+ x the workforce;
+ x the software capability;
+ x revenue synergies from dual fuel; and
+ x new opportunities available to each company as part of the larger aim-listed group.

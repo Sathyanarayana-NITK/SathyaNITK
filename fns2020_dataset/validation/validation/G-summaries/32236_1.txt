@@ -1,0 +1,264 @@
+in conjunction with the placing and 
+acquisition, the company also undertook a 40 for 1 share consolidation and sought court approval for the cancellation of 
+its share premium account, leaving the parent company able to pay dividends in the future should it be appropriate to do 
+so (see note 22).our work and contribution to the ceph opensource community gained us recognition for the development of an industry 
+leading low cost storage solution which lead us to become the first veeam accredited service partner in the uk.the directors consider that the system of internal controls operated effectively throughout the financial year and up to the 
+date the financial statements were signed.the committee meets at least twice a year and is responsible 
+for determining and reviewing with the board the policy for the remuneration of the executive directors and such other 
+members of the executive management it is designated to consider.within the terms of the agreed policy, it determines 
+the total individual remuneration of the executive directors.the remuneration committee also approves the design of, and 
+determines targets for, any performance related pay schemes, reviews the design of any share incentive plans, determines 
+the awards to the executive directors and determines the policy for, and scope, of pension arrangements for each 
+executive director.the maintenance and integrity of the company’s website is the responsibility of the directors.by order of the board
+julian llewellyn
+company secretary
+06 june 2017 sysgroup plc  annual report & accounts 2017 30
+independent auditor’s 
+report to the members  
+of sysgroup plc sysgroup plc  annual report & accounts 2017 31
+independent auditor’s report to the 
+members of sysgroup plc
+we have audited the financial statements of sysgroup plc for the year ended 31 march 2017 which comprise the 
+consolidated statement of comprehensive income, the consolidated statement of financial position, the company 
+statement of financial position, the consolidated statement of changes in equity, the company statement of changes 
+in equity, the consolidated statement of cash flows, the company statement of cash flows and the related notes.other reserve
+amount reserved for share based payments to be released over the life of the 
+instruments and the equity element of convertible loans and the amount sub-
+scribed for share capital in excess of nominal value on acquisition of another 
+company
+accumulated losses
+all other net gains and losses and transactions with owners (e.g.sysgroup plc  annual report & accounts 2017 44
+company statement  
+of changes in equity sysgroup plc  annual report & accounts 2017 45
+company statement 
+of changes in equity
+attributable to equity holders of the company
+share 
+capital
+£’000
+share 
+premium 
+reserve 
+£’000
+other 
+reserve
+£’000
+accumulated 
+losses
+£’000
+total 
+£’000
+at 1 april 2015 2,399 6,493 656 (5,061) 4,487
+loss for the period - - - (386) (386)
+issue of share capital 153 - 367 - 520
+movement in share option reserve - - (8) - (8)
+expenses of share issue - - (7) - (7)
+at 31 march 2016 2,552 6,493 1,008 (5,447) 4,606
+loss for the period - - - (86) (86)
+issue of share capital – share placing 1,686 3,367 - - 5,053
+issue of share capital - consideration 382 - 616 - 998
+expenses of share issue - (277) - - (277)
+capital re-organisation (note 22) - (9,583) - 9,583 -
+movement in share option reserve - - (2) (2) (4)
+at 31 march 2017 4,620 - 1,622 4,048 10,290
+for the year ended 31 march 2017 sysgroup plc  annual report & accounts 2017 46
+consolidated statement  
+of cash flows sysgroup plc  annual report & accounts 2017 47
+consolidated statement  
+of cash flows
+group 
+2017 
+£’000
+group
+2016 
+£’000
+c a s h	fl ow s	u s e d	i n	o p e r a t i n g	a c t i v i t i e s
+profit after tax 378 302
+profit net of tax - discontinued operations (1,508) (375)
+adjustments for:
+depreciation and other amortisation 650 446
+fair value adjustment on contingent consideration 300 (270)
+finance costs 27 44
+acquisition and integration costs 791 34
+share based payments - (10)
+taxation (20) (41)
+o p e r a t i n g	c a s h	fl ow s	b e f o r e	m o v e m e n t	i n	wo r k i n g	c a p i t a l 618 130
+increase in trade and other receivables (163) 61
+increase in trade and other payables 544 (35)
+cash generated from operations 999 156
+c a s h	fl ow s	f r o m	i n v e s t i n g	a c t i v i t i e s
+payments to acquire property, plant & equipment (380) (111)
+acquisition and integration costs (742) (34)
+acquisition of subsidiary net of cash acquired (3,425) -
+net cash used in investing activities (4,547) (145)
+c a s h	fl ow s	f r o m	fi n a n c i n g	a c t i v i t i e s
+net proceeds from issue of ordinary share capital 4,722 (7)
+drawdown of loan facility - 105
+repayment of loan facility (105) (175)
+repayment of loan notes - (105)
+loan note interest paid - (9)
+taxation paid (197) -
+for the year ended 31 march 2017 sysgroup plc  annual report & accounts 2017 48
+group 
+2017 
+£’000
+group
+2016 
+£’000
+interest element of finance lease payments (27) (33)
+drawdown of finance lease facility 189 - 
+capital repayment of finance leases (153) (110)
+n e t	c a s h	f r o m	fi n a n c i n g	a c t i v i t i e s 4,429 (334)
+net increase (decrease) in cash and cash equivalents from continuing opera-
+tions
+881 (323)
+cash	flows	fr om	discontinued	operations
+net cash used for operating activities 99 518
+net cash provided for investing activities 1,987 (39)
+net cash used for financing activities (7) (69)
+net increase in cash and cash equivalents from discontinued operations 2,079 410
+cash and cash equivalents at the beginning of the year 513 426
+cash and cash equivalents at the end of the year 3,473 513 sysgroup plc  annual report & accounts 2017 49
+company statement  
+of cash flows sysgroup plc  annual report & accounts 2017 50
+company statement  
+of cash flows
+2017 
+company
+£’000
+2016
+company
+£’000
+c a s h	fl ow s	u s e d	i n	o p e r a t i n g	a c t i v i t i e s
+loss after tax (86) (386)
+adjustments for:
+depreciation and other amortisation 15 12
+fair value adjustment on contingent consideration 300 (270)
+impairment of investments following disposal 1,099 -
+finance costs - 12
+acquisition costs 791 11
+share based payments - (12)
+o p e r a t i n g	c a s h	fl ow s	b e f o r e	m o v e m e n t	i n	wo r k i n g	c a p i t a l 2,119 (633)
+increase in trade and other receivables (66) (25)
+increase in trade and other payables 86 26
+cash generated from operations 2,139 (632)
+c a s h	fl ow s	f r o m	i n v e s t i n g	a c t i v i t i e s
+payments to acquire property, plant and equipment (37) (42)
+acquisition and costs (742) (11)
+payment for shares in subsidiaries (3,720) -
+net cash used in investing activities (4,499) (53)
+c a s h	fl ow s	f r o m	fi n a n c i n g	a c t i v i t i e s
+net proceeds from issue ordinary share capital 4,722 (7)
+(paid to)/received from subsidiary company (297) 817
+repayment of convertible loan - (105)
+loan note interest paid - (10)
+n e t	c a s h	f r o m	fi n a n c i n g	a c t i v i t i e s 4,425 695
+net increase (decrease) in cash and cash equivalents 2,065 10
+cash and cash equivalents at the beginning of the year 12 2
+cash and cash equivalents at the end of the year 2,077 12
+for the year ended 31 march 2017 sysgroup plc  annual report & accounts 2017 51
+notes to the consolidated 
+financial statements sysgroup plc  annual report & accounts 2017 52
+notes to the consolidated  
+financial statements
+1. accounting policies
+sysgroup plc (the ‘company’) is a company incorporated and domiciled in the united kingdom.basis of preparation
+the principal accounting policies adopted in the preparation of the financial statements are set out below.sysgroup plc  annual report & accounts 2017 54
+in the statement of financial position, the acquiree’s identifiable assets, liabilities and contingent liabilities are initially 
+recognised at their fair values at the acquisition date.monetary 
+assets and liabilities denominated in foreign currencies are translated using the rate of exchange ruling at the balance 
+sheet date and the gains or losses on translation are included in the consolidated statement of comprehensive income.the fair value hierarchy has 
+the following levels:
+a. quoted prices in active markets for identical assets or liabilities (level 1)
+b. inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly (i.e.sysgroup plc  annual report & accounts 2017 56
+share based payments
+the fair value of employee options granted is charged to the consolidated statement of comprehensive income with a 
+corresponding increase in equity.the fair value is measured at grant date and spread over the period during which the 
+employees become unconditionally entitled to the options.in this situation, the expenditure is capitalised and amortised expense is included in 
+administrative expenses in the consolidated statement of comprehensive income over the years during which the group 
+is to benefit.the significant intangibles recognised by the group, their estimated useful economic lives and the methods used to 
+determine the cost of intangibles acquired in business combinations are as follows:
+intangible asset customer relationships
+estimated uel 5-7 years
+valuation method estimated discounted cash flow sysgroup plc  annual report & accounts 2017 57
+deferred taxation
+deferred tax assets and liabilities are recognised where the carrying amount of an asset or liability in the consolidated 
+statement of financial position differs from its tax base, except for differences arising on: 
+• the initial recognition of goodwill; 
+• the initial recognition of an asset or liability in a transaction which is not a business combination and at the time of the 
+transaction affects neither accounting or taxable profit; and 
+• investments in subsidiaries and jointly controlled entities where the group is able to control the timing of the reversal of 
+the difference and it is probable that the difference will not reverse in the foreseeable future.2. significant accounting estimates and judgements
+the preparation of this financial information requires management to make judgements, estimates and assumptions that 
+affect the amounts reported for assets and liabilities at the period end date and the amounts reported for revenues and 
+expenses during each period.this involves 
+judgement regarding the future development of the business and the estimation of the level of future profitability and cash 
+flows to support the carrying value of goodwill.sysgroup plc  annual report & accounts 2017 58
+valuation of intangibles acquired in business combinations
+determining the fair value of customer relationships acquired in business combinations requires estimation of the value 
+of the cash flows related to those relationships and a suitable discount rate in order to calculate the present value.there have been no substantive changes in the group’s objectives, 
+policies and processes for managing those risks or the methods used to measure them from previous periods.the group’s policy is to prepare periodic working capital forecasts, allowing an assessment of the cash requirements of 
+the group and company, to manage liquidity risk.4. segmental analysis
+the chief operating decision maker for the group is the board of directors.the accounting 
+policies of the operating segments are the same as those described in the summary of significant accounting policies.sysgroup plc  annual report & accounts 2017 62
+revenue by operating 
+segment
+2017
+£’000
+2017
+%
+2016
+£’000
+2016
+%
+sme mass market (discontinued) 700 9% 2,249 47%
+managed services 5,400 69% 2,515 53%
+value added resale (var) 1,765 22% - -
+total 7,865 100% 4,764 100%
+no individual customer accounts for more than 10% of the group’s revenue.during the year to 31 march 2017 the group incurred £414,000 of costs in relation to this acquisition.the recoverable amount is determined based on a discounted cash flow basis and is allocated to individual cash 
+generating units.the carrying value of each cgu is as follows:
+2017
+£’000
+2016
+£’000
+sme mass market (divested in year) - 620
+netplan 5,348 4,977
+system professional 4,585 -
+total 9,932 5,597
+the assumptions used for the impairment reviews are as follows:
+system
+professional netplan
+discount rate 19% 19%
+growth rate year 2 to year 5 10% 10%
+terminal growth rate 5% 5%
+forecast period for which cashflows are estimated 2 years 2 years
+the group had no contractual liability for development costs at 31st march 2017. as a result of the impairment testing 
+carried out on the basis of these estimates and assumptions, no impairment provisions are required.the following table summarises the results of the sme mass market segment included in discontinued operations in the 
+consolidated statement of income:
+year to
+31 march 2017
+year to
+31 march 2016
+sales 700 2,249
+costs and expenses (566) (1,887)
+profit on sale 1,336 -
+profit before tax 1,470 362
+taxation 38 13
+p r o fi t	a t t r i b u t a b l e	t o	t h e	s h a r e h o l d e r s	o f	t h e	c o m p a n y 1,508 375
+profit on disposal is calculated as the fair value of consideration received less the fair value of assets and liabilities 
+disposed.to holders of other equity securities as required by the rights of those securities or as the directors 
+otherwise consider necessary,
+but subject to such exclusions or other arrangements as the directors may deem necessary or expedient in 
+relation to treasury shares, fractional entitlements, record dates, legal or practical problems in or under the laws of 
+any territory or the requirements of any regulatory body or stock exchange; and
+b. in any other case, up to an aggregate nominal amount of £23,103 (such amount to be reduced by the nominal 
+amount of any equity securities allotted pursuant to the authority in resolution 6.a.special business
+as special business, to consider and, if thought fit, pass the following resolutions:
+7. that, subject to the passing of resolution 6, the directors be given the general power to allot equity securities (as 
+defined by section 560 of the act) for cash, either pursuant to the authority conferred by resolution 6 or by way of a 
+sale of treasury shares, as if section 561(1) of the act did not apply to any such allotment, provided that this power 
+shall be limited to:
+a. the allotment of equity securities in connection with an offer by way of a rights issue:
+i. to the holders of ordinary shares in proportion (as nearly as may be practicable) to their respective 
+holdings; and
+ii.

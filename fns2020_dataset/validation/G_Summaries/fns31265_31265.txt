@@ -1,0 +1,116 @@
+more information on the ifrs conversion 
+can be found in note 25.
+going concern 
+after making enquiries and producing cash flow forecasts, 
+the directors have reasonable expectations, as at the date 
+of approving the financial statements, that the company and the 
+group will have adequate resources to fund the activities of the 
+company and the group for at least 12 months from the date 
+of the financial statements.the group has developed case studies and conducts 
+research to demonstrate the benefit of its product to 
+distributors, content owners and advertisers.skills and experience
+alastair joined the board in november 
+2017. prior to joining the board in a 
+personal capacity, alastair was the 
+representative of parkwalk advisors 
+limited, which was a corporate director 
+of the company from 20 may 2015 until 
+admission.the audit committee meets at appropriate times in the financial 
+reporting and audit cycle, and at least twice a year.the terms of 
+reference of the audit committee cover issues such as membership 
+and the frequency of meetings, together with requirements of any 
+quorum for, and the right to attend, meetings.directors’ indemnities and directors’ and officers’ 
+liability insurance
+the company’s articles of association permit the company to indemnify 
+directors of the company in accordance with the companies act 2006. 
+directors’ and officers’ liability insurance is also in place.independent auditors
+in accordance with section 489 of the companies act, a resolution 
+for the re-appointment of pricewaterhousecoopers llp as auditors 
+of the company is to be proposed at the forthcoming annual 
+general meeting.the directors are responsible for the maintenance and integrity 
+of the company’s website.each of the directors, whose names and functions are listed in 
+the directors’ report confirm that, to the best of their knowledge: 
+• the company financial statements, which have been prepared 
+in accordance with ifrs as adopted by the european union, 
+give a true and fair view of the assets, liabilities, financial 
+position and loss of the company; 
+• the group financial statements, which have been prepared in 
+accordance with ifrs as adopted by the european union, give a 
+true and fair view of the assets, liabilities, financial position and 
+loss of the group; and 
+• the directors’ report includes a fair review of the development 
+and performance of the business and the position of the group 
+and company, together with a description of the principal risks 
+and uncertainties that it faces.these matters, and any comments we make on the results of our procedures 
+thereon, were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we 
+do not provide a separate opinion on these matters.these, 
+together with qualitative considerations, helped us to determine the scope of our audit and the nature, timing and extent of our audit 
+procedures on the individual financial statement line items and disclosures and in evaluating the effect of misstatements, both 
+individually and in aggregate on the financial statements as a whole.after making appropriate enquiries, the directors have a reasonable expectation that the group has adequate resources to continue 
+in operational existence for the foreseeable future and for at least one year from the date of these financial statements.ias 38 “intangible assets” has been implemented, which has led to capitalisation of staff costs related to development of computer 
+software used by the business.revenue is recognised when a customer obtains control of a good or service and thus has the ability 
+to direct the use and obtain the benefits from the good or service.the basis of classification depends on the entity’s business model and the contractual cash 
+flow characteristics of the financial asset.adjustments are made to eliminate the profit 
+or loss arising on transactions with associates to the extent of the group’s interest in the entity.(ii) transactions and balances
+transactions in foreign currencies are translated into sterling at the exchange rate ruling at the date of the transaction.(iii) group companies
+the results and financial position of all the group entities (none of which has the currency of a hyperinflationary economy) that have 
+a functional currency different from the presentation currency are translated into the presentation currency as follows: 
+(a) assets and liabilities for each balance sheet presented are translated at the closing rate at the date of that balance sheet; 
+(b)  income and expenses for each income statement are translated at average exchange rates (unless this average is not a reasonable 
+approximation of the cumulative effect of the rates prevailing on the transaction dates, in which case income and expenses are 
+translated at the rate on the dates of each transaction); and 
+(c) all resulting exchange differences are recognised in other comprehensive income.the exact revenue for each campaign is set 
+out in the relevant insertion (purchase) order which shows the agreed number of advertising units or insertions to be delivered.where a fixed or minimum revenue value is specified in the contract, this is recognised over the duration of the agreement in line with 
+the agreed performance criteria where these have been specified.development costs that are 
+directly attributable to the design and testing of identifiable and unique software products controlled by the group are recognised as intangible 
+assets when the following criteria are met:
+• it is technically feasible to complete the software product so that it will be available for use;
+• management intends to complete the software product and use or sell it;
+• there is an ability to use or sell the software product;
+• it can be demonstrated how the software product will generate probable future economic benefits;
+• adequate technical, financial and other resources to complete the development and to use or sell the software product are available; and
+• the expenditure attributable to the software product during its development can be reliably measured.where appropriate, transactions 
+of a similar nature are aggregated unless, in the opinion of the directors, separate disclosure is necessary to understand the effect of the 
+transactions on the group historical financial information.for the year ended december 2017 the revaluation 
+loss on foreign subsidiary net assets recognised in the statement of comprehensive income was £14,088 (2016: £133,270).the amounts disclosed in the table are the contractual undiscounted cash flows.therefore regions considered for segmental reporting are where the company and subsidiaries are based, namely the uk, the usa, 
+india, brazil, china and singapore.the amount of revenue from external customers by location of the group billing 
+entity is shown in the tables below.mirriad advertising plc annual report and accounts 2017
+45
+mirriad advertising plc annual report and accounts 2017
+45 notes to the consolidated financial statements continued
+for the year ended 31 december 2017
+14. trade and other receivables
+group company
+2017 2016 2017 2016 
+£ £ £ £
+trade receivables – net 203,609 128,370 19,768 12,162
+other debtors 556,629 230,160 501,849 178,876
+accrued income 237,208 195,107 — 106,718
+prepayments 289,788 191,731 167,953 86,030
+1,287,234 745,368 689,570 383,786
+less non-current portion: other debtors (212,960) (28,634) (162,960) —
+current portion 1,074,274 716,734 526,610 383,786
+trade receivables are stated after a provision for impairment of £29,120 (2016: £29,120).mirriad advertising plc annual report and accounts 2017
+46
+financial statements
+mirriad advertising plc annual report and accounts 2017
+46
+financial statements 16. financial instruments
+the group has the following financial instruments:
+2017 2016 
+ £ £
+financial assets that are debt instruments measured at amortised cost 
+– trade debtors 203,609 128,370
+– other debtors 556,629 230,160
+total 760,238 358,530
+financial liabilities measured at amortised cost
+– trade creditors 745,419 185,320
+– other taxation and social security 113,765 95,616
+total 859,184 280,936
+none of the financial assets are considered to be impaired.the cost of equity-settled transactions is recognised over the period until the award vests.the cost of equity-settled share-based payments are recognised in the income statement, together with a corresponding increase 
+in equity during the vesting period – please see note 18 for details of the share-based payment reserve.in general, 
+for options granted one-third are exercisable on the first anniversary of the grant, a further third are exercisable on the second anniversary of 
+the grant and the remainder are exercisable three years after the date of grant.the volatility used for the calculations was 
+based on the average (median) 6.5 year volatility for aim-listed technology companies as at 31 december 2017.
+the weighted average fair value of the options granted under the emi scheme during the period under this model was £0.46 per option 
+(2016: £nil).during the year the company had the following significant related party transactions which were carried out at arms length.

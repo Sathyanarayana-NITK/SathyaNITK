@@ -1,0 +1,247 @@
+these forward-looking statements are subject to risks,
+uncertainties and assumptions about the group and should
+be treated with an appropriate degree of caution. further details of our
+progress in 2017 is set out in the following ceo and cfo
+reports. the integration of osmo, acquired in april 2017, was largely
+completed and considered a successful transition. we firmly believe we are well placed to exploit the
+opportunities that will arise from the ever-greater digitalisation
+of tax compliance and in compliance more generally. 2017
+annual report   contents 
+01 tax systems plc annual report 2017
+strategic report page
+highlights for the year 2
+chairman’s statement 3
+chief executive officer’s review 4
+market overview 6
+customer challenge overview 7
+business overview 9
+financial review 12
+risk management and principal risks 15
+corporate governance
+board of directors 18
+corporate governance report 20
+report of the audit and risk committee 21
+report of the remuneration and nomination committee 23
+directors’ remuneration report 24
+directors’ report 26
+financial statements
+independent auditor’s report 29
+consolidated statement of comprehensive income 33
+consolidated statement of financial position 34
+company statement of financial position 35
+consolidated statement of changes in equity 36
+company statement of changes in equity 37
+cash flow statements 38
+notes to the financial statements 39
+company information 79
+248502 tax systems pp01-pp05  17/05/2018  10:55  page 01 highlights for the year 
+strategic report
+02 tax systems plc annual report 2017
+tax systems plc is a leading provider of corporation tax
+software and services to many of the largest companies and
+the accounting profession in the uk and ireland. net debt
+4
+now represents less than 3x adjusted
+ebitda
+3
+➢ conversion of adjusted ebitda
+3
+to operating cash flow
+after exceptional items of 98%
+1 2016 is on a proforma basis, applying ifrs 15 and excluding results from
+osmo
+2 2016 on a proforma basis including comparable figures for osmo
+3 adjusted ebitda is defined as operating profit or loss before exceptional
+items, depreciation, amortisation and share-based payments
+4 net debt is defined as bank borrowings and loan notes recognised as
+liabilities and the equity element of the loan notes recognised in equity
+less cash
+operational: 
+➢ customer retention rate remained high at 95%
+➢ 114 new annuity licences added to the base
+➢ y ear-on-year average annuity order value growth of 9%
+➢ y ear-on-year average services day rate growth of 25%
+➢ continued investment in and enhancement of the core
+product, alphatax, including the successful launch of
+version 17 which incorporated the largest uk finance act
+update in history 
+➢ development of new solutions and services, including:
+– data entry, designed to help accountancy firms
+streamline the process of collecting information from
+data owners; and
+– a new solution to help organisations with country-
+by-country reporting
+key strengths:
+➢ a customer base of 1,000 large corporates and major
+accountancy firms including 
+– 43 of the ftse 100
+– 23 of the top 25 uk accountancy firms
+➢ 90% recurring revenues
+➢ 95% customer retention
+➢ 98% conversion of adjusted ebitda
+3
+to operating cash
+after exceptional items
+➢ comprehensive corporation tax engine with over
+26 years of intellectual property
+➢ substantial amount of sector expertise providing high
+barrier to entry to the market
+➢ find more about tax systems’ business model on page 9
+➢ read more in the financial review on page 12
+➢ stay up to date online: www.taxsystems.com
+forward-looking statements
+this report includes forward-looking statements. clive carver
+non-executive chairman 20 april 2018
+248502 tax systems pp01-pp05  17/05/2018  10:55  page 03 strategic report
+04 tax systems plc annual report 2017
+“
+i am delighted to report on a
+successful year, delivering against our
+strategic objectives of growth, retention,
+acquisitions, debt reduction and
+operational transformation. retention: 
+during 2017, customer retention remained strong at a rate
+of 95%, in line with management’s expectations. the board has overall responsibility for managing risk. the group has a delegation of
+authorities that clearly sets out the approval required for key activities, including those restricted to the board and the executive
+directors. the audit and risk committee, which includes the independent non-executive directors, monitors and promotes the highest
+standards of integrity, financial reporting, risk management and internal control. the
+executive directors are closely involved in the day-to-day management of the business and have oversight of all the controls the
+business has in place, including financial, operational and compliance controls, as well as overseeing risk management. the architecture of the
+technology enables us to do this on a continual basis with a
+team that is well versed in the practice with documented
+processes and procedures. using osmo’s technology, finance and
+tax teams can significantly decrease the manual workload
+associated with data collection, reduce errors and risk from
+re-keying data and increase the speed and accuracy of data
+production. the powerful part of collecting and storing data digitally is
+what can then be done by the regulators using analytical
+software. due
+to the level of data regulators will hold, the number of audit
+notices is likely to increase which will require swift responses
+from businesses and a greater level of quality and accuracy. our current focus is on the corporation tax software and
+services market in the uk and ireland. we made significant investments during 2017 to maintain,
+update and de-risk our solutions and services in light of the
+increasing regulatory landscape. osmo’s
+leading edge technology is now embedded as part of our
+core value proposition and helps organisations automate the
+collection of data from large accounting / erp systems. ”
+2017 has been a year of significant and exciting activity for the
+company on the transformational journey to develop and
+upgrade our products and services in order to support our
+customer base of large corporates and accountancy firms in
+meeting the increasing demands of tax compliance. 248502 tax systems pp01-pp05  17/05/2018  10:55  page 02 strategic report
+03 tax systems plc annual report 2017
+chairman’s statement
+clive carver
+“
+during the year under review we met
+all internal and external targets for the
+business. chief executive officer’s review
+gavin lyons
+248502 tax systems pp01-pp05  17/05/2018  10:55  page 04 strategic report
+05 tax systems plc annual report 2017
+osmo is a leading provider of automated data extraction
+services that currently connects to 310 versions of accounting
+software packages, whether they be cloud, on premise or
+enterprise versions. this tax function needs to
+be able to respond efficiently and accurately to the regulator
+in the event of non-compliance or an audit notification whilst
+offering proactive expert tax advice on strategic activities such
+as mergers and acquisitions, disposals and geographical and
+operational structures. growing reporting and transparency
+obligations:
+in 2017 alone, the uk’s finance (no.2) act 2017 was the
+longest in recent memory, stretching to 665 pages compared
+to 187 pages in finance act 2018.
+new international reporting including the oecd’s common
+reporting standard (“crs”) and base erosion and profit
+shifting (“beps”) have come in to force in both the uk and
+ireland. the
+company is seeking to continue to build on and expand the
+solutions and services it provides to its clients both organically
+and through acquisition to help them navigate and comply
+with the ever increasing regulatory environment. we are confident in our ability
+to continue to increase both our
+capabilities and shareholder value
+moving forward
+”
+i am pleased to report to shareholders in respect of the year
+ended 31 december 2017.
+the year under review saw the company make encouraging
+progress to its longer-term objective of being a leading
+international provider of regulatory compliance software and
+professional services. over time we expect more
+demand for automation and process control which is where
+we want to provide enhanced functionality and value. we look forward to extending our technology offering by way
+of continued product development and targeted acquisitions. the acquisition of osmo contributed £1.0m to total
+revenue, comprised of £0.8m from licences and £0.2m from
+professional services. the group continually monitors market
+developments and together with its
+m&a advisor and broker, regularly
+evaluates potential acquisitions and
+partners. 248502 tax systems pp06-pp17  17/05/2018  10:57  page 17 corporate governance
+18 tax systems plc annual report 2017
+board of directors
+gavin lyons (40)
+chief executive officer (“ceo”)
+gavin is responsible for the planning, setting and execution of
+the group’s strategy as well as identifying and evaluating
+acquisition opportunities. gavin was executive chairman and
+led the company’s re-admission to aim in july 2016 and
+became chief executive officer of tax systems at the
+beginning of april 2017. gavin has had a distinguished career
+in the tmt sector completing close to 20 corporate
+transactions (including three major exits) totalling more than
+£200m. strategic:
+➢ acquisition of osmo data technology limited
+(“osmo”) on 3 april 2017 for £3.2m in shares, adding
+automation of data extraction from core erp systems to
+the group’s capabilities
+financial:
+➢ early adoption of ifrs 15 ‘revenue from contracts with
+customers’ 
+➢ y ear-on-year total revenue growth of 17% (2017: £15.1m,
+2016
+1
+: £12.9m) 
+➢ y ear-on-year organic and comparable revenue growth of
+10% (2017: £15.1m, 2016
+2
+: £13.8m)
+➢ 90% of revenue is recurring from software licences, 10%
+from professional services 
+➢ y ear-on-year organic and comparable adjusted ebitda
+3
+growth of 11% (2017: £7.0m, 2016
+2
+: £6.3m) representing
+an adjusted ebitda
+3
+margin of 46%
+➢ year-on-year reduction in net debt
+4
+of 16%
+(31 december 2017: £20.5m, 31 december 2016:
+£24.4m). growth: 
+during 2017, we achieved year-on-year revenue growth of
+17% (10% comparable organic growth) and contracted
+annuity base growth of 12% (6% comparable organic growth)
+through 114 new annuity licenses added and average order
+value growth of 9%. uk debt levels were at
+£1,720 billion for the financial year ending march 2017 which
+represented 86.7% of gross domestic product (“gdp”). uk
+deficit levels were at £46.9 billion for the same period. a key focus
+of the government, together with the regulators, is to
+increase tax revenues, reduce tax evasion and ensure
+businesses are paying their fair share of tax in order to
+support government spending and reduce the annual deficit. whilst these
+forward-looking statements are made in good faith, they are
+based upon the information available to tax systems at the
+date of this report and upon current expectations,
+projections, market conditions and assumptions about future
+events. in this business we met
+all internal and external targets including increasing our
+revenue, contracted annuity base and number of new
+customers. of particular note has been the level of cash
+generated from the business, which has allowed us the reduce
+debt levels faster than initially planned.

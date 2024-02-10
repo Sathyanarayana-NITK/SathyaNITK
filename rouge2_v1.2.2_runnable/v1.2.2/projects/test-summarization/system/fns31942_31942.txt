@@ -1,0 +1,406 @@
+strategy 
+the group provides innovative sensor systems for various complex applications and operates two 
+principal businesses, sawsense and translogik. sawsense designs and develops surface acoustic wave (or “saw”) sensor devices that can be used to 
+measure torque, pressure and/or temperature in harsh, restricted or demanding environments to very high 
+accuracy. this world leading technology has a broad range of potential uses ranging from premium value 
+custom applications through to high volume mass markets. translogik designs and markets a range of tyre pressure monitoring systems (“tpms”), products and 
+services for heavy duty off road vehicles (particularly mine-haul trucks), commercial truck and bus as well 
+as passenger cars. a more detailed review of the financial year is provided in the chairman’s statement and the chief 
+executives report. in addition to the kpi’s the statement of financial position and cash flow analysis are 
+reviewed at monthly board meetings. a statement of the directors’ responsibilities in respect of the financial statements is set out on page 23. 
+below is a brief description of the role of the board and its committees. the board 
+ 
+the board, which presently consists of three executive and two non-executive directors, meets regularly 
+throughout the year and receives timely information in a form and of a quality appropriate to enable it 
+to discharge its duties. the total 
+loss attributable to shareholders was £2.17m (2016: profit of £1.15m) resulting in a net loss per ordinary 
+share of 22.84 pence (2016: earnings of 12.90 pence). the board do not recommend payment of a 
+dividend (2016: nil). net cash balances at 30 june 2017 were £2.52m (2016: £3.65m). the pre-tax loss (before discontinued operations) totalled 
+£2.16m (2016: profit £1.60m which included the license fee of £3.04m before costs and £2.76m after costs 
+and an adjusted loss of £1.16m before the net license fee). 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+transense technologies plc 
+annual report and financial 
+statements 
+registered number 01885075 
+for the year ended 30 june 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+2 
+contents 
+ 
+directors and advisers 3 
+highlights 4 
+chairman’s statement 5 
+chief executive’s report 8 
+strategic report 10 
+statement of corporate governance 15 
+remuneration report 17 
+directors’ report 20 
+statement of directors’ responsibilities in respect of the strategic report, directors’ report and the 
+financial statements 23 
+independent auditor’s report to the members of transense technologies plc 24 
+consolidated statement of comprehensive income 30 
+consolidated balance sheet 31 
+company balance sheet 32 
+statement of changes in equity 33 
+consolidated and company cash flow statement 34 
+notes to the financial statements 35 
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+3 
+directors and advisers 
+ 
+directors  
+d m ford (chairman) 
+g storey (chief executive) 
+m segal (finance director) 
+   
+ 
+r j westhead 
+(1, 2, 3) 
+n f rogers (deputy chairman) 
+(1, 2, 3)
+ 
+ 
+1      non-executive 
+2      member of the audit and risk committee  
+3      member of the remuneration committee 
+ 
+secretary and registered office
+ 
+m segal 
+1 landscape close 
+weston business park 
+weston on the green 
+oxfordshire 
+ox25 3sx 
+auditor 
+grant thornton uk llp 
+the colmore building 
+colmore circus 
+birmingham b4 6at 
+ 
+bankers 
+hsbc bank plc 
+1 sheep street  
+bicester 
+oxon ox26 7ja 
+nominated advisers & joint brokers 
+finncap 
+60 new broad street 
+london 
+ec2m 1jj 
+ 
+joint brokers 
+beaufort securities ltd 
+63 st mary axe 
+london 
+ec3a 8aa 
+ 
+registrars 
+neville registrars 
+neville house 
+laurel lane 
+halesowen 
+b63 3da 
+registration number 01885075 
+ 
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+4 
+highlights 
+ 
+ 
+ 
+• revenues steady at £2.00m (2016 : £2.08m*) 
+• increased opex investment in product support and commercialisation  
+• pre tax loss from continuing operations for the year of £2.16m (2016: pre tax profit of £1.59m, 
+adjusted pre tax loss of £1.17m**) 
+• net cash used in operations of £0.88m (2016: net cash generated £0.84m) 
+• net cash at end of period of £2.52m (2016: £3.65m) 
+• signed significant, non-exclusive, license with general electric ("ge") for single specialist 
+application using saw technology 
+• market launch of itrack ii system for mining productivity with system now demonstrating   
+commercial successes following the adoption by major global mining companies 
+• probe sales gaining traction and first significant pcas order in july 2017 
+ 
+*   the comparative revenue of £2.08m is calculated after deducting the gross license fee of 
+£3.04m which arose from the disposal of the intellisaw division in october 2015 
+** the net adjusted pre tax loss of £1.17m is calculated by reference to the pre tax profit of £1.59m 
+less the license fee (net of costs) of £2.76m   
+ 
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+5 
+chairman’s statement 
+ 
+the group has made further significant progress over the last year in positioning each of the two core 
+businesses for future success. transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+6 
+chairman’s statement (continued) 
+as original equipment manufacturers (oems) seek ever more data on a real-time basis to optimise the 
+performance of their products, accurate and frequent measurement becomes increasingly important. this work culminated in the september 2016 launch of the itrack ii system. transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+7 
+ 
+chairman’s statement (continued) 
+new joint brokers  
+the company announced the appointment of beaufort securities limited ("beaufort") as joint broker to 
+the company to improve the service available to the large group of private investors interested in 
+transense. this increase in expenditure reflects new product support and the commercial and 
+marketing activity within translogik to launch itrack ii and deliver effective pre-contract engagement with 
+a number of key customers for this system. the group intends to continue to commercialise sensor technologies by working closely with global 
+partners in order to build value for shareholders through the generation and distribution of net income, 
+and/or the return of capital on realisation. the translogik product offerings are continually evolving with the focus on providing a comprehensive 
+service to clients in the mining and truck industry and this strategy has resulted in the successful launch 
+of the itrack ii system in september 2016. 
+our markets 
+saw sensing in global industries 
+ 
+sensor technology is widely used in virtually every industrial application across a broad range of industries, 
+contributing to many billions of dollars in revenue. the associated 
+benefits in tyre life management were evident, and were initially viewed as a means of payback for the 
+improved safety performance achieved. information on directors' emoluments is as follows: 
+ 
+    total emoluments 
+  
+ 
+basic 
+salary  
+ 
+ 
+ 
+benefits 
+ 
+ 
+ 
+pension 
+12 months 
+ended 
+30 june 2017 
+12 months 
+ended 
+30 june 2016 
+ 
+£ £ £ £ £ 
+executive 
+directors 
+     
+g storey 
+158,400 6,128 - 164,528 163,017 
+m segal 
+98,583 - 3,000 101,583 108,069 
+d ford 
+109,050 3,910  112,960 112,148 
+ 
+     
+non-executive 
+directors 
+     
+n rogers 
+30,400 - - 30,400 27,500 
+r westhead 
+12,750 - - 12,750 12,600 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+total 2017 
+409,183 10,038 3,000 422,221  
+ 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+total 2016 
+413,800 9,534 - 423,334  
+ 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+19 
+remuneration report (continued) 
+share based payment options have been granted under emi for executive directors and under the 
+unapproved directors share option scheme (udsos) for non-executives. the previous year’s options have been adjusted to reflect the 50:1 consolidation 
+  
+at 1 july 
+2016 
+ 
+at 30 june 
+2017 
+earliest 
+exercise 
+date 
+exercise 
+price per 
+share 
+hurdle 
+price per 
+share 
+directors' interests in the udsos were:      
+      
+g storey 16,100 - 22/12/12 £2.00 £4.50 
+ 
+=================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= 
+directors' interests in the emi were:      
+      
+g storey 63,900 - 22/12/12 £2.00 £4.50 
+g storey 40,000 - 01/03/14 £2.00 £4.50 
+g storey - 120,000 26/06/17 £0.75 £1.50 
+g storey - 100,000 26/06/17 £1.00 £2.00 
+d ford 63,900 - 22/12/12 £2.00 £4.50 
+d ford 6,100 - 01/03/14 £2.00 £4.50 
+d ford - 70,000 26/06/17 £0.75 £1.50 
+d ford - 100,000 26/06/17 £1.00 £2.00 
+m segal 30,000 - 02/08/14 £5.13 £10.00 
+m segal - 30,000 26/06/17 £0.75 £1.50 
+m segal - 50,000 26/06/17 £1.00 £2.00 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+share price performance 
+the share price performance is disclosed in the directors’ report on page 21.   
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+20 
+directors’ report 
+the directors present their annual report and audited financial statements for the year ended 30 june 
+2017. 
+business activities, review of the business and future developments  
+translogik, a trading division of transense, was formed in april 2009 and the principal activities of this 
+division includes the provision of tyre management solutions for the truck and otr markets, by 
+developing, manufacturing and selling of specialist tyre probes and tpms monitoring solutions and 
+associated technologies. substantial shareholdings  
+at 30 june 2017, the following substantial shareholdings of 3% or more of the company’s share capital 
+have been notified to the company: 
+ 
+ ordinary 
+shares of 
+50p each 
+ 
+ 
+% 
+   
+john peter lobbenberg  868,980 9.1 
+criseren investments 599,492 6.3 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+21 
+directors’ report (continued) 
+directors’ interests 
+the number of shares in the company in which the current directors were deemed to be interested at the 
+beginning and end of the period, all of which are beneficially held, were as follows: 
+ ordinary 
+shares of 
+50p each 
+ordinary 
+shares of 
+50p each 
+ 30 june 
+2017 
+1 july 
+2016 
+   
+g storey 78,687 78,687 
+r j westhead 5,655 5,655 
+d ford 5,555 5,555 
+m segal 22,888 22,888 
+n rogers 80,000 60,000 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+share price 
+the mid-price of the shares in the company at 30 june 2017 was 77.5p (30 june 2016: 55p) and the 
+range during the period was 50p to 118.75p (30 june 2016: 55p to 84p). the 
+risk exists that our intellectual 
+property may be infringed by third 
+parties or that we may inadvertently 
+infringe third party rights. we do not comply with the uk 
+corporate governance code. accountability, internal control and risk management 
+ 
+the directors consider that these financial statements, reports and supplementary information present 
+a fair and accurate assessment of the company’s position and prospects. transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+17 
+remuneration report 
+remuneration policy 
+the remuneration policy is to ensure that all staff, including the executive directors, are adequately 
+motivated and rewarded in relation to companies of similar size and type. revenue from continuing operations was steady compared with the prior 
+year, and the net loss for the year came in line with the board’s expectations. financial results and condition  
+revenues for the current year amounted to £2.00m, compared with £2.08m in the prior year (stated before 
+the intellisaw related license fee of £3.04m). administrative expenses increased to £3.32m from £2.54m 
+in the prior year. the pre tax loss from continuing operations for the year was £2.16m compared with a profit of £1.59m 
+and loss in the prior year adjusted for the effects of the net intellisaw licence fee of £1.17m. the cash resources do 
+however remain strong moving into 
+fy18 and the board exert tight 
+controls on overheads and monitor 
+cash flow regularly and do not 
+presently foresee any immediate 
+requirement for raising further 
+funds. the company continues the development of non-contact batteryless sensors and their electronic 
+interrogation systems for measuring pressure, temperature and torque in automotive applications and 
+extending that to various, non-automotive, industrial applications with regards the electronic interrogation. the prior year share price has 
+been adjusted to reflect the 50:1 share consolidation referred to in note 23. 
+share based payment option schemes 
+the remuneration committee is responsible for the operation and administration of the company’s 
+udsos and emi schemes. overview of our audit approach 
+• overall group materiality: £60,000, which represents 3% of the 
+group’s revenue. regular reviews are undertaken to 
+assess the nature and magnitude of risks faced and the manner in which they may be mitigated. these procedures include 
+an annual review of the significant risks faced by the group and an assessment of their potential impact 
+and likelihood of occurrence. the board is satisfied with the effectiveness of internal controls but, by 
+their very nature, these procedures can only provide reasonable, but not absolute, assurance against 
+material misstatement or loss. an internal audit function 
+is therefore considered unnecessary.

@@ -1,0 +1,105 @@
+the key risks and uncertainties facing 
+edp and the measures taken to mitigate these risks are as follows: electronic data processing plc annual report and accounts 2017 7
+governance notice of meeting strategic report financial statements
+risk potential impact mitigation
+external economic factors as with most other businesses 
+in the uk, our operations can be 
+adversely affected by a significant 
+downturn in the economy.the group does not have any other significant environmental, employee, social, community or human rights issues.directors’ statement as to disclosure of information to auditor
+the directors who were members of the board on the date the directors’ report was approved have confirmed the following:
+• to the best of each director’s knowledge and belief there is no information relevant to their report of which the auditor is unaware; and
+• each director has taken all the steps a director might reasonably be expected to take to be aware of relevant audit information 
+and to establish that it has been communicated to the auditor.the non-executive directors are encouraged to constructively challenge the 
+executive directors and help develop proposals on strategy.in addition to his role as non-executive chairman of the company, sir michael heller is executive chairman of london & associated 
+properties plc and bisichi mining plc, both of which are listed on the london stock exchange.the committee is responsible for proposing 
+candidates for appointment to the board, having regard to the balance of skills, experience and knowledge of the company on the board, 
+how the board works together as a unit and other factors relevant to its effectiveness.appointments to the board are recommended by the nomination committee on 
+the basis of the experience and abilities of the candidate, regardless of gender or race.compliance
+the group complied with the provisions of the code throughout the period under review other than as detailed below:
+a)  the group’s non-executive directors have not been appointed for specified terms.the main responsibilities of the audit committee are:
+• to monitor the adequacy of the group’s internal financial controls;
+• to take primary responsibility for appointing and re-appointing auditors;
+• to review and monitor the scope, results and cost effectiveness of the external audit process;
+• to monitor the procedures in place to safeguard the objectivity of the auditor and its independence in relation to non-audit services;
+• to review the key assumptions and estimates or judgements that have been applied by management in the published financial 
+statements; and
+• to consider the need for an internal audit function.the bonus is awarded at the discretion of the remuneration committee.• the risk – accounting application: the group’s contracts with its customers involve the delivery of multiple services.although the contracts entered into by the 
+group are of limited complexity and variety, there are a large number of transactions to be processed as a result there is a risk that not 
+all revenue is recognized in the appropriate period.• the risk – accounting treatment – the capitalisation criteria are inherently judgmental and there is a risk that qualifying projects may 
+not be identified.independent auditor’s report continued
+to the members of electronic data processing plc 25
+governance notice of meeting strategic report
+electronic data processing plc annual report and accounts 2017
+financial statements
+6 we have nothing to report on the other matters on which we are required to report by exception 
+under the companies act 2006, we are required to report to you if, in our opinion: 
+• adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received 
+from branches not visited by us; or 
+• the parent company financial statements and the part of the directors’ remuneration report to be audited are not in agreement 
+with the accounting records and returns; or 
+• certain disclosures of directors’ remuneration specified by law are not made; or 
+• we have not received all the information and explanations we require for our audit.to the fullest extent permitted by law, we do not accept or assume responsibility to anyone 
+other than the company and the company’s members, as a body, for our audit work, for this report, or for the opinions we have formed.the group controls an entity when it is exposed to, or has rights to, variable returns from 
+its involvement with the entity and has the ability to affect those returns through its power over the entity.the acquisition date is the date on which control is transferred to the acquirer.periodic service charges are recognised 
+evenly over the contract term, reflecting the group’s obligation to support the software and maintain the provision of the hosted service 
+throughout the contract period.research and development
+expenditure on research activities, undertaken with the prospect of gaining new technical knowledge and understanding, is recognised 
+in the income statement as incurred.on initial classification 
+as held for sale, non-current assets are measured at the lower of previous carrying amount and fair value less costs to sell, with any 
+adjustments taken to the income statement.the credit is presented in the income statement as a deduction 
+from the current tax expense to the extent that the entity is entitled to claim the credit in the current reporting period.the premiums relating to defined contribution schemes 
+are charged to the income statement in the period in which they accrue.the main areas of estimation and accounting judgement are:
+estimates
+employee benefits
+the calculation of the deficit or surplus on the group’s defined benefit pension scheme is based on a number of actuarial assumptions 
+including discount rate, future rate of inflation and future changes in mortality rates.details of the sensitivity of the defined benefit obligation to changes in the key actuarial assumptions 
+are provided in note 21 to the consolidated financial statements.this note presents material information about the group’s exposure to each of the above risks, the group’s objectives, policies and 
+procedures for measuring and managing risk, and the group’s management of capital.credit risk
+credit risk is the risk of financial loss to the group if a customer or counterparty to a financial instrument fails to meet its contractual 
+obligations and arises principally from the group’s receivables from customers and investments.the directors are reviewing the 
+company’s standard hosting agreements in accordance with this guidance to identify the distinct services promised in a hosting contract 
+and to determine the amount of revenue, and its timing, that should be allocated to each of these services.details of directors’ remuneration are given in the directors’ 
+remuneration report.interest rates on these investments are fixed for the duration of the term.amounts recognised in the income statement
+2017 2016
+ £’000 £’000
+the following amounts have been included within administrative expenses within 
+the consolidated income statement:
+net interest expense 86 84 
+amounts recognised in other comprehensive income
+2017 2016
+£’000 £’000
+remeasurement gain/(loss):
+return on plan assets excluding interest income 3,360 601 
+experience (losses)/gains arising on the defined benefit obligation (90) 111 
+actuarial gains arising from changes in demographic assumptions 250 163 
+actuarial gains/(losses) arising from changes in financial assumptions 689 (2,409)
+4,209 (1,534)
+reconciliation of present value of scheme obligations
+2017 2016
+£’000 £’000
+present value of obligations at 1 october 11,633 9,374
+interest cost 254 343
+remeasurement (gain)/loss (849) 2,135
+benefits paid (214) (219)
+present value of obligations at 30 september 10,824 11,633 47
+governance notice of meeting strategic report
+electronic data processing plc annual report and accounts 2017
+financial statements
+21. employee benefits – pensions continued
+reconciliation of the fair value of scheme assets
+2017 2016
+ £’000 £’000
+fair value of assets at 1 october 7,750 7,109
+interest income 168 259
+remeasurement gain 3,360 601 
+benefits paid (214) (219)
+fair value of assets at 30 september 11,064 7,750
+sensitivity analysis
+changes at the balance sheet date to one of the relevant actuarial assumptions, holding other assumptions constant, would have affected 
+the defined benefit obligation by the percentages shown below:
+change in assumption change in liabilities
+discount rate decrease of 0.25% p.a.development 
+expenditure is capitalised only if development costs can be measured reliably, the product or process is technically and commercially feasible, 
+future economic benefits are probable, and the group intends to and has sufficient resources to complete development and to use or sell 
+the asset.details of directors’ remuneration are given in the directors’ 
+remuneration report.

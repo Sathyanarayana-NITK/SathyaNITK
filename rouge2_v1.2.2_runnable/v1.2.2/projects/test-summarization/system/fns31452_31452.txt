@@ -1,0 +1,245 @@
+by their nature, forward-looking statements  
+are inherently predictive and speculative and involve risk and uncertainty because they relate to events and depend on circumstances that will occur in the 
+future. you should not place undue reliance on these forward-looking statements, which are not a guarantee of future performance and are subject to factors 
+that could cause our actual results to differ materially from those expressed or implied by these statements. pervasive cyber security threats 
+cyberattacks are a global threat. a natural 
+consequence is a reduction in expenditure 
+as we cease or scale back activities outside 
+this focus area. notes
+1. before exceptional items, acquired intangible asset amortisation, goodwill and acquired intangible asset impairment and share-based payment  
+amounting to $15.2 million in total (2016 $87.6 million). global ip traffic
+1
+16 96
+exabytes per month
+17 122
+18 151
+19 189
+21 278
+cagr 24%
+20 228
+source
+1. cisco “visual networking index forecast 
+and methodology 2016-2021” (6 june 2017). global distributed denial of service (ddos) attacks
+2
+cagr 20%
+16 1.3
+17 1.6
+18 2.0
+19 2.3
+21 3.1
+20 2.7
+millions per month
+sources
+1. ponemon institute and accenture “cost of cybercrime 
+study” (2017). the average annualised cost of  
+cybercrime worldwide is $11.7 million 
+per company and ransomware attacks 
+have doubled in frequency¹. • china telecom selected our spirent 
+umetrix® voice solution to measure 
+the voice quality of smartphones. • spirent’s securitylabs service provides 
+security expertise to identify and assess 
+network and application vulnerabilities. • we have helped major manufacturers consolidate and 
+automate their labs. • china telecom selected our spirent umetrix® voice 
+solution for voice quality testing. connecting a 
+smarter future
+spirent communications plc 
+annual report 2017
+spirent communications plc annual report 2017 our purpose
+we innovate to help the world communicate and 
+collaborate faster, better and more securely. read more on pages 32 to 35  read more on pages 36 to 39  read more on pages 40 to 43
+percentage  
+points
+spirent communications plc annual report 2017
+1
+strategic report corporate governance financial statements other information
+strategic report
+results and highlights making
+connections
+in a world of
+opportunity
+spirent communications plc annual report 2017
+2 focus and 
+differentiation gives 
+spirent its edge. connect
+performance
+safe and 
+secure
+spirent communications plc annual report 2017
+3
+strategic report corporate governance financial statements other information increasing
+traffic in a
+connected
+world
+spirent communications plc annual report 2017
+4 our products  
+and services 
+keep our 
+customers ahead 
+of traffic growth. spirent communications plc annual report 2017
+5
+strategic report corporate governance financial statements other information better
+networks,
+lower costs
+spirent communications plc annual report 2017
+6 we are accelerating 
+the move to  
+virtualised networks. we help our customers develop new and better 
+products and networks and ensure, in turn,  
+that their customers get the best performance. we help the  
+world connect
+cautionary statement regarding forward-looking statements
+this annual report may contain forward-looking statements which are made in good faith and are based on current expectations or beliefs, as well as 
+assumptions about future events. the company undertakes no obligation to update 
+any forward-looking statements contained in this annual report, whether as a result of new information, future events or otherwise. connected devices
+• we delivered a strong performance 
+turnaround, by materially reducing 
+costs and focusing on our core 
+areas of differentiation, returning 
+to solid profitability. we use our skills and expertise in test 
+methodologies, automation, analytics 
+and active testing to provide test and 
+service assurance solutions. • we have test management and 
+automation solutions to reduce cost 
+and time for test suite development 
+and management of system testing. what we do
+develop performance and security test systems to 
+accelerate the development of new devices, networks 
+and applications for high-speed ethernet/ip, mobile 
+and global satellite navigation systems. • we are the industry leader in global navigation 
+satellite test systems. contents
+strategic report
+1 results and highlights
+2 connecting a smarter future
+10 business at a glance
+12 chairman’s statement
+14 chief executive officer’s strategic review
+18 market trends
+20 our business model
+22 strategy at a glance
+24 key performance indicators
+26 risk management
+28 principal risks and uncertainties
+32 operating review
+44 financial review
+50 sustainability
+corporate governance 
+55 chairman’s introduction to governance
+56 board of directors
+58 directors’ statement on corporate governance
+66 nomination committee report
+68 audit committee report
+74 report on directors’ remuneration
+94 directors’ report
+98 directors’ responsibilities statement
+financial statements
+99 independent auditor’s report
+108 consolidated income statement
+109 consolidated statement of 
+comprehensive income
+110 consolidated balance sheet
+111 consolidated cash flow statement
+112 consolidated statement of changes in equity
+113 notes to the consolidated  
+financial statements
+150 parent company balance sheet
+151 parent company statement  
+of changes in equity
+152 notes to the parent company  
+financial statements
+166 full list of subsidiary undertakings
+other information
+168 financial history
+170 shareholder information
+171 glossary
+ibc contact details performance highlights
+financial highlights
+revenue 
+$454.8m  
+-1%
+2016 $457.9m
+adjusted operating profit
+1
+$58.9m 
++27%
+2016 $46.5m
+adjusted operating margin
+1
+13.0%
++2.8  
+2016 10.2%
+profit/(loss) before tax
+$46.6m
++$92.6m
+2016 $46.0m loss
+free cash flow² 
+$56.4m 
++118%
+2016 $25.9m
+adjusted basic  
+earnings per share³
+7.55c 
++43%
+2016 5.29c
+dividend  
+per share 
+4.08c 
++5%
+2016 3.89c
+special dividend 
+per share
+5.00c 
+ 
+2016 nil
+networks & security 
+• strong growth in our positioning and 
+application security businesses was 
+offset by some softness in high-
+speed ethernet testing as customers 
+transition to new 400g platforms. lifecycle service assurance 
+• lifecycle service assurance 
+revenue grew 10 per cent, boosted 
+by winning fifteen $1 million+ deals. 2. operating cash flow after tax, net interest and net capital expenditure. 3. adjusted basic earnings per share is based on adjusted earnings as set out in note 12 of notes to the full year consolidated financial statements. • we remain the world’s leading 
+vendor of global navigation satellite 
+simulators and released the gnss 
+vulnerabilities and threats test suite. • we launched the first automotive 
+ethernet protocol conformance 
+and performance test system. • we released our spirent elevate iot 
+device test solution, a cellular test 
+solution designed to support a wide 
+range of iot applications. we are positioned to capitalise on this 
+relentless traffic growth:
+• we are the leading provider of high-speed 
+ethernet performance test systems. • we grew our market share in high-
+speed ethernet performance test 
+systems and participated in several 
+first-to-market demonstrations. • we expanded our footprint in our 
+three largest tier 1 mobile operator 
+customers, winning four new  
+tier 1 deployments, addressing 
+critical challenges in the roll 
+out of virtual networks and 
+business mobile services. we design 
+cutting-edge products and services 
+that accelerate the development of new 
+products and networks and keep the 
+world’s networks up and running, measure 
+and optimise their performance, and 
+ensure they are safe and secure. • we have products to benchmark 
+ethernet services, mobile networks and 
+virtual network functionality performance 
+in the lab and in the network. you can sometimes, but not always, identify these statements by the use of a date in the future or such words as “will”, 
+“anticipate”, “estimate”, “expect”, “project”, “intend”, “plan”, “should”, “may”, “assume” and other similar words. • we increased the coverage of 
+our flagship security product 
+(spirent cyberflood) with support for 
+ransomware, internet of things (iot), 
+industrial controls and distributed 
+denial of service (ddos) attacks. • we participated in high-profile 
+demonstrations at tm forum live in 
+nice in a joint demonstration with 
+at&t, orange, tim, huawei, ibm, 
+infosys and tech mahindra and at 
+mobile world congress in shanghai 
+with china mobile research institute. • we divested device intelligence (di) 
+and developer tools (dt) on 
+30 june 2017 as part of our 
+portfolio review.

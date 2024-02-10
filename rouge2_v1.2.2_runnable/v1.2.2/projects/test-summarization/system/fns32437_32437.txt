@@ -1,0 +1,267 @@
+annual  
+report 
+and 
+accounts
+year ended
+31 march  
+2017
+company no: 06223359
+annual report and accounts year ended 31 march 2017 this annual report contains forward-looking 
+statements. these include, but are not limited to, 
+statements regarding:    
+ the growth and prospects of the digital 
+advertising industry;  
+ forecasts regarding internet usage and 
+advertising spend; 
+ 
+  projected levels of growth in our markets; 
+ 
+  our expectations about the factors that  
+drive business; 
+ 
+ the growth of our business and revenues;  
+ 
+ the potential for declines in our revenue;  
+ 
+  our plans to continue to invest in our  
+people, processes and products;  
+ 
+ our plans to continue our current pace  
+of acquisitions;  
+  our investments in international  
+and emerging markets and sectors;  
+  estimates of future compensation expenses;  
+  our plans to use funds;  
+  operating expenses; and 
+  other statements regarding our prospects,  
+and business strategies. this report contains additional trade 
+names and trademarks of other companies. neither the content of the company’s website 
+(or any other website) nor the content of any website 
+accessible from hyperlinks on the company’s website 
+(or any other website) is incorporated into, or forms 
+part of, this report. by their nature, forward-looking statements involve 
+risk and uncertainty because they relate to future 
+events and circumstances, including, but not limited 
+to, us and uk domestic and global economic and 
+business conditions, the effects of blogs and media 
+coverage, the effects of continued volatility in credit 
+markets, market-related risks such as changes in 
+interest rates and exchange rates, the policies and 
+actions of governmental and regulatory authorities, 
+changes in legislation, the further development of 
+standards and interpretations under international 
+financial reporting standards (ifrs) applicable to 
+past, current and future periods, evolving practices 
+with regard to the interpretation and application of 
+standards under ifrs, the outcome of pending and 
+future litigation, the success of future acquisitions 
+and other strategic transactions, and the impact 
+of competition—a number of which are beyond 
+rhythmone’s control. as used herein, “rhythmone,” “the company,” 
+“the group,” “we,” “our,” and similar terms include 
+rhythmone plc and its subsidiaries, unless the 
+context indicates otherwise. we do 
+not intend our use or display of other companies’ 
+trade names or trademarks to imply an endorsement 
+or sponsorship of us by such companies, or any 
+relationship with any of these companies. except as required by the financial conduct 
+authority (fca), alternative investment market 
+(aim), or applicable law, rhythmone expressly 
+disclaims any obligation or undertaking to release 
+publicly any updates or revisions to any forward-
+ any changes in rhythmone’s expectations with 
+regard thereto or any changes in events, conditions 
+or circumstances on which any such statement is 
+based. division ofresponsibilities
+there is a clear division of responsibility at the head of the company between the running of the board, which is delegated to the
+chairman, mr. raj chellaraj, and the executive responsibility for the running of the company’s business, which is delegated to the chief
+executive officer, mr. subhransu (“brian”) mukherjee. rajchellaraj
+based in palo alto, california, raj currently serves as the non-executive chairman of
+rhythmone plc. (lse aim: rthm) he also serves as associate dean for finance and
+administration at the stanford business school and as the chief operating officer at the
+stanford institute for innovation in developing economies (seed). previously, he was a senior executive officer at the united states mint in washington
+dc. 27 boardofdirectors
+the directors who served throughout the year to 31 march 2017 and to the date of this report were as follows:
+name age position
+raj chellaraj 61 non-executive chairman
+s. brian mukherjee 50 executive director
+suranga chandratillake 39 non-executive director
+mark opzoomer 60 non-executive director
+ujjal kohli 58 non-executive director
+andy cunningham 60 non-executive director
+ted hastings 43 executive director
+on 10 february 2017, ted hastings joined the board of directors as an executive director. raj holds an m.p.a. 28 suranga chandratillake
+suranga is a general partner at balderton capital. suranga also
+serves on the boards of banjo, contentful, dalia research, tab media and vivino. none of these statements should 
+be construed as a recommendation to invest in the 
+company. safe harbor disclosure contents
+strategic report
+key highlights  2 
+business overview  4 
+chairman’s statement  9 
+ceo’s report  10 
+cfo‘s report  12 
+corporate strategy  16 
+commercial model  23
+governance 
+corporate governance report  25
+board of directors  28
+remuneration committee report  31 
+audit committee report  34 
+nomination committee report  36 
+directors’ report  37
+financials 
+independent auditors’ report  41 
+consolidated income statement  43 
+consolidated balance sheet   45 
+consolidated cash flow statement  47 
+notes to financial statements  48 
+shareholder information and advisors 80 
+glossary  81 key highlights
+2
+fy2017 was a pivotal year for rhythmone. chairman’s statement
+raj chellaraj 
+chairman of the board  
+of directors 10
+ceo’s report
+subhransu (“brian”) 
+mukherjee 
+chief executive officer 11
+the company’s  
+core product  
+investments and  
+initiatives have  
+provided the  
+structure for  
+continued  
+organic and  
+inorganic growth 
+as the company  
+forward-integrates 
+through the value 
+chain, streamlining 
+the value exchange 
+between consumers 
+and advertisers. roleandcomposition oftheboard
+the board’s role is to provide entrepreneurial leadership to the company. with a return to underlying 
+
+ 
+ financial
+ operations and governance
+ side
+
+
+ products
+
+  1. core revenue is revenue recognized within continuing operations in the 
+ 2. non-core revenue is revenue recognized within discontinued operations
+ discontinued operations. ebitda
+$1.4m
+($10.5m)
+net cash &  
+marketable  
+securities
+$75.2m
+$78.5m 4
+rhythmone
+ market outlook
+ dominance of programmatic trading
+         business overview
+advertising 
+ecosystem
+devices
+content
+rhythmone
+audiences brands 5
+               2020
+ 
+   2020
+     2020
+source: emarketer comparative estimates, 2017
+
+ 6
+strategy
+ operating model
+ operating 
+model
+devices
+content
+rhythmone
+audiences publishers agents brands 7
+ outlook
+ revenue 
+equation
+deﬁnitions: 
+volume: t otal number of ad requests processed through the platform and available to monetize 
+fill: proportion of ad requests actually monetized, based on ﬁltering, targeting and availability of demand  
+price: weighted average price of inventory across all ad formats ﬂowing through the platform
+=
+volume
+fill  
+rate
+price revenue 8
+rhythmone has grown into a significant digital advertising 
+entity with massive scale, cutting-edge technology and quality, 
+differentiated supply. 13
+fy2017 was a pivotal year for rhythmone, as the  
+company achieved its stated goal for the period  
+with a return to full-year growth and underlying 
+profitability on an adjusted ebitda basis. 14
+principal risks and uncertainties
+ these innovations. millions fy2017 1
+  $149.0   2
+  $26.4  3
+  $175.4 4
+  $1.4  5
+  $75.2   2 3
+fy2017 was a pivotal year for rhythmone...  
+the company reinforced its position as a leading 
+multi-channel, multi-format programmatic  
+platform with significant scale, cutting-edge 
+technology and unique, high-quality inventory. time period: fy2017 (top) , fy2016 (bottom)
+total 
+revenue
+3
+$175.4m
+$166.7m
+adj. richard o’connor 
+chief financial officer
+12
+kpi 2017 vs. 2016
+2017 2016 2017 2016
+ 1
+     2
+          
+           1.0
+      cfo’s report
+ 2017 2016
+ 10.2 2.0 4
+  1
+
+ earnings and tax
+ trading platform. 16
+corporate strategy
+2016 2017 2018 2019 2020 2021
+source: emarketer, march 2017
+us total ad spend, by media 2016–2021 ($b)
+digital          tv           traditional (ex. as chairman, mr. chellaraj is responsible for leadership of the board, setting the
+board’s agenda, and ensuring that there is sufficient time available for discussion of all agenda items. it also meets outside of the formal schedule of meetings as and when required. if the chairman is absent, another non-executive director is appointed chairman for that meeting. at certain times, where there may
+be a perceived conflict due to the subject matter of a meeting, a director is recused from that meeting. in business and government policy from harvard university, an m.b.a. in
+finance from new york university, an m.s. in chemical engineering from clarkson university and a b.s. in chemical engineering from
+madras university, india. (honors)
+degrees in engineering, and an m.b.a. (honors) from the university of chicago, booth school of
+business. “rhythmone” and other 
+trademarks of ours appearing in this report are 
+our property. the board convenes at regular scheduled intervals and follows a formal agenda of matters specifically reserved for discussion, including
+such matters as:
+  determining the group’s strategy;
+  ensuring open and informative communication with shareholders;
+  reviewing and managing risks;
+  evaluating major capital expenditures;
+  evaluating material contracts to be entered into;
+  shaping key operational policies;
+  reviewing and approving the group’s business plan and forecasts;
+  measuring performance; and
+  approving the annual and interim financial statements. informationandsupport
+the board is supplied with information in a form that enables it to discharge its responsibilities effectively. trading updates and press releases are issued as appropriate and the company’s brokers provide information on shareholder opinion
+and compile independent feedback from investor meetings.

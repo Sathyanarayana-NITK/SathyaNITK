@@ -1,0 +1,394 @@
+oct technology dominates the retinal scanning and imaging 
+arena, but the longer term development partnerships we have 
+with medical diagnostic companies in the areas of cardiovascular 
+disease and cancer detection are now moving to the prototype 
+and early commercial model stage, with the prospect of new 
+product launches in the near future.the products supplied into this market span the complete 
+breadth of the company’s technology portfolio.the adjusted effective rate of tax was 25.2% (2016: 27.3%), 
+the reduction caused by a number of factors including a lower 
+applicable corporate tax rate in the uk, tax deductions being 
+available on intangibles on recent us acquisitions and certain 
+one off effects in the prior year.the effective rate of tax of 
+29.4% (2016: 30.2%) was higher than the adjusted effective 
+rate because of the effect of the interest charge on deferred 
+consideration which is not subject to tax, and the restructuring 
+and acquisition costs being incurred in the uk which has a lower 
+tax rate than the overall rate for the group.these 
+measures are used to illustrate the impact of non-recurring and 
+non-trading items on the company’s financial results.aerospace & defence (a&d)
+a&d revenue was £34.9 million, up 74.5% on last year, 
+benefitting from the full year effect of the two acquisitions in 
+fy16 and the acquisition of stingray in fy17.the majority of this growth was driven by a strong 
+performance in our optical coherence tomography (“oct”) 
+market driven largely by our customers’ development cycles.as a result of two key customers delaying the delivery of product 
+from existing orders, kent periscopes did not reach its threshold 
+for the first tranche of its earn-out to be triggered.staff
+the group workforce increased from 755 at 30 september 
+2016 to 823 at the end of september 2017, an increase of 68. 
+this is a net position and therefore reflects both the work the 
+business has done in driving efficiency improvements and the 
+financial and operating review gooch & housego plc
+annual report 2017  |  25
+stra tegic report
+additional headcount that has come from the recent 
+acquisitions and investment in capacity.the company also purchased and maintained throughout the 
+financial year directors’ and officers’ liability insurance in respect 
+of itself and its directors.the directors holding office during 
+the period of this report and their biographies are detailed 
+from page 28 and are also available on our website;  
+www.goochandhousego.com
+the board focuses on formulation of strategy, management 
+of effective business controls and review of business 
+performance.group
+stingray
+we reviewed the underlying transactions, tested the fair value of the assets and liabilities 
+acquired together with the intangible assets identified as part of the purchase price allocation 
+and reviewed the disclosures in the financial statements.we believe that profit before tax is the primary 
+measure used by the shareholders in assessing 
+the performance of the entity, and is a generally 
+accepted auditing benchmark.conclusions relating to going concern
+we have nothing to report in respect of the following matters 
+in relation to which isas (uk) require us to report to you when: 
+•  the directors’ use of the going concern basis of accounting in 
+the preparation of the financial statements is not 
+appropriate; or 
+•  the directors have not disclosed in the financial statements any 
+identified material uncertainties that may cast significant doubt 
+about the group’s and parent company’s ability to continue to 
+adopt the going concern basis of accounting for a period of at 
+least twelve months from the date when the financial 
+statements are authorised for issue.responsibilities for the financial statements and
+the audit
+responsibilities of the directors for the financial 
+statements
+as explained more fully in the statement of directors’ 
+responsibilities set out on pages 31 and 32, the directors are 
+responsible for the preparation of the financial statements in 
+accordance with the applicable framework and for being satisfied 
+that they give a true and fair view .in our opinion, the part of the directors’ remuneration report 
+to be audited has been properly prepared in accordance with 
+the ca06.mark ellis (senior statutory auditor)
+for and on behalf of pricewaterhousecoopers llp 
+chartered accountants and statutory auditors 
+bristol
+28 november 2017
+report on the audit of the financial statements gooch & housego plc
+annual report 2017  |  47
+financial st a tements
+group income statement
+for the year ended 30 september 2017
+group statement  of comprehensive income
+for the year ended 30 september 2017
+ 
+note
+2017 
+£’000
+2016 
+£’000
+revenue 7 112,016 86,051
+cost of revenue (65,937) (53,752)
+gross profit 46,079 32,299
+research and development (8,119) (6,697)
+sales and marketing (9,459) (6,469)
+administration (16,937) (11,425)
+other income and expenses 9 1,714 2,476
+operating profit 11 13,278 10,184
+finance income 12 27 39
+finance costs 12 (703) (127)
+profit before income tax expense 12,602 10,096
+income tax expense 13 (3,710) (3,048)
+profit for the year 8,892 7,048
+basic earnings per share 15 36.4p 29.1p
+diluted earnings per share 15 35.8p 28.6p
+reconciliation of operating profit to adjusted operating profit:
+ 
+note
+2017 
+£’000
+2016 
+£’000
+profit before tax 12,602 10,096
+amortisation of acquired intangible assets 17 2,202 1,263
+gain on bargain purchase – (578)
+release of accrued contingent consideration (615) –
+impairment of goodwill 17 615 771
+provision for regulatory compliance risk 23 – 500
+restructuring costs 11 536 1,652
+transaction fees 11 390 466
+interest on discounted deferred consideration 381 –
+adjusted profit before tax 16,111 14,170
+ 
+note
+2017 
+£’000
+2016 
+£’000
+profit for the year 8,892 7,048
+other comprehensive (expense) / income – items that may be reclassified subsequently 
+  to profit or loss
+currency translation differences 26 (1,410) 5,954
+other comprehensive (expense) / income for the year net of tax (1,410) 5,954
+t otal comprehensive income for the year  attributable to the shareholders of gooch & housego plc 7,482 13,002 gooch & housego plc
+48  |  annual report 2017
+financial st a tements
+group balance sheet
+as at 30 september 2017
+ 
+note
+2017 
+£’000
+2016 
+£’000
+non-current assets
+property, plant and equipment 16 33,890 32,384
+intangible assets 17 40,250 29,916
+deferred income tax assets 24 2,703 2,674
+76,843 64,974
+current assets
+inventories 18 21,078 18,973
+income tax assets 267 394
+trade and other receivables 19 24,723 22,679
+cash and cash equivalents 20 26,425 23,167
+72,493 65,213
+current liabilities
+trade and other payables 21 (23,758) (19,624)
+borrowings 22 (6) (4)
+income tax liabilities (579) (891)
+provision for other liabilities and charges 23 (888) (940)
+deferred consideration (4,286) –
+(29,517) (21,459)
+net current assets 42,976 43,754
+non-current liabilities
+borrowings 22 (11,492) (11,494)
+deferred income tax liabilities 24 (5,938) (4,806)
+deferred consideration (4,253) (2,256)
+(21,683) (18,556)
+net assets 98,136 90,172
+shareholders’ equity
+called up share capital 25 4,903 4,852
+share premium account 26 15,530 15,530
+merger reserve 26 4,640 2,671
+cumulative translation reserve 26 5,574 6,984
+retained earnings 26 67,489 60,135
+total equity 98,136 90,172
+the financial statements for gooch & housego plc, registered number 00526832, on pages 47 to 76 were approved by the 
+board of directors on 28 november 2017 and signed on its behalf by:
+mark webster  andrew boteler 
+director   director gooch & housego plc
+annual report 2017  |  49
+financial st a tements
+note  
+ 
+called up 
+share 
+capital 
+£’000
+share 
+premium 
+account 
+£’000
+merger 
+reserve 
+ 
+£’000
+retained 
+earnings 
+ 
+£’000
+cumulative 
+translation 
+reserve 
+£’000
+total 
+equity 
+ 
+£’000
+at 1 october 2015 4,818 15,530 2,671 54,318 1,030 78,367
+profit for the financial year – – – 7,048 – 7,048
+other comprehensive income for the year – – – – 5,954 5,954
+total comprehensive income for the year – – – 7,048 5,954 13,002
+dividends 14 – – – (2,055) – (2,055)
+shares issued 34 – – (34) – –
+fair value of employee services – – – 638 – 638
+tax credit relating to share option schemes – – – 220 – 220
+t otal contributions by and distributions to owners 
+of the parent recognised directly in equity
+34 – – (1,231) – (1,197)
+at 30 september 2016 4,852 15,530 2,671 60,135 6,984 90,172
+at 1 october 2016 4,852 15,530 2,671 60,135 6,984 90,172
+profit for the financial year – – – 8,892 – 8,892
+other comprehensive income for the year – – – – (1,410) (1,410)
+total comprehensive income / (expense) 
+for the year
+– – – 8,892 (1,410) 7,482
+dividends 14 – – – (2,289) – (2,289)
+shares issued 51 – 1,969 (15) – 2,005
+fair value of employee services – – – 587 – 587
+tax credit relating to share option schemes – – – 179 – 179
+t otal contributions by and distributions to owners 
+of the parent recognised directly in equity
+51 – 1,969 (1,538) – 482
+at 30 september 2017 4,903 15,530 4,640 67,489 5,574 98,136
+group statement of changes in equity
+for the year ended 30 september 2017 gooch & housego plc
+50  |  annual report 2017
+financial st a tements
+group cash flow statement
+for the year ended 30 september 2017
+2017 
+£’000
+2016 
+£’000
+cash flows from operating activities
+cash generated from operations 19,526 13,897
+income tax paid (1,957) (1,324)
+net cash generated from operating activities 17,569 12,573
+cash flows from investing activities
+acquisition of subsidiaries, net of cash acquired (5,658) (5,687)
+purchase of property, plant and equipment (5,799) (9,710)
+sale of property, plant and equipment 29 –
+purchase of intangible assets (604) (629)
+interest received 27 39
+interest paid (326) (111)
+net cash used in investing activities (12,331) (16,098)
+cash flows from financing activities
+drawdown of borrowings 5,918 5,426
+repayment of borrowings (5,523) (39)
+dividends paid to ordinary shareholders (2,289) (2,055)
+net cash (used in) / generated from financing activities (1,894) 3,332
+net increase / (decrease) in cash 3,344 (193)
+cash at beginning of the year 23,167 22,556
+exchange (losses) / gains on cash (86) 804
+cash at the end of the year 26,425 23,167 gooch & housego plc
+annual report 2017  |  51
+financial st a tements
+notes to the group cash flow statement
+for the year ended 30 september 2017
+reconciliation of cash generated from operations
+2017 
+£’000
+2016 
+£’000
+profit before income tax 12,602 10,096
+adjustments for:
+– amortisation of acquired intangible assets 2,202 1,263
+– amortisation of other intangible assets 199 355
+– gain on bargain purchase of alfalight – (578)
+– impairment of goodwill 615 771
+– release of accrued contingent consideration (615) –
+– depreciation 3,664 3,042
+– share based payment charge 587 638
+– amounts claimed under the rdec (370) (270)
+– finance income (27) (39)
+– finance costs 703 127
+total 6,958 5,309
+changes in working capital
+– inventories (1,442) 223
+– trade and other receivables (1,465) (4,436)
+– trade and other payables 2,873 2,705
+total (34) (1,508)
+cash generated from operating activities 19,526 13,897
+reconciliation of net cash inflow to movements in net cash
+2017 
+£’000
+2016 
+£’000
+increase / (decrease) in cash in the year 3,344 (193)
+drawdown of borrowings (5,918) (5,426)
+repayment of borrowings 5,523 39
+changes in net cash resulting from cash flows 2,949 (5,580)
+finance leases acquired – (25)
+translation differences 310 (55)
+movement in net cash in the year 3,259 (5,660)
+net cash at 1 october 11,668 17,328
+net cash at 30 september 14,927 11,668
+analysis of net cash
+at 1 oct 2016 
+ 
+£’000
+cash flow 
+ 
+£’000
+exchange 
+movement 
+£’000
+at 30 sep 2017 
+ 
+£’000
+cash at bank and in hand 23,167 3,344 (86) 26,425
+debt due after 1 year (11,474) (402) 396 (11,480)
+finance leases (25) 7 – (18)
+net cash 11,668 2,949 310 14,927 gooch & housego plc
+52  |  annual report 2017
+financial st a tements
+notes to the financial statements
+for the year ended 30 september 2017
+1. general information
+gooch & housego plc (the “company”) is incorporated and 
+domiciled in the united kingdom.the group has 
+facilities in the united kingdom, germany and the united states.ifrs 16 leases 
+this new standard will apply to the group for the first time in the 
+year ending 30 september 2020. following adoption of the 
+standard, management expect all of the group’s operating leases 
+to be reclassified onto the balance sheet.the excess of the costs of 
+a business combination over the fair value of the identifiable net 
+assets acquired is recorded as goodwill.the financing charge 
+which arises on the discounted consideration between the 
+acquisition date and the date of payment is included within 
+finance costs.c. subsidiaries 
+the results and financial position of subsidiaries that have a 
+functional currency different from the presentation currency 
+are translated into the presentation currency as follows:
+•  assets and liabilities for each balance sheet presented are 
+translated at the closing rate at the date of that balance sheet;
+•  income and expenses for each income statement are translated 
+at average exchange rates (unless this average is not a 
+reasonable approximation of the cumulative effect of the rates 
+prevailing on the transaction dates, in which case income and 
+expenses are translated at the rate on the dates of the 
+transactions); and
+•  all resulting exchange differences are recognised in other 
+comprehensive income and as a separate component of equity.on consolidation, exchange differences arising from the 
+translation of the net investment in foreign operations, and  
+of borrowings and other currency instruments designated as 
+hedges of such investments, are taken to shareholders’ equity.intangible assets
+a. goodwill 
+goodwill represents the excess of the cost of a business 
+combination over the fair value of the net identifiable assets of 
+the acquired business.capitalised software costs are amortised using the straight 
+line method over their estimated useful lives of up to 5 years 
+and charged to administration in the income statement.current tax is the expected tax payable on the taxable income 
+for the year using rates enacted at the balance sheet date, and 
+any adjustments to tax payable in respect of prior years.in 
+accordance with ifrs 2 the fair value of the employee services 
+received in exchange for the grant of the options is recognised as 
+an expense in the income statement.incremental costs directly attributable to the issue of new shares 
+or options are shown in equity as a deduction, net of tax, from 
+the proceeds.b. long term contracts 
+revenue is recognised on long term contracts by reference to 
+the stage of completion of the contract activity at the balance 
+sheet date.notes to the financial statements
+for the year ended 30 september 2017 gooch & housego plc
+66  |  annual report 2017
+financial st a tements
+1 4. dividends
+2017 
+£’000
+2016 
+£’000
+final 2016 dividend paid in 2017: 5.7p per share (final 2015 dividend paid in 2016: 5.2p per share) 1,383 1,254
+2017 interim dividend paid: 3.7p per share (2016: 3.3p) 906 801
+2,289 2,055
+the directors propose a final dividend of 6.5p per share making the total dividend paid and proposed in respect of the 2017 
+financial year 10.2p (2016: 9.0p).details of key management compensation are given in note 10. 
+notes to the financial statements
+for the year ended 30 september 2017 gooch & housego plc
+76  |  annual report 2017
+financial st a tements
+32. acquisition of stingray optics llc
+on 21 february 2017, the group completed the acquisition of the entire unit capital of stingray optics llc, a keene, new hampshire, 
+based specialist designer and manufacturer of high performance optical and opto-mechanical subsystems for demanding defence 
+and commercial applications.in accordance with ifrs 2 the fair value of the employee services received in 
+exchange for the grant of the options is recognised as an expense in the income statement.if the amount of 
+estimated future tax deduction exceeds the cumulative amount of the remuneration expense at the statutory rate, the excess is 
+recorded directly in equity.

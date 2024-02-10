@@ -1,0 +1,173 @@
+the group has approximately 120 staff based predominantly in leicester (uk), boston (us) and minsk 
+(belarus). contracts are directly with the end-customers (typically minimum period of 2 years), 
+with a small percentage of recurring revenues being paid to the relevant crm partner as long as their 
+customer remains a cloudcall customer. cloudcall services are invoiced monthly on a per user, per month basis. 87% of 
+the group’s revenues are therefore either recurring or repeating in nature. currently the group primarily focuses its products and services on two 
+core crm partners: salesforce and bullhorn. in addition to the focus on the three core partners identified above, cloudcall also considers its products 
+and services to be extremely relevant for companies within the staffing and recruitment sector, and 
+consequently has partnerships with several smaller staffing and recruitment crms. furthermore, the group’s relationship with its key strategic partner - bullhorn 
+crm - has continued to strengthen across bullhorn’s global footprint. cloudcall group plc 
+2017 annual report and financial statements 
+strategic report  
+ 
+8 
+ 
+cloudcall group plc 
+registered number: 05509873 
+resource limitations were also being keenly felt in product development, where for much of the year a 
+significant portion of our software development resource was focussed on rebuilding our core 
+infrastructure into a robust, multi-channel communications platform that would enable us to scale more 
+quickly in 2018. this exercise naturally restricted our ability to launch new revenue impacting products 
+and services in 2017. 
+an improved platform to facilitate growth 
+driven largely by the millennial generation, there is an underlying shift from the more traditional 
+methods of communication towards texting and instant messaging. when calculating user numbers, the group considers the receipt of a signed order for an ongoing 
+subscription as a “sale”. further analysis regarding revenues can be found in note 5 to the financial statements. further details can be found in the ‘principal risks and uncertainties’ section on pages 17 to 20, and 
+note 11 on intangibles. going concern  
+the directors confirm that, as disclosed in note 1 on page 44, they have a reasonable expectation that 
+the group has adequate resources to continue in operational existence for the foreseeable future. the group’s head office and registered office address is 1 colton square, leicester, le1 1qh, 
+uk. cloudcall group plc 
+2017 annual report and financial statements 
+ 
+3 
+ 
+cloudcall group plc 
+registered number: 05509873 
+cloudcall works closely with key crm partners through which it reaches most of its end customers and 
+their users. in july 2017 we confirmed that the company’s lender, barclays, agreed to provide an improved three-
+year revolving credit facility of £1.85m to replace the previous £0.9m two-year term loan, which enabled 
+management to invest in the business with more confidence. in march 2018, bullhorn announced that it had completed the acquisitions of both talentrover and 
+jobscience, recruitment crms built on the force.com platform (like connexys). operational control is delegated by the board to the executive directors. non-executive directors are 
+in regular communication with the executive directors. the board of directors 
+the board of directors currently consists of three executive and three non-executive directors. director profiles 
+peter simmonds, 59 
+non-executive chairman 
+peter is a chartered certified accountant, who retired from the role of ceo of dotdigital group plc in 
+june 2015 after 8 years. cloudcall and its subsidiaries (the “group”) operate as a software and unified communications business 
+that has developed and provides a suite of cloud-based integrated software and telephony products 
+and services under the name “cloudcall”. the group’s principal activity is to provide products and 
+services designed to improve business performance by enabling client communications to be driven by 
+the data held within customer relationship management (“crm”) software. the cloudcall suite of products allows companies to fully integrate their telephony systems into their 
+existing crm software, enabling calls to be made, recorded, logged and categorised from within the 
+crm system from which detailed activity reports can be easily generated. the group’s software and telephony platform is currently enabling over 23,500 users across 875 
+customers to drive more effective communications directly from the intelligence that exists within their 
+crm system. repeating revenue is related to pay-as-you-go 
+telephony revenue which, whilst not directly contracted, has a high degree of visibility and predictability. these service fees 
+facilitate effective on-boarding, which in turn leads to higher levels of user adoption and a demonstrably 
+faster return on investment for customers. cloudcall group plc 
+2017 annual report and financial statements 
+ 
+4 
+ 
+cloudcall group plc 
+registered number: 05509873 
+our strategy 
+the group’s core objectives remain to deliver strong top-line growth, to continue to drive the business 
+toward ebitda break-even, to deliver a high-quality product and customer experience and to 
+encourage a strong and ethical corporate culture. to achieve these objectives, it focuses its resources 
+as follows: 
+ deeper focus and stronger relationships with its three core crm partners – salesforce, bullhorn 
+and microsoft dynamics 
+ focus on larger mid-market customers to drive up average revenues per customer, and to 
+reduce average customer costs by continuing to improve onboarding processes, lowering 
+ongoing costs of support per customer and reducing churn rates 
+ focus on strengthening relationships and growing revenues from existing and future enterprise 
+level customers by expanding cloudcall penetration across their organisations 
+ focus on developing deep understanding and expertise within key industry verticals such as 
+staffing and recruitment, to ensure cloudcall products and services not only meet, but exceed 
+the needs of those markets   
+ focus on providing the highest standards of customer service and support to increase customer 
+satisfaction levels, referenceabilty and brand reputation whilst also reducing churn 
+ continuing to develop cloudcall into a market-leading, feature-rich service, delivering an 
+exceptional value-adding customer experience, with high availability and reliability aligned with 
+best-in-class security 
+ fostering a positive corporate culture, investing in staff and building relationships with local 
+charities and the community in general 
+ 
+   cloudcall group plc 
+2017 annual report and financial statements 
+strategic report  
+ 
+5 
+ 
+cloudcall group plc 
+registered number: 05509873 
+chairman’s statement 
+i am pleased to report on a strong set of results for the year ending 31 december 2017 that show the 
+excellent progress towards the strategic objectives agreed by the board at the beginning of the year. cloudcall group plc 
+2017 annual report and financial statements 
+ 
+1 
+ 
+cloudcall group plc 
+registered number: 05509873 
+contents 
+highlights .......................................................................................................................................... 1 
+group overview ................................................................................................................................. 2 
+strategic report ................................................................................................................................. 5 
+ chairman’s statement ............................................................................................................... 5 
+ chief executive’s review ............................................................................................................ 7 
+ key performance indicators ..................................................................................................... 11 
+ financial review ...................................................................................................................... 13 
+ principal risks and uncertainties ............................................................................................... 17 
+directors’ report ............................................................................................................................... 21 
+ corporate governance............................................................................................................. 21 
+ the board .............................................................................................................................. 23 
+directors remuneration report ................................................................................................. 27 
+ statement of directors’ responsibilities .................................................................................... 32 
+independent auditor’s report to the members of cloudcall group plc .................................................. 34 
+consolidated statement of comprehensive income ............................................................................ 38 
+consolidated and company statements of financial position ............................................................... 39 
+consolidated and company statements of changes in equity ............................................................. 40 
+consolidated and company cash flow statements ............................................................................. 43 
+notes to the financial statements ..................................................................................................... 44 
+  cloudcall group plc 
+2017 annual report and financial statements 
+ 
+1 
+ 
+cloudcall group plc 
+registered number: 05509873 
+highlights 
+ revenues up 42% to £6.9m (2016: £4.9m) 
+ recurring revenues up 55% compared to 2016 
+ 87% of income now either recurring or repeating* (2016: 85%) 
+ gross margin 80% (2016: 79%) 
+ ebitda loss (excl. share based payments) reduced to £1.9m (2016: £3.0m) 
+ £5.7m new equity raised during the year (before issue costs) 
+ £4.9m cash at year-end (2016: £3.2m) 
+ £1.85m undrawn revolving credit facility with barclays 
+ net cash absorbed by operating activities down 34% year on year to £1.6m 
+ 
+ 23,520 users as at 31 december 2017 - up 45% (2016: 16,200) 
+ 875 customers (2016: 750) 
+ average customer size increased to 27 users - up 24% year on year 
+ increased investment takes headcount up to 119 from 89 last year 
+ strengthening relationship with bullhorn offers further opportunities for 
+growth following bullhorn’s acquisitions of connexys during the year, and 
+talentrover and jobscience in early 2018  
+ new unified communications architecture successfully launched to bullhorn 
+customers in q4 
+ launch of new microsoft dynamics crm integration built on cloudcall’s new 
+unified communications architecture 
+ instant messaging / sms functionality moves into testing ahead of expected 
+launch during q2’18 
+*recurring revenue is that related to contracted subscription based products. cloudcall group plc 
+2017 annual report and financial statements 
+ 
+2 
+ 
+cloudcall group plc 
+registered number: 05509873 
+group overview 
+cloudcall group plc (“cloudcall” or the “company”) is a uk registered company, quoted on the aim 
+market of the london stock exchange (lse: call). telephony services are either 
+charged out via all-inclusive call packages, or on a ‘pay as you go’ (payg) per minute basis. the principal activity of the company is to act as 
+the holding company. cloudcall’s current geographic reach extends from north america, through the uk and 
+mainland europe. all new customers are regularly contacted throughout the on-boarding process to ensure they remain 
+satisfied and engaged. following delivery, they are also routinely contacted for post-implementation 
+feedback, looking to identify and resolve any ongoing issues. 79% 80% +1% 
+ebitda 
+(loss) (excl. £31.46 £28.00 (11%) 
+avg. 568 609 7% 
+avg.

@@ -1,0 +1,478 @@
+when a manoeuvre is required, 
+thrusters accelerate the satellite 
+to the required position. this will translate 
+over the medium-term into high relative 
+returns on investment and ensure we 
+continue to efficiently deliver a lower cost 
+per bit to our customers, while maintaining 
+tight control over the timing and extent 
+of our capex. in government, 
+we remain well-placed to capture value over 
+the medium-term as the trusted provider 
+of unique space-based capabilities to 
+governments as and when near-term budgetary 
+and operational tempo headwinds start to ease. we expect 
+these factors to drive a meaningful moderation 
+in our annual infrastructure capex over 
+the medium-term. operate & lease satellite capacity end of life & future planning
+projected operational lifespan 15–20 years
+governance financial statements strategic report
+inmarsat plc | annual report and accounts 2017 05 strategic report | the life cycle of a satellite chairman’s statement
+continuing to deliver
+we remain well placed 
+to access future 
+growth opportunities
+we have seen solid progress in 2017 towards 
+our objectives of building a significant new mobile 
+broadband business with our new global xpress 
+constellation, as well as investing in establishing 
+a leadership position in the largest growth 
+opportunity in the commercial satellite sector, 
+in-flight connectivity for the commercial 
+aviation sector. our response to 
+sector headwinds
+however, we have been hit with headwinds as well, 
+which have negatively affected our share price. some of these derive from issues in the sector 
+we are in. secondly, companies in the sector 
+who are financially stressed have dropped prices. please refer to note 2 in the financial statements
+inmarsat plc | annual report and accounts 2017 01 
+governance financial statements strategic report
+strategic report | introduction $1,259.0m $902.4m
+group at a glance
+making a difference across 
+our chosen end markets
+our four business units provide unrivalled global, mobile connectivity to our customers
+1,700+
+employees
+4
+core values
+based in 
+50 locations 
+across every 
+continent
+passionate, 
+open, 
+enterprising, 
+market-driven
+maritime government aviation enterprise
+inmarsat offers the most reliable 
+and resilient communications 
+solutions to the maritime industry. our unique position in the 
+aviation market is supported by:
+ ›
+benefits of owner economics
+ ›
+long track record serving 
+the aviation industry
+ ›
+continual innovation 
+and product development 
+in this sector
+inmarsat provides the 
+widest portfolio of global voice, 
+broadband data, machine2machine 
+(‘m2m’) and value-added services 
+in the market. the gx network is fully 
+operational, following the launch of 
+the fourth i-5 satellite in 2017.
+the european aviation  
+network – a unique asset  
+ 
+ 
+the integrated s-band satellite and 
+air-to-ground network, the ean, will be 
+a compelling and unique proposition for 
+commercial aviation customers in europe, 
+compared to other satellite-only offerings. high-performance  
+mobility-designed l -band 
+satellites – supported by secure 
+networks and technology  
+our l -band networks, through eight 
+inmarsat-3 and inmarsat-4 satellites, have 
+helped inmarsat to establish and develop 
+a loyal customer and distribution base 
+over time. in our core business overall, 
+particularly in maritime, aviation and government, 
+we have seen solid steady performance in the 
+face of growing competition. we believe these trends were predictable and 
+known. we have built up 
+our presence and costs in aviation so that we 
+are in a position to successfully support and 
+grow that business in the years ahead. it is important to emphasise 
+that our business remains on a solid footing 
+financially and the board remains supportive of the 
+investment path we are on. from the largest commercial 
+fleets to coastal vessels, our 
+services are based on our long 
+track record of managing global 
+networks and consequently, 
+a unique understanding of the 
+challenges of living and working 
+in a maritime environment. our secure, globally available 
+services and products are 
+helping to drive an evolution in:
+ ›
+vessel performance 
+and efficiency
+ ›
+safety management 
+and monitoring
+ ›
+crew welfare
+inmarsat remains a key partner 
+to many governments around 
+the world. in nations like the u.s., 
+we aim to augment a government’s 
+existing communications networks 
+and ensure that, wherever they 
+need to be, our secure, reliable 
+and powerful mobile satellite 
+networks are always available. our mission-critical voice, 
+video and data communications 
+solutions help governments 
+on land, at sea and in the air to:
+ ›
+maintain their security
+ ›
+ensure public safety
+ ›
+deliver remote health, 
+education and other crucial 
+services in regions where 
+terrestrial networks are not 
+able to reach
+inmarsat has been providing 
+connectivity services to both 
+the cockpit and the cabin for 
+many years. this will be laid out in more detail on the 
+following pages of this report by rupert pearce, 
+in his ceo review and in the strategy section. we have met extensively with 
+shareholders and listened. that brings me to the board’s decision on the 
+dividend going forward. board developments
+early last year, two of our long-standing directors 
+retired from the board, with one having been 
+appointed at the time of our ipo in 2005 and 
+the second in 2006. we would like to thank 
+stephen davidson and kathleen flaherty for 
+their significant contributions to the success 
+of inmarsat over more than a decade. two years. integration and 
+testing is six months. design 
+development
+the combined 
+design/development 
+phase is 1.5 years. planning 
+and concept
+the spacecraft ‘bus’ 
+(the main body) 
+is designed. a copy of the report can 
+be found on our website. inmarsat plc
+annual report  
+and accounts 2017
+inmarsat plc annual report and accounts 2017
+making a  
+difference
+on land, at sea and in the air our investor proposition
+inmarsat’s track record, unique capabilities and differentiated 
+market position ensures we will remain well placed to capture 
+significant medium-term growth opportunities available to us 
+in each of our chosen markets
+ unique and 
+market-leading 
+position in 
+mobility
+ long-standing 
+and sustainable 
+advantage in 
+global coverage
+ high-performance 
+mobility-designed 
+l-band satellites, 
+supported by 
+secure networks 
+and technology
+ gx, a unique 
+global, mobile, 
+high bandwidth 
+network, will be 
+augmented by 
+new, low-cost 
+technologies 
+in the future
+maritime
+ › steady operational 
+progress and return to 
+quarterly year-on-year 
+revenue growth
+ › fleet xpress gaining 
+increasing market 
+traction, with over 
+2,600 vessels on 
+fx by year end 
+(2016: 335 vessels)
+ › resilient 
+fleetbroadband 
+performance 
+government
+ › material revenue 
+growth in 2017
+ › new contract wins 
+more than offsetting 
+the pressures of 
+ongoing budgetary 
+constraints
+aviation
+ › double digit revenue 
+growth throughout 
+2017
+ › continued commercial 
+momentum in in-flight 
+connectivity
+ › another strong 
+performance from 
+our core businesses
+enterprise
+ › growth in 
+machine2machine 
+revenues
+ › decline in 
+legacy services
+08
+learn more about how 
+we performed in our 
+ceo’s review 2017 $1,400.2m
+$1,329.0m 2016
+$1,274.1m 2015
+2017 $182.3m
+$243.4m 2016
+$282.0m 2015
+2017 $751.4m
+$794.8m 2016
+$726.0m 2015
+2017 $598.7m
+$412.9m 2016
+$493.6m 2015
+as the industry leader and pioneer 
+of mobile satellite communications, 
+inmarsat has been powering 
+global connectivity for nearly 
+four decades
+we make a difference to our 
+customers by making their businesses 
+more efficient and effective and by 
+helping them to remain safe and 
+more connected
+strategic report
+ifc our investor proposition
+02 group at a glance
+04 the life cycle of a satellite
+06 chairman’s statement
+08 chief executive’s strategic review
+12 our strategy
+14 our business model
+16 our kpis
+18 market trends
+20 business overview – maritime
+24 business overview – government
+28 business overview – aviation
+32 business overview – enterprise
+36 business overview – central services
+38 chief financial officer’s review
+42 resources and relationships
+50 risk management
+51 principal risks and uncertainties
+55 viability statement
+governance
+56 chairman’s introduction
+57 governance at work
+58 board of directors
+61 executive management board
+75 relations with shareholders
+76 directors’ remuneration report
+99 report of the directors
+103 directors’ responsibility statement
+financial statements
+104 financial statements index
+105 independent auditor’s report
+112 consolidated income statement
+113 consolidated statement  
+of comprehensive income
+114 consolidated balance sheet
+115 consolidated statement  
+of changes in equity
+116 consolidated cash flow statement
+117 notes to the consolidated  
+financial statements
+154 company financial statements
+156 notes to the company  
+financial statements
+157 glossary
+159 additional information
+$1,400.2m
+$182.3m
+$751.4m
+$598.7m
+revenue
+profit after tax
+adjusted ebitda
+1,2
+cash capex
+2
+1 ebitda is adjusted for a one-off restructuring charge of $19.9m
+2 these represent alternative performance measures (‘apms’). inmarsat has the ability to:
+ ›
+extend the range of 
+terrestrial networks and 
+narrow the digital divide
+ ›
+enhance resiliency 
+and redundancy 
+ ›
+provide capabilities such 
+as broadcast services and 
+precision navigation services 
+maritime 
+business overview
+20
+government 
+business overview
+24
+aviation 
+business overview
+28
+enterprise 
+business overview
+32
+maritime $564.7m 45% of group
+government $366.7m 29% of group
+aviation $195.0m 15% of group
+enterprise $132.6m 11% of group
+maritime $441.9m 49% of group
+government $265.2m 30% of group
+aviation $103.4m 11% of group
+enterprise $91.9m 10% of group
+revenue ebitda
+revenue and ebitda excluding central services and ligado
+inmarsat plc | annual report and accounts 2017 02 strategic report | group at a glance   s ean   o   position 39e
+i-3 f1 o   position 64.5e
+i-3 f2 o   position 15.5w
+i-3 f3 o   position 178e
+i-3 f5 o   position 54w
+i-4 f1 o   position 143.5e
+ i-4 f2 o   position 63.9e
+ i-4 f3  position 98w
+  i-4 f4/alphasat o   position 24.9e
+  i-5 f1 o   position 62.6e
+  i-5 f2 o   position 55w
+  i-5 f3 o   position 179.6e
+  i-5 f4 o   position 83e
+10
+11
+11
+12
+12
+13
+13
+1
+2
+2
+3
+4
+3
+4
+6
+6
+7
+8
+8
+9
+9
+5
+1
+7 5
+90°e
+90°w
+135°w 45°w
+135°e 45°e
+0° 180°
+10
+an unrivalled portfolio
+through our best in class networks we help our customers to communicate where 
+terrestrial telecom networks lack reliability or coverage; on land, at sea or in the air. with these factors in mind, particularly 
+their potential impact on our short to medium-term 
+cash flow profile, the board took the decision 
+to reduce the level of annual (full year) dividend 
+payments to shareholders to 20.00 cents ($) 
+per share. inmarsat plc | annual report and accounts 2017 15 
+governance financial statements strategic report
+strategic report | our business model 2017 $1,400.2m
+$1,329.0m 2016
+$1,274.1m 2015
+2017 $598.7m
+$412.9m 2016
+$493.6m 2015
+2017 $751.4m
+$794.8m 2016
+$726.0m 2015
+2017 $142.3m
+$78.5m 2016
+$0m 2015
+2017 $0.42
+$0.65 2016
+$0.63 2015
+key performance indicators
+measuring success against our  
+key strategic priorities
+revenue
+total group revenue generated 
+from operations including 
+ligado networks. the inmarsat-6 satellites comprise 
+two dual payload (l -band and ka-band) 
+satellites due to be launched at the start of the 
+next decade. travel to 
+final orbit
+the spacecraft travels 
+12m km (7.5m miles) 
+before reaching its 
+geostationary orbit. global xpress investment
+$2bn
+in-orbit 
+testing
+build launch
+projected operational lifespan 15–20 years
+concept to operational 3–5 years
+inmarsat plc | annual report and accounts 2017 04 strategic report | the life cycle of a satellite operates in geostationary orbit at
+35,786km
+fuel carried for  
+station-keeping 
+throughout lifespan
+200kg
+average number 
+of manoeuvres 
+each year (i-5 satellite)
+1,460
+ kilometres travelled
+1,500,000,000
+deorbiting 
+a spacecraft is ‘raised’ 
+to ‘graveyard orbit’, 
+a circular orbit 
+that is higher 
+than operational 
+geostationary orbit
+over 15 years, 
+the spacecraft will 
+travel around the 
+earth for a total 
+of 1.5 billion km –  
+roughly the same as 
+1,951 round trips 
+from the earth 
+to the moon! fuel carried
+the spacecraft typically 
+carries over 2,000kg (2 tonnes) 
+of propellant into space –  
+most of this is used to raise 
+the orbit after separating from 
+the launch vehicle, leaving 
+only 200kg for station-keeping 
+for the remaining lifespan.

@@ -1,0 +1,279 @@
+in percentage terms the profit before tax margin was 16% (2016: 17%).the performance of the group could be adversely affected if the required 
+staffing levels are not maintained.role of the chairman and chief executive officer
+the code requires that there should be a clear division of responsibilities between the running of the board and the executive 
+responsible for the company’s business, so as to ensure that no one person has unrestricted powers of decision.the audit committee, chaired by ian steele, who has recent and relevant experience, is authorised by the board to conduct 
+any activity within its terms of reference and to seek any information it requires from any employee.executive directors and senior 
+management meet to review both the risks facing the business and the controls established to minimise those risks and their 
+effectiveness in operation on an on-going basis.for this reason, the directors continue to adopt the going concern basis in 
+preparing the financial statements.customers
+the group treats all of its customers with the utmost respect and seeks to be honest and fair in all relationships with them.under company law the directors must not approve the financial statements unless they are satisfied that they give a true and 
+fair view of the state of affairs and profit or loss of the company and group for that period.this report is made solely to the company’s members, as a body, in accordance with chapter 3 of part 16 of the companies act 2006. 
+our audit work has been undertaken so that we might state to the company’s members those matters we are required to state to 
+them in an auditor’s report and for no other purpose.year ended 31march 2017
+33 iomart group plc annual report and accounts 2017
+note
+2017
+£’000
+2016
+£’000
+profit before taxation 14,654 13,024
+gain on revaluation of contingent consideration 30 - (870)
+finance costs – net 7 1,579 1,559
+depreciation 4 10,972 10,878
+amortisation 4 7,417 6,553
+share based payments 27 1,844 1,081
+movement in trade receivables 837 (1,612)
+movement in trade payables 480 298
+cash flow from operations 37,783 30,911
+taxation paid (3,874) (4,311)
+net cash flow from operating activities 33,909 26,600
+cash flow from investing activities
+purchase of property, plant and equipment 16 (10,189) (12,385)
+capitalisation of development costs 13 (1,372) (1,123)
+purchase of intangible assets 13 (1,845) (1,207)
+payments for current period acquisitions net of cash acquired (703) (15,924)
+contingent consideration paid (1,161) (1,650)
+payment of deposits - (300)
+finance income received 22 33
+net cash used in investing activities (15,248) (32,556)
+cash flow from financing activities
+issue of shares 1,064 91
+draw down of bank loans 22 - 16,500
+repayment of finance leases (580) (984)
+repayment of bank loans 22 (16,000) (3,500)
+finance costs paid (1,205) (1,489)
+dividends paid 8 (3,375) (2,668)
+net cash (used in)/received from financing activities (20,096) 7,950
+net (decrease)/increase in cash and cash equivalents (1,435) 1,994
+cash and cash equivalents at the beginning of the year 10,341 8,347
+cash and cash equivalents at the end of the year 18 8,906 10,341
+the following notes form part of the financial statements.year ended 31march 2017
+34 iomart group plc annual report and accounts 2017
+changes in equity
+share 
+capital
+own 
+shares 
+ebt
+own 
+shares 
+treasury
+foreign 
+currency 
+translation 
+reserve
+capital 
+redemption 
+reserve
+share 
+premium 
+account
+merger 
+reserve
+retained 
+earnings total
+note £’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000
+balance at 1 april 2015 1,078 (70) (468) (47) 1,200 21,067 4,983 44,936 72,679
+profit in the year - - - - - - - 11,019 11,019
+currency translation 
+differences
+- - - 10 - - - - 10
+total comprehensive 
+income
+- - - 10 - - - 11,019 11,029
+dividends – final (paid) 8 - - - - - - - (2,668) (2,668)
+share based payments 27 - - - - - - - 1,081 1,081
+deferred tax on share 
+based payments
+10 - - - - - - - 57 57
+issue of own shares for 
+option redemption
+26 - - 49 - - - - 42 91
+total transactions with 
+owners
+- - 49 - - - - (1,488) (1,439)
+balance at 31 march 
+2016
+1,078 (70) (419) (37) 1,200 21,067 4,983 54,467 82,269
+profit in the year - - - - - - - 12,083 12,083
+currency translation 
+differences
+- - - 22 - - - - 22
+total comprehensive 
+income
+- - - 22 - - - 12,083 12,105
+dividends – final (paid) 8 - - - - - - - (3,375) (3,375)
+share based payments 27 - - - - - - - 1,844 1,844
+deferred tax on share 
+based payments
+10 - - - - - - - (392) (392)
+issue of own shares for 
+option redemption
+26 - - 369 - - - - 695 1,064
+total transactions with 
+owners
+- - 369 - - - - (1,228) (859)
+balance at 31 march 
+2017
+1,078 (70) (50) (15) 1,200 21,067 4,983 65,322 93,515
+the following notes form part of the financial statements.new standards and interpretations of existing standards 
+that are not yet effective and have not been adopted early 
+by the group
+ifrs 15, revenue from contracts with customers, becomes 
+effective for the group on 1 april 2018. the guidance permits 
+two methods of adoption: retrospectively to each prior 
+reporting period presented (full retrospective method), or 
+retrospectively with the cumulative effect of initially applying 
+the guidance recognised at the date of initial application (the 
+cumulative catch-up transition method).under ifrs 15 this revenue will require to be split 
+between the registration of the domain and the 
+ongoing services, such as support and mail forwarding, 
+which are provided by the company over the period of 
+registration of the domain.year ended 31march 2017
+36 iomart group plc annual report and accounts 2017
+2. accounting policies (continued)
+acquisitions of subsidiaries are dealt with by the acquisition 
+method.consequently, these acquisition costs are included 
+as administrative expenses in the consolidated statement of 
+comprehensive income.in respect of property leases 
+which contain such a reinstatement provision the estimated 
+cost of the reinstatement is provided in the financial statements.a matching provision is recognised at the 
+same time which is increased over the period of the lease by 
+way of an interest charge such that the estimated cost of the 
+reinstatement has been fully provided at the end of the lease 
+period.the increase in 
+the provision due to passage of time is recognised as interest 
+expense.financial liabilities
+financial liabilities are obligations to pay cash or other financial 
+assets and are recognised when the group becomes a party 
+to the contractual provisions of the instrument.the value in use calculation requires the 
+entity to estimate the future cash flows expected to arise from 
+the cash-generating unit and to select a suitable discount 
+rate in order to calculate the present value.during the year 
+the group acquired cristie data.year ended 31march 2017
+42 iomart group plc annual report and accounts 2017
+3. segmental analysis (continued)
+profit by operating segment
+2017 2016
+adjusted 
+ebitda 
+depreciation,  
+amortisation, 
+acquisition 
+costs and 
+share based 
+payments
+operating 
+profit/(loss)
+adjusted 
+ebitda 
+depreciation,  
+amortisation, 
+acquisition 
+costs and 
+share based 
+payments
+operating 
+profit/(loss)
+£’000 £’000 £’000 £’000 £’000 £’000
+easyspace 6,244 (948) 5,296 5,094 (815) 4,279
+cloud services 33,680 (17,120) 16,560 31,084 (16,616) 14,468
+non-recurring 326 (321) 5 - - -
+group overheads (3,680) - (3,680) (3,837) - (3,837)
+acquisition costs - (104) (104) - (116) (116)
+share based payments - (1,844) (1,844) - (1,081) (1,081)
+profit before tax
+ and interest
+36,570 (20,337) 16,233 32,341 (18,628) 13,713
+gain on revaluation of
+ contingent consideration
+- 870
+group interest and tax (4,150) (3,564)
+profit for the year 36,570 (20,337) 12,083 32,341 (18,628) 11,019
+group overheads, acquisition costs, share based payments, gain on revaluation of contingent consideration, interest and tax are not 
+allocated to segments.the fair value of the financial assets acquired includes trade receivables with a fair value of £496,000.year ended 31march 2017 iomart group plc annual report and accounts 2017
+30. risk management (continued)
+the carrying amounts of financial liabilities presented in the statement of financial position relate to the following measurement 
+categories as defined in ias 39:
+at fair value 
+through profit 
+or loss
+£’000
+financial 
+liabilities 
+measured at 
+amortised cost
+£’000
+other (non-ias 
+39)
+£’000
+total 
+£’000
+2017
+non-current:
+trade payables - (102) - (102)
+finance leasing capital obligations - - (625) (625)
+current:
+trade payables - (5,958) - (5,958)
+accruals - (6,616) - (6,616)
+bank loan - (18,639) - (18,639)
+contingent consideration due on acquisitions (2,373) - - (2,373)
+finance leasing capital obligations - - (233) (233)
+interest rate swap contract (44) - - (44)
+total for category (2,417) (31,315) (858) (34,590)
+2016
+non-current:
+trade payables - (455) - (455)
+finance leasing capital obligations - - (826) (826)
+contingent consideration due on acquisitions (2,068) - - (2,068)
+current:
+trade payables - (5,215) - (5,215)
+accruals - (6,203) - (6,203)
+bank loan - (34,525) - (34,525)
+contingent consideration due on acquisitions (1,135) - - (1,135)
+finance leasing capital obligations - - (573) (573)
+interest rate swap contract (128) - - (128)
+total for category (3,331) (46,398) (1,399) (51,128)
+the group’s financial liabilities per the fair value hierarchy classifications under ifrs 13 ‘financial instruments: disclosures’ are 
+described below:
+category of financial 
+liability
+fair value 
+at 31 march 
+2017
+£’000
+level in 
+hierarchy description of valuation 
+technique
+inputs used for valuation 
+model
+total gains
+ and (losses) 
+recognised 
+in profit or 
+loss
+£’000
+contingent 
+consideration due on 
+acquisitions
+(2,373)
+3
+based on level of future 
+revenue and profitability 
+and probability that vendors 
+will comply with obligations 
+under sale and purchase 
+agreement.observable interest rates 
+corresponding to the maturity 
+of the contracts.the nature of the company’s operations and its principal activity is that of a 
+holding company.the financial statements have been prepared on a historical cost basis and are presented in sterling (£).as part of the acquisition 
+strategy of the company, the trade and net assets of subsidiary undertakings at or shortly after acquisition may be transferred at book 
+value to fellow subsidiaries.iomart group plc annual report and accounts 2017
+parent company financial statements.financial assets categorised as at fair value through profit or loss are recognised initially at fair value with transaction costs 
+expensed through profit or loss.where the terms of the new borrowings are significantly different from those of the previous 
+borrowings, the previous borrowings are treated as extinguished rather than modified as prescribed under ias 39.
+pension scheme arrangements
+the company contributes to an auto-enrolment pension scheme and also to a number of personal pension schemes on behalf of 
+executive directors and some senior employees.all shares, excluding the shares held by 
+the company in treasury and the shares held by the ebt, are equally eligible to receive dividends and represent one vote at the 
+shareholders' meetings of iomart group plc.

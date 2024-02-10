@@ -1,0 +1,136 @@
+we continue to expect usp to add $15m 
+incremental ebitda in fy18, our first full 
+year of ownership.following the increase in the 
+group’s leverage we have continued 
+to monitor the need to fix the 
+interest rate on some element of 
+our borrowings.nomination committee meetings are held on an ad hoc basis as required.nomination committee
+members
+jm barry gibson (chairman)
+stella david
+ben mingay
+mark morris
+responsibilities
+the primary responsibilities of the committee are to:
+• make recommendations to the board on the appointment of directors
+• review the size, structure and composition of the board
+• consider succession planning arrangements for directors and other senior managers.the committee draws on the advice of such professional advisers as it considers necessary 
+and did so during the year in respect of the appointment made.corporate governance report (continued) 71
+annual report & accounts 2017
+executive committee
+the day to day running of the business rests with the group chief executive, richard harpin.directors’ indemnities and insurance
+the company has made qualifying third party indemnity provisions for the beneﬁt of its 
+directors which were in place during the year and remain in force at the date of this report.the system of internal control is designed to 
+manage and mitigate rather than eliminate the risk of failure to achieve business objectives, and 
+can only provide reasonable and not absolute assurance against material misstatement or loss.individual pay is determined by the committee 
+taking into account the role, responsibilities, 
+performance and experience of the individual and 
+market data on comparable roles.under the rules of the plan, the committee has the discretion to adjust the targets applying to 
+existing awards in exceptional circumstances providing the new targets are no less challenging 
+than originally envisaged.the committee also has the power to adjust the number of shares 
+subject to an award in the event of a variation in the capital of the company.in the case of cessation due to death, the committee 
+can determine that the awards vest early.governance
+92
+in determining whether an executive should be treated as a good leaver and the extent to 
+which their award may vest, the committee will take into account the circumstances of an 
+individual’s departure.the remuneration committee 
+is comfortable that this does not present a conﬂict of interest as aon uk and nbs operate 
+entirely independently of one another.the committee has also received assistance from richard harpin, group chief executive, emma 
+thomas, group legal and hr director and anna maughan, company secretary, all of whom 
+attended meetings of the committee as required.the salaries for the executive directors e’ective from 1 july 2017 will therefore be as follows:
+name of director
+salary as at 
+1 july 2016
+salary as at 
+ 1 july 2017 increase
+r harpin £556,875 £565,228 1.5%
+m bennett £413,100 £419,297 1.5%
+d bower ¹ £300,000 £300,000 n/a
+j ford £400,000 £406,000 1.5%
+¹ david bower was appointed on 6 february 2017.
+fees for the chairman and non-executive directors
+as detailed in the remuneration policy, the company aims to set remuneration for non-
+executive directors at a level which is su‡cient to attract and retain non-executive directors 
+of the right calibre.in line with the policy, the fy18 performance share award for executive directors will be at 
+150% of salary.the shares required for share options and awards under any of the long-term incentive 
+schemes described above may be fulﬁlled by the purchase of shares in the market by the 
+company’s employee beneﬁt trust (ebt).information about the use of ﬁnancial instruments by the group is given in note 42 
+to the ﬁnancial statements.none of these are considered 
+to be signiﬁcant in terms of their likely impact on the business of the group as a whole.under company law, the 
+directors must not approve the accounts unless they are satisﬁed that they give a true and 
+fair view of the state of a’airs of the company and of the proﬁt or loss of the company for 
+that period.further detail on the key judgements involved is set out within the audit and risk committee 
+report on page 77, signiﬁcant accounting policies in note 2 and the associated key 
+judgements involved are set out in the critical accounting judgements and key sources of 
+estimation uncertainty in note 3 to the ﬁnancial statements.the key assumptions used within the carrying value of goodwill assessment were consistent 
+with the group’s longer term-viability and going concern assessment.in the light of the knowledge and understanding of the company and its environment 
+obtained in the course of the audit, we have not identiﬁed any material misstatements in the 
+strategic report and the directors’ report.the 
+corresponding liability to the lessor is included in the balance sheet as a ﬁnance lease obligation.such cumulative exchange 
+movements are recognised as income or expense in the period in which the operation is disposed of.if any 
+such indication exists, the recoverable amount of the asset is estimated in order to determine the extent 
+of the impairment loss, if any.financial instruments
+financial assets and ﬁnancial liabilities are recognised on the group’s balance sheet when the group 
+becomes a party to the contractual provisions of the instrument.impairment of goodwill and acquisition intangible assets
+the annual impairment assessment in respect of goodwill and acquisition intangibles requires estimates 
+of the value in use (or fair value less costs to sell) of cash-generating units to which goodwill and 
+acquisition intangibles have been allocated.the results of the actuarial valuation as at 31 march 2014 were updated to the accounting date by a 
+qualiﬁed independent actuary in accordance with ias19.financial statements
+176
+notes to ﬁnancial statements 
+(continued)
+year ended 31 march 2017
+41. related party transactions
+transactions between the company and its subsidiaries, which are related parties, have been eliminated 
+on consolidation and are not disclosed in this note.notes to ﬁnancial statements 
+(continued)
+year ended 31 march 2017 181
+annual report & accounts 2017
+   2017  2016 
+      notes    £m  £m 
+profit for the year  33.4  111.1
+items that will not be classified subsequently to the profit and loss: 
+actuarial (loss)/gain on defined benefit pension scheme        40 (3.4) 0.5 
+deferred tax credit/(charge) relating to components of  
+  other comprehensive income        51 0.6  (0.1)
+total comprehensive income for the year  30.6  111.5 
+ 
+company statement  
+of comprehensive income
+year ended 31 march 2017 financial statements
+182
+   2017  2016 
+  notes £m  £m 
+non-current assets   
+other intangible assets 46 4.8  3.3 
+property, plant and equipment 47 0.3  0.2 
+investment in subsidiaries 48 194.6  194.6 
+deferred tax assets 51 0.8  1.1 
+retirement benefit assets 40 0.7   2.1 
+   201.2  201.3 
+current assets   
+trade and other receivables 49 371.3  232.7 
+cash and cash equivalents 49  —  62.1 
+   371.3  294.8 
+total assets  572.5  496.1 
+current liabilities   
+trade and other payables 50 (12.5) (22.9)
+current tax liabilities  (5.4) (6.1)
+bank and other loans 54 (40.1) (25.0)
+   (58.0) (54.0)
+net current assets  313.3  240.8 
+non-current liabilities   
+bank and other loans 54 (268.2) (194.4)
+   (268.2) (194.4)
+total liabilities  (326.2) (248.4)
+net assets   246.3  247.7 
+equity   
+share capital 25 8.4  8.3 
+share premium account 26 45.7  41.1 
+merger reserve 27 71.0  71.0 
+share incentive reserve 55 16.2  13.9 
+capital redemption reserve 30 1.2  1.2 
+retained earnings  103.8  112.2 
+total equity  246.3  247.7 
+as provided by s408 of the companies act 2006, the company has not presented its own income 
+statement.

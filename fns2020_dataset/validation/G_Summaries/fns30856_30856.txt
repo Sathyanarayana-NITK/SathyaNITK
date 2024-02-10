@@ -1,0 +1,370 @@
+in addition the funding position in 2017 benefited 
+from the strong cash collection in slovakia and lithuania.the head of internal audit 
+reports directly to the chairman of the audit and risk committee.assisted by the technology 
+committee, chaired by john mangelaars, the board continued to 
+support the drive to increase ipf’s technology-based capabilities in 
+line with its broadening product range and channel choices.all board appointments are 
+made on merit, in the context of the skills and experience the board 
+as a whole requires in order to be effective.composition
+the committee comprises three independent non-executive 
+directors and is chaired by richard moat, a fellow of the association 
+of chartered certified accountants, who has relevant and recent 
+experience for the purposes of the uk corporate governance code 
+(the ‘code’).the areas covered by these in 2017 are referred to in the 
+‘training’ section on page 57. the internal controls in relation to the 
+preparation of the consolidated financial statements are outlined 
+on page 85.
+in particular, during 2017 the committee monitored legal and 
+regulatory compliance and tax issues.in addition, the committee 
+received reports from the external auditor setting out its view on the 
+accounting treatments and judgements underpinning the financial 
+statements.review of the effectiveness of the systems of 
+internal control
+on behalf of the board, the committee has monitored the group’s 
+systems of internal control and its processes for managing principal 
+risks throughout 2017 and performed an assessment of their 
+effectiveness.these processes for identifying, evaluating and 
+managing the principal risks faced by the group were in place 
+throughout 2017 and up to 1 march 2018.
+annual report and financial statements
+the committee has reviewed and considered the annual report  
+and financial statements, in line with other information the 
+committee has considered throughout the course of the year.the committee met regularly throughout the year to oversee the 
+implementation of the revised strategy and to monitor progress 
+against each of its four key pillars.25% of the award vests at 
+threshold performance in respect 
+of the performance conditions, 
+with straight-line vesting 
+to maximum.the day-to-day running of the business is delegated to the 
+executive committee.understanding 
+at first-hand from those on the ground has never been more 
+important than in 2017 when, together with the rest of the board, 
+i visited poland and spent two full days both being briefed and 
+in turn constructively challenging the management teams from 
+our home credit and ipf digital businesses.for example, our 
+articles contain specific provisions and restrictions regarding ipf’s 
+powers to borrow money; provisions relating to the appointment of 
+directors, subject to subsequent shareholder approval; delegation of 
+powers to a director or committees; and, subject to certain 
+exceptions, a director shall not vote on or be counted in a quorum in 
+relation to any resolution of the board in respect of any contract in 
+which he/she has an interest which he/she knows is material.directors’ conflicts of interest
+to take account of the companies act 2006, the directors adopted 
+a policy on conflicts of interest and established a register of conflicts.a summary of those rights and obligations can be 
+found below.the financial statements, which are agreed directly to the 
+consolidation of the group results, are prepared by the group 
+reporting team and reviewed by the group head of finance and  
+the chief financial officer.the financial statements and all supporting notes are 
+reviewed and approved by the chief financial officer and they are 
+signed by the chief executive officer and the chief financial officer.report on environment, social and governance 
+(‘esg’) matters
+the board takes regular account of the significance of esg matters 
+to the group and has identified and assessed the significance of 
+esg risks to the company’s short and long-term value as part of the 
+risk management process.we also confirmed that the revenue recognition 
+policies applied to the material loan types offered by 
+the group were appropriate in accordance with ias 
+18 revenue and applicable accounting standards.international personal finance plc annual report and financial statements 2017 95
+financial statements
+consolidated income statement 
+for the year ended 31 december 
+94 
+group  notes 
+2017 
+£m
+2016 
+£m
+revenue  1 825.8 756.8
+impairment  1  (201.1) (184.9)
+revenue less impairment   624.7 571.9
+finance costs  2  (55.2) (46.8)
+other operating costs   (135.2) (129.1)
+administrative expenses   (328.7) (300.0)
+total costs   (519.1) (475.9)
+profit before taxation – continuing operations 1  105.6 96.0
+tax expense – uk   (0.7) (3.1)
+tax expense – overseas   (29.9) (21.7)
+total pre-exceptional tax expense 5  (30.6) (24.8)
+profit after pre-exceptional taxation – continuing operations  75.0 71.2
+exceptional tax expense 5 (30.0) –
+profit after taxation – continuing operations   45.0 71.2
+loss after taxation – discontinued operations 10 (8.4) (4.3)
+profit after taxation attributable to owners of the company  36.6 66.9
+ 
+group  notes 
+2017 
+pence
+2016 
+pence
+earnings per share – continuing operations  
+basic  6  20.2 32.2
+diluted  6  19.5 31.3
+ 
+group  notes 
+2017 
+pence
+2016 
+pence
+earnings per share – including discontinued operations  
+basic  6  16.5 30.2
+diluted  6  15.8 29.4
+see note 6 for further information on earnings per share.the financial statements of international personal finance plc, registration number 6018973 comprising the consolidated income statement, 
+statements of comprehensive income, balance sheets, statements of changes in equity, cash flow statements, accounting policies and 
+notes 1 to 31 were approved by the board on 1 march 2018 and were signed on its behalf by: 
+ 
+ 
+gerard ryan     justin lockwood 
+chief executive officer  chief financial officer    96
+statements of changes in equity 
+96 
+group – attributable to owners of the company notes 
+called-up 
+share 
+capital 
+£m
+other 
+reserve 
+£m
+foreign 
+exchange 
+reserve 
+£m
+hedging 
+reserve 
+£m
+own shares  
+£m 
+capital 
+redemption 
+reserve  
+£m 
+retained 
+earnings 
+£m
+total 
+equity 
+£m
+at 1 january 2016  23.4 (22.5) (56.4) (0.3) (58.9) 2.3 439.6 327.2
+comprehensive income    
+profit after taxation for the year   – – – – – – 66.9 66.9
+other comprehensive income/(expense)    
+exchange gains on foreign currency 
+translation   – – 65.1 – – – – 65.1
+net fair value gains – cash flow hedges   – – – 1.5 – – – 1.5
+actuarial loss on retirement benefit 
+obligation  25 – – – – – – (10.0) (10.0)
+tax (charge)/credit on other 
+comprehensive income  5 – – – (0.1) – – 1.9 1.8
+total other comprehensive 
+income/(expense)   – – 65.1 1.4 – – (8.1) 58.4
+total comprehensive income for the year   – – 65.1 1.4 – – 58.8 125.3
+transactions with owners    
+share-based payment adjustment to 
+reserves   – – – – – – 4.4 4.4
+shares granted from treasury and 
+employee trust   – – – – 8.1 – (8.1) –
+dividends paid to company shareholders  7 – – – – – – (27.4) (27.4)
+at 31 december 2016  23.4 (22.5) 8.7 1.1 (50.8) 2.3 467.3 429.5
+    
+at 1 january 2017  23.4 (22.5) 8.7 1.1 (50.8) 2.3 467.3 429.5
+comprehensive income    
+profit after taxation for the year   – – – – – – 36.6 36.6
+other comprehensive income/(expense)    
+exchange gains on foreign currency 
+translation   – – 51.3 – – – – 51.3
+net fair value losses – cash flow hedges   – – – (2.5) – – – (2.5)
+actuarial gain on retirement benefit 
+obligation  25 – – – – – – 10.3 10.3
+tax credit/(charge) on other 
+comprehensive income  5 – – – 0.2 – – (1.9) (1.7)
+total other comprehensive 
+income/(expense)   – – 51.3 (2.3) – – 8.4 57.4
+total comprehensive income/(expense) for 
+the year   – – 51.3 (2.3) – – 45.0 94.0
+transactions with owners    
+share-based payment adjustment to 
+reserves   – – – – – – 1.0 1.0
+shares granted from treasury and 
+employee trust   – – – – 3.2 – (3.2) –
+dividends paid to company shareholders  7 – – – – – – (27.6) (27.6)
+at 31 december 2017  23.4 (22.5) 60.0 (1.2) (47.6) 2.3 482.5 496.9 international personal finance plc annual report and financial statements 2017 97
+financial statements
+statements of changes in equity 
+96 
+group – attributable to owners of the company notes 
+called-up 
+share 
+capital 
+£m
+other 
+reserve 
+£m
+foreign 
+exchange 
+reserve 
+£m
+hedging 
+reserve 
+£m
+own shares  
+£m 
+capital 
+redemption 
+reserve  
+£m 
+retained 
+earnings 
+£m
+total 
+equity 
+£m
+at 1 january 2016  23.4 (22.5) (56.4) (0.3) (58.9) 2.3 439.6 327.2
+comprehensive income    
+profit after taxation for the year   – – – – – – 66.9 66.9
+other comprehensive income/(expense)    
+exchange gains on foreign currency 
+translation   – – 65.1 – – – – 65.1
+net fair value gains – cash flow hedges   – – – 1.5 – – – 1.5
+actuarial loss on retirement benefit 
+obligation  25 – – – – – – (10.0) (10.0)
+tax (charge)/credit on other 
+comprehensive income  5 – – – (0.1) – – 1.9 1.8
+total other comprehensive 
+income/(expense)   – – 65.1 1.4 – – (8.1) 58.4
+total comprehensive income for the year   – – 65.1 1.4 – – 58.8 125.3
+transactions with owners    
+share-based payment adjustment to 
+reserves   – – – – – – 4.4 4.4
+shares granted from treasury and 
+employee trust   – – – – 8.1 – (8.1) –
+dividends paid to company shareholders  7 – – – – – – (27.4) (27.4)
+at 31 december 2016  23.4 (22.5) 8.7 1.1 (50.8) 2.3 467.3 429.5
+    
+at 1 january 2017  23.4 (22.5) 8.7 1.1 (50.8) 2.3 467.3 429.5
+comprehensive income    
+profit after taxation for the year   – – – – – – 36.6 36.6
+other comprehensive income/(expense)    
+exchange gains on foreign currency 
+translation   – – 51.3 – – – – 51.3
+net fair value losses – cash flow hedges   – – – (2.5) – – – (2.5)
+actuarial gain on retirement benefit 
+obligation  25 – – – – – – 10.3 10.3
+tax credit/(charge) on other 
+comprehensive income  5 – – – 0.2 – – (1.9) (1.7)
+total other comprehensive 
+income/(expense)   – – 51.3 (2.3) – – 8.4 57.4
+total comprehensive income/(expense) for 
+the year   – – 51.3 (2.3) – – 45.0 94.0
+transactions with owners    
+share-based payment adjustment to 
+reserves   – – – – – – 1.0 1.0
+shares granted from treasury and 
+employee trust   – – – – 3.2 – (3.2) –
+dividends paid to company shareholders  7 – – – – – – (27.6) (27.6)
+at 31 december 2017  23.4 (22.5) 60.0 (1.2) (47.6) 2.3 482.5 496.9
+statements of changes in equity continued 
+ 
+international personal finance plc annual report and financial statements 2017 
+97 
+company – attributable to owners of the company notes
+called-up 
+share 
+capital 
+£m
+other 
+reserve 
+£m
+hedging 
+reserve 
+£m
+own shares  
+£m 
+capital 
+redemption 
+reserve 
+£m
+retained 
+earnings 
+£m
+total 
+equity 
+£m
+at 1 january 2016 23.4 226.3 0.3 (58.9) 2.3 402.5 595.9
+comprehensive income  
+loss after taxation for the year  – – – – – (17.2) (17.2)
+other comprehensive income/(expense)  
+net fair value gains – cash flow hedges – – 0.4 – – 0.3 0.7
+actuarial losses on retirement benefit obligation  25 – – – – – (10.0) (10.0)
+tax (charge)/credit on other comprehensive 
+income – – (0.1) – – 1.9 1.8
+total other comprehensive income/(expense)  – – 0.3 – – (7.8) (7.5)
+total comprehensive income/(expense) for the 
+year  – – 0.3 – – (25.0) (24.7)
+transactions with owners  
+share-based payment adjustment to reserves  – – – – – 4.4 4.4
+shares granted from treasury and employee trust  – – – 8.1 – (8.1) –
+dividends paid to company shareholders  7 – – – – – (27.4) (27.4)
+at 31 december 2016 23.4 226.3 0.6 (50.8) 2.3 346.4 548.2
+  
+at 1 january 2017 23.4 226.3 0.6 (50.8) 2.3 346.4 548.2
+comprehensive income  
+loss after taxation for the year  – – – – – (21.5) (21.5)
+other comprehensive income/(expense)  
+net fair value losses – cash flow hedges – – (1.5) – – – (1.5)
+actuarial gains on retirement benefit obligation  25 – – – – – 10.3 10.3
+tax credit/(charge) on other comprehensive 
+income – – 0.1 – – (1.9) (1.8)
+total other comprehensive (expense)/income  – – (1.4) – – 8.4 7.0
+total comprehensive expense for the year  – – (1.4) – – (13.1) (14.5)
+transactions with owners  
+share-based payment adjustment to reserves  – – – – – 1.0 1.0
+shares granted from treasury and employee trust  – – – 3.2 – (3.2) –
+dividends paid to company shareholders  7 – – – – – (27.6) (27.6)
+at 31 december 2017 23.4 226.3 (0.8) (47.6) 2.3 303.5 507.1
+the other reserve represents the difference between the nominal value of the shares issued when the company became listed on 16 july 
+2007 and the fair value of the subsidiary companies acquired in exchange for this share capital.the company has elected to take the exemption under section 408 of the companies act 2006 not to present the parent company  
+income statement.accounting policies 
+international personal finance plc annual report and financial statements 2017 
+99 
+general information 
+international personal finance plc (the company) is a public company limited by shares incorporated in the united kingdom under the 
+companies act and is registered in england and wales.the addres s of the registered office is shown within shareholder informat ion on  
+page 137. 
+the principal activities of the company and its subsidiaries (the group) and the nature of the group’s operations are set out i n the strategic 
+report on page 4. 
+these financial statements are presented in pounds sterling because that is the currency of the primary economic environment in which the 
+group operates.foreign operations are set out in accordance with the policies set out on page 104.  
+basis of preparation 
+the consolidated group and parent company financial statements of international personal finance plc and its subsidiaries  
+(‘ipf’ or the ‘group’) have been prepared in accordance with european union endorsed international financial reporting standard s 
+(‘ifrss’), international financial reporting interpretations committee (‘ifric’) interpretations and the companies act 2006 app licable to 
+companies reporting under ifrs.further detail is contained in the financial review on page 35. 
+basis of consolidation 
+the consolidated financial statements incorporate the financial statements of the company and the entities controlled by the co mpany 
+(its subsidiaries) made up to 31 december each year.the group is domiciled in the uk and no revenue is generated in the uk.a further £13.2 million (2016: £12.5 million) has been added to the cost of investment representing the fair value of the share-
+based payment awards over ipf plc shares made to employees of su bsidiary companies of ipf plc.as outlined in the financial review on page 35, the group’s home credit company in poland, provident polska, has been subject t o tax 
+audits in respect of the company’s 2008 an d 2009 financial years.the purpose of these transactions is to manage the interest rate and currency risks arising from the group’s underlying busines s operations.the following sensitivity analysis demonstrates the impact on equit y of a 5% strengthening or weakening of sterling against all exchange rates  
+for the countries in which the group operates: 
+group 
+2017 
+£m
+2016 
+£m
+change in reserves  6.8 4.7
+change in profit before taxation  8.6 6.4
+this sensitivity analysis is based on the following assumptions: 
+• there is a 5% strengthening/weakening of sterling against all currencies in which the group operates (polish zloty, czech crown , euro, 
+hungarian forint, mexican peso, romanian leu, and australian dollar); and 
+• there is no impact on retained earnings or equity arising from those items which are naturally hedged (where the currency asset is exactly 
+equal to the currency liability).scheme assets are stated at fair value as at 31 december 2017. the major assumptions used by the actuary were: 
+group and company 
+2017 
+%
+2016 
+%
+price inflation (‘cpi’)  2.1 2.4
+rate of increase to pensions in payment  2.9 3.2
+discount rate  2.6 2.7
+the expected return on scheme assets is determined by considering the expected returns available on the assets underlying the c urrent 
+investment policy.the 
+income statement charge in respect of this scheme is calculated using the share price at the date of grant.

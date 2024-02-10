@@ -1,0 +1,216 @@
+dicom group plc
+6
+160
+140
+120
+100
+80
+60
+40
+20
+2000           2001           2002
+edc                          sga                           other          
+turnover in £m
+chairman’ s
+s ta tement the edc division contributed £9.3m (2001:
+£7 .0m) operating profit, an increase of 33%. the
+residual exposure is secured by 450,000
+dicom group shares, currently held in escrow. staff
+staff numbers grew from 718 to 773 during the
+year, principally due to the acquisition of a
+majority stake in dicom asia. acquisitions
+on 27 june 2002 dicom group announced it
+had increased its holding in dicom asia
+holdings pte ltd from 40% to 80% by
+purchasing the balance from local management. however connectivity
+between input devices and applications is
+frequently inadequate or absent resulting in
+data and document access being imprecise,
+slow and hence expensive. product developments
+our award winning virtual rescan™ (vrs)
+product line, which optimises both image quality
+and the scan process, continues to do very well. the asic version
+of vrs, which is being sold on the basis of oem
+agreement for use in document scanners, is
+being sold to both new scanner manufacturers
+and for new scanner models thereby increasing
+its future sales prospects significantly. ascent capture 5.5, a major release of the award
+winning capture application, was launched in
+may 2002 offering broader product functionality
+and improved support for high performance
+databases. this represents 82% of dicom group’s total
+operating profit before goodwill amortisation
+and exceptional items. exceptional charges
+as previously announced dicom group has
+incurred certain costs during the year, which
+have been treated as exceptional charges. following the default on 1 april 2002 of a
+scheduled consideration payment dicom group
+has reviewed its overall exposure in relation to a
+non-core investment disposed of in early 2000.
+a provision of £4m (with no adverse future cash
+flow implications) is considered necessary. this
+sum is treated as an exceptional item. during the year the core edc (electronic
+document capture) division continued to bene-
+fit from its position as the leading global
+partner for edc products and services with a
+significant level of new contract gains. in the
+face of very challenging global it market condi-
+tions edc continued its growth record and
+expanded its market position by new product
+launches and additional partnership
+agreements. the sga (samsung general agency) division
+experienced declining turnover rates in difficult
+trading conditions, but maintained an
+acceptable, albeit lower, level of operating profit
+contribution. during the year edc also
+launched a number of new products and
+entered new partnership arrangements, which
+will enable the group to address new areas of
+the edc market. about
+dicom group annual report 2002
+5
+year to 30 june year to 30 june
+2002 2001
+£'000 £'000 percentage increase
+turnover up 7% at £149.5m
+operating profit (before goodwill amortisation and exceptional charges) up 14% to £11.3m
+cash flow generated from operations up 67% £14.0m (£8.4m)
+financial
+highlight s
+turnover 149,527 140,290 7%
+operating profit * 11,262 9,876 14%
+profit before tax * 10,816 9,607 13%
+earnings per share
+- basic 3.5p 27.9p (87%)
+- adjusted 36.9p 33.4p 10%
+- diluted 3.5p 27.6p (87%)
+total dividend per share 4.2p 3.66p 15%
+average number of ordinary shares 20,821,701 20,716,446
+average number of employees 736 634
+* before goodwill amortisation and exceptional charges
+20,821,701
+737
+149,527
+11,262
+10,900
+3.5p
+36.9p
+3.5p
+4.2p results
+i am pleased to report a record set of results for
+the financial year 2002, a period marked by the
+most challenging trading conditions in the
+global it industry for a long time. group
+turnover for the year to 30 june 2002 was up
+7% to £149.5m (2001: £140.3m). acquisitions
+contributed 1% of turnover growth. operating
+profit before exceptional items amounted to
+£9.2m (2001: £8.1m), an increase of 14%. dicom group’s business prospects in the us
+have not been materially adversely affected by
+the discontinuance of the us distributor. the edc solutions offered by dicom group
+solve this dilemma at an attractive cost to
+benefit ratio. edc investments, however,
+were broadly saved from this development as
+they allow quick payback periods to be
+achieved. blue chip software houses and system
+integrators have continued to integrate ascent
+capture products and vrs into their solutions as
+a result of ongoing focused sales and marketing
+initiatives. we are very pleased to have elected
+arnold von büren to succeed me as ceo from 1
+july 2002. arnold has been with the group
+since 1994 and recently managed the successful
+integration of kofax since february 2000.
+before that he was responsible for the europe-
+based edc operations. in
+july 2002 dicom group applied for a de-listing
+from the neuer markt segment of the deutsche
+börse in frankfurt, while retaining its listing on
+the main board (“geregelter markt”). arnold von büren
+chief executive officer 10 october 2002
+dicom group plc
+10
+the software version of vrs (v2.1) now supports
+more than 40 document scanner models with
+real time image enhancement features. in may
+2002 we were awarded an us patent for vrs. it
+permits multifunctional products and digital
+copiers to be used as document scanners. almost all organisations have copiers and
+scanner in use. chase manhattan mortgage
+chose kofax ascent capture software and
+adrenaline scanner controller boards, and now
+scans more than 2.5 million documents per
+month. documents are
+converted to pdf files and an annotation
+summariser summarises all remarks per file
+with direct links to the individual documents
+contained in the file. edc solutions are used to enable off-line data and documents gain an
+online status, to automatically extract mission critical information and
+link the content to a broad range of it applications. through authorised business partners dicom group has helped more
+than 10,000 blue chip enterprises in over 60 countries to accomplish
+superior office efficiency. it
+develops and sells software and electronic
+components, provides a broad range of edc
+services and distributes key related products to
+over 1,000 system integrators and software
+houses in more than 60 countries world-wide. edc solutions offer end users high returns on
+investment by allowing data and document
+intensive organisations to reduce business
+transaction costs and improve their level of
+customer service. 2002
+annual report& accounts   dicom group plc 
+leading in products and services for the 
+electronic document capture market and the 
+automation of related business transactions 
+doc ument s in
+inf orma tion out 13
+39
+14
+18
+20
+23
+6
+dicom group plc
+2 annual report 2002
+3
+4 about dicom group
+5 financial highlights
+6 chairman’s statement
+9 chief executive´s review
+11 financial review
+13 making your information digital
+14 our customers
+17 our global edc team
+18 our edc products
+20 our commitment to the future
+21 sga division
+22 international presence
+23 team & organisation
+24 company news
+25 the dicom group share
+27 directors 
+29 directors’ report
+31 corporate governance statement
+34 remuneration report
+36 statement of directors’ responsibilities
+37 independent auditors’ report
+39 consolidated financial statements
+45 notes to the financial statements
+62 five year record
+63 notice of annual general meeting
+68 company secretary and advisers
+68 principal subsidiaries
+c ontent s dicom group plc
+4
+dicom group plc
+dicom group is the global leader in the electronic document capture
+(edc) market, a fast growing segment of the office automation industry. its customers are supported by more than
+some 700 edc specialists working out of one of its 23 subsidiaries in
+europe, the us, south east asia and australia. financial position
+due to its cash generative business model the
+group generated cash flow from operations of
+£14.0m (2001: £8.4m) and ended the year with
+net funds of £3.8m (net debt of £0.7m at 30
+june 2001). the group spent £1.7m in cash on
+acquisitions and other investments during the
+year .

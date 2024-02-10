@@ -1,0 +1,170 @@
+developments during the year 
+  during the year zotefoams began working on 
+improvements to its risk management processes as 
+well as the tools and guidelines to achieve this goal.they have also undertaken 
+a sensitivity analysis over the key trading assumptions 
+and considered the potential financial and operational 
+impacts of the principal risks and uncertainties set out 
+on pages 25 to 29. 
+on the basis of this and other matters considered and 
+reviewed by the directors during the year, the directors 
+have a reasonable expectation that the group will be 
+able to continue in operation and meet its liabilities as 
+they fall due over the five-year period.the group has appropriate contingency plans in  
+place in the event of the failure of certain major pieces 
+of equipment.the group has a hedging policy, which is approved 
+by the board.the last triennial actuarial valuation of the scheme is 
+as at 5 april 2017 and the outcome of this is still being 
+considered.4.
+risk trend
+>
+pension
+strategy
+4.
+risk trend
+>
+operational: 
+cyber threats
+strategy
+1.these might include a questionnaire to identify specific 
+topics, but there is always a discussion at one of the 
+meetings each year to consider the activities of the 
+committee during the year and areas for improvement.these included improving the 
+succession plans of both the board and the group’s 
+senior management, redesigning the risk management 
+process and utilising more ‘in flight’ reviews to enhance 
+the effectiveness of the board.zotefoams plc annual report 2017 48
+annual report on remuneration
+statement of implementation of the directors’ remuneration policy in 2018 (unaudited)
+base salary and annual bonus
+due to the previous directors’ remuneration policy providing a base remuneration below the market for the 
+executive directors, upon approval of the new directors’ remuneration policy at the 2017 agm, the executive 
+directors’ base salaries were increased, effective 1 april 2017 , by 6% to £238,500 per annum for the group ceo, 
+d b stirling and by 9% to £156,500 for the group cfo, g c mcgrath.the total award vesting is the sum of the awards for tsr and eps.none of the committee members are involved in the day-to-day management of the 
+business.in 2017 , the remuneration committee considered the following matters:
+  completing a wholesale review of the remuneration strategy for the executive team and finalising the creation 
+of the new directors’ remuneration policy, which included consulting with a number of the group’s largest 
+shareholders; 
+  the directors’ remuneration report for 2016 and relevant matters; 
+  the annual bonuses for the executive team and the employees; 
+  the grant of hmrc approved share options; 
+  the grant of awards under the long-term incentive plan and the deferred bonus share plan and the vesting  
+of awards made in 2014 under the long-term incentive plan; 
+  the salary review of the executive team and the company secretary; 
+  evaluating its effectiveness, in particular in formulating the new directors’ remuneration policy and the services 
+provided by the remuneration consultant; 
+  bonus arrangements for the uk workforce; 
+  considering new rules for the long-term incentive plan, the deferred bonus share plan and the annual bonus 
+plan;
+  reviewing pension matters for the uk workforce; and
+  performance targets to be used for the 2018 directors’ annual bonus and long-term incentive plan awards.for further information on the 
+performance of the entity refer to the strategic report.we designed audit procedures at group and 
+significant component level to respond to the risk, recognising that the risk of not detecting a material misstatement due to fraud is higher than the risk 
+of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or 
+through collusion.misstatements can arise from fraud or error and 
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of these financial statements.the company has elected to take the exemption under section 408 of the companies act 2006 from presenting the company profit and loss account.as a consequence, the directors believe that the group is well placed to manage its business risks.zotefoams plc annual report 2017 76
+2. significant accounting policies (continued)
+2.4 derivative financial instruments
+the group uses derivative financial instruments to hedge its exposure to foreign exchange risks arising from operational, financing and investment 
+activities.the fair value of forward exchange contracts is their quoted market price at the statement of financial position date, being the present value of the quoted 
+forward price.development costs previously recognised  
+as an expense are not recognised as an asset in a subsequent period.for loans and receivables, the amount of the loss is measured as the difference between the asset’s carrying amount and the present value of estimated 
+future cash flows (excluding future credit losses that have not been incurred) discounted at the financial asset’s original effective interest rate.the liability recognised in the statement of financial position in respect of defined benefit pension plans is the present value of the defined benefit obligation 
+at the end of the reporting period, less the fair value of plan assets.deferred tax is determined using tax rates (and laws) that have been enacted or substantively enacted by the 
+statement of financial position date and are expected to apply when the related deferred tax asset is realised or the deferred tax liability is settled.lease rentals amounting to £106k (2016: £66k) and £377k (2016: £110k) relating to the lease of machinery and property, respectively, are included  
+in the income statement (note 22).zotefoams plc annual report 2017 92
+12. intangible assets (continued)
+company
+capitalised 
+development 
+£’000
+customer 
+related  
+£’000
+software 
+related  
+£’000
+total 
+£’000
+cost
+balance at 1 january 2016 – 121  2,233  2,354 
+additions 198 – 236  434 
+balance at 31 december 2016 198  121  2,469  2,788 
+balance at 1 january 2017 198  121  2,469  2,788 
+additions 156  97  253 
+balance at 31 december 2017 354  121  2,566  3,041 
+accumulated amortisation
+balance at 1 january 2016 – 69  298  367 
+charge for the year – 52  343  395 
+balance at 31 december 2016 – 121  641  762 
+balance at 1 january 2017 – 121  641  762 
+charge for the year – – 374  374 
+balance at 31 december 2017 – 121  1,015  1,136 
+net book value
+at 1 january 2016 – 52  1,935  1,987 
+at 31 december 2016 and 1 january 2017 198 – 1,828  2,026 
+at 31 december 2017 354 – 1,551  1,905 
+13. investment in subsidiaries
+company
+2017 
+£’000
+2016 
+£’000
+shares in group undertakings – at cost 26,840 16,754
+provision against the value of investment in subsidiary (3,294) (3,294)
+23,546 13,460
+during the year, the company increased its investment in its wholly-owned subsidiary, zotefoams international limited, by converting an intercompany 
+receivable balance of £9,800k, owed to the company by zotefoams inc, a wholly-owned subsidiary of zotefoams international limited.the group’s and company’s treasury risk management policy is to hedge approximately two-thirds of anticipated cash flows (mainly sales and purchases) 
+in us dollar and euros for the subsequent 9-12 months.this is generally within 12 months 
+of the end of the reporting period.notes continued zotefoams plc annual report 2017 101
+strategic report governance financial statements
+21. financial instruments and financial risk management (continued)
+estimation of fair values
+the following summarises the major methods and assumptions used in estimating fair values of financial instruments reflected in the table above.ii) exceptional item
+due to the material and non-recurring nature of the items, the group has disclosed the increase in past service costs as an exceptional item in 2017  
+(2016: restructuring costs).16.  that the rules of the zotefoams plc approved 
+share option plan 2018 (the ‘2018 asop’), 
+described in the circular of which the notice 
+containing this resolution forms part and in the 
+form produced in draft to the meeting and for the 
+purposes of identification initialled by the chairman 
+of the meeting, be and are hereby approved and 
+adopted and that the directors be and are hereby 
+authorised to do all such other acts and things as 
+they may consider appropriate to implement the 
+2018 asop , including making any changes to the 
+rules of the 2018 asop necessary or desirable in 
+order to ensure that the directors can make a valid 
+declaration to hm revenue & customs that the 
+2018 asop satisfies the requirements of schedule 
+4 to the income tax (earning and pensions) act 
+2003. dated: 4 april 2018
+by order of the board
+registered office: 
+675 mitcham road 
+croydon 
+cr9 3al
+j w kindell
+company secretary zotefoams plc annual report 2017 112
+notice of the 2018 annual general meeting 
+continued
+notes 
+(i)  pursuant to part 13 of the companies act 2006 and to 
+regulation 41 of the uncertificated securities regulations 
+2001 (as amended), only those members registered in 
+the register of members of the company at the close of 
+business on 14 may 2018 (or if the agm is adjourned, 48 
+hours before the time fixed for the adjourned agm) shall 
+be entitled to attend and vote at the agm in respect of the 
+number of shares registered in their name at that time.in each case, changes to the register of members after 
+such time shall be disregarded in determining the rights  
+of any person to attend or vote at the agm.special business 
+resolution 12 – power to allot shares 
+this resolution grants the directors authority to allot shares 
+in the capital of the company and other relevant securities 
+up to an aggregate nominal value of £740,240, representing 
+approximately one-third (33.33%) of the nominal value of the 
+issued ordinary share capital of the company as at 3 april 
+2018, being the latest practicable date before publication 
+of this notice.

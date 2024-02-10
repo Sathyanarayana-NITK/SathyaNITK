@@ -1,0 +1,136 @@
+the 2017 losses
+have been fully recognised in these accounts 
+so any improvement in the next two years 
+will contribute to earnings.the accounting policy requires an assessment 
+of the carrying value of each syndicate 
+participation against the latest average auction 
+prices.the capacity acquired on the “off-risk” years 
+that is retained 100% by helios contributes 
+a significant part of the profits of the group.the aep 1 in 30 figure is the weighted average of each syndicate’s 1 in 30 projections which serves as a guide to the portfolio aggregate.the 2017 losses 
+from three hurricanes making landfall in the us were significant but the losses were absorbed 
+by the strong capital position of the insurance industry.the high aggregation of coastal 
+exposures in the us and other developed markets is one reason why further catastrophe 
+losses and dislocations cannot be ruled out in the future.the committee meets the auditors and 
+reviews reports from the auditors relating to 
+the accounting and internal control systems.conclusions relating to going concern 
+we have nothing to report in respect of the following matters in relation to which the isas (uk) require us to report to you where: 
+• the directors’ use of the going concern basis of accounting in the preparation of the financial statements is not appropriate; or 
+• the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt 
+about the group’s or the parent company’s ability to continue to adopt the going concern basis of accounting for a period of 
+at least twelve months from the date when the financial statements are authorised for issue.annual report and financial statements 2017 — helios underwriting plc 21
+financial statements
+matters on which we are required to report by exception 
+in light of the knowledge and understanding of the group and the parent company and their environment obtained in the course of the audit, 
+we have not identified material misstatements in the strategic report or the directors’ report.misstatements 
+can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence 
+the economic decisions of users taken on the basis of these financial statements.helios underwriting plc — annual report and financial statements 2017 26
+parent company statement of changes in equity – year ended 31 december 2017
+note
+share
+ capital
+£’000
+share
+premium
+£’000
+retained
+earnings
+£’000
+total
+equity
+£’000
+at 1 january 2016 1,050 9,901 11,015 21,966
+total comprehensive income for the year:
+profit for the year — — 2,539 2,539
+other comprehensive income, net of tax — — — —
+total comprehensive income for the year — — 2,539 2,539
+transactions with owners:
+dividends paid 12 — — (525) (525)
+share issue, net of transaction costs 21 410 5,498 — 5,908
+total transactions with owners 410 5,498 (525) 5,383
+at 31 december 2016 1,460 15,399 13,029 29,888
+at 1 january 2017 1,460 15,399 13,029 29,888
+total comprehensive income for the year:
+profit for the year — — (4,514) (4,514)
+other comprehensive income, net of tax — — — —
+total comprehensive income for the year — — (4,514) (4,514)
+transactions with owners:
+dividends paid 12 — — (803) (803)
+share issue, net of transaction costs 21 50 (12) — 38
+total transactions with owners — (12) (803) (815)
+at 31 december 2017 1,510 15,387 7,712 24,609
+the notes are an integral part of these financial statements.the directors have a reasonable expectation that the group and the company have adequate resources to meet their underwriting and other 
+operational obligations for the foreseeable future.the excess of the cost of acquisition over the fair value of the group’s share of the identifiable net assets acquired is capitalised and recorded 
+as goodwill.adjustments to the 
+amounts of claims provisions established in prior years are reflected in the financial statements for the period in which the adjustments are made.the provision is made on 
+a syndicate-by-syndicate basis by the relevant managing agent.closed years of account
+at the end of the third year, the underwriting account is normally closed by reinsurance into the following year of account.the provision is determined initially by the managing agent on 
+a similar basis to the reinsurance to close.the key accounting judgements and sources of estimation uncertainty set out below therefore relate to those made in respect of the company 
+only, and do not include estimates and judgements made in respect of the syndicates.for the purposes of setting capital requirements for the 2017 and subsequent years of account, each managing agent will have prepared a 
+lloyd’s capital return (“lcr”) for the syndicate to agree capital requirements with lloyd’s based on an agreed assessment of the risks impacting 
+the syndicate’s business and the measures in place to manage and mitigate those risks from a quantitative and qualitative perspective.annual report and financial statements 2017 — helios underwriting plc 39
+financial statements
+5. segmental information
+nigel hanbury is the group’s chief operating decision-maker.the group’s role in managing these risks, in conjunction 
+with the group’s members’ agent, is limited to a selection of syndicate participations and monitoring the performance of the syndicates and 
+their managing agents.15. financial assets at fair value through profit or loss
+the group uses the following hierarchy for determining and disclosing the fair value of financial instruments by valuation technique:
+level 1: the fair value of financial instruments traded in active markets (such as publicly traded securities) is based on quoted market prices 
+(unadjusted) at the end of the reporting period.the group entered into a lloyd’s deposit trust deed which gives lloyd’s the right to apply these monies in settlement of 
+any claims arising from the participation on the syndicates.after the alignment of accounting policies and other 
+adjustments to the valuation of assets and liabilities to reflect their fair value at acquisition, the fair value of the net assets was £279,000.the following table explains the fair value adjustments made to the carrying values of the major categories of assets and liabilities at the 
+date of acquisition:
+carrying value
+£’000
+adjustments
+£’000
+fair value
+£’000
+intangible assets — 516 516
+financial assets at fair value through profit or loss
+reinsurance assets: 747 — 747
+– reinsurers’ share of claims outstanding 206 — 206
+– reinsurers’ share of unearned premium 38 — 38
+other receivables, including insurance and reinsurance receivables 914 — 914
+deferred acquisition cost 64 — 64
+prepayments and accrued income 5 — 5
+cash and cash equivalents 104 — 104
+insurance liabilities:
+– claims outstanding (1,019) — (1,019)
+– unearned premium (327) — (327)
+deferred income tax liabilities — (98) (98)
+other payables, including insurance and reinsurance payables (839) — (839)
+accruals and deferred income (32) — (32)
+net assets acquired (139) 418 279
+satisfied by:
+cash and cash equivalents 871 — 871
+loan paid on acquisition (563) — (563)
+total consideration 308 — 308
+goodwill 447 (418) 29
+2015 year
+of account
+2016 year
+of account
+2017 year
+of account
+capacity acquired 749,927 756,697 784,666
+the net earned premium and loss of pooks limited for the period since the acquisition date to 31 december 2017 are £531,000 and 
+£15,000 respectively.goodwill has arisen on the acquisition of pooks limited as a result of the purchase consideration being in excess of the fair value of net 
+assets acquired.annual report and financial statements 2017 — helios underwriting plc 53
+financial statements
+22. acquisition of limited liability vehicles continued
+(a) 2017 acquisitions continued
+charmac underwriting limited
+on 3 april 2017, helios underwriting plc acquired 100% of the issued share capital of charmac underwriting limited for a total consideration 
+of £2,240,000.helios underwriting plc — annual report and financial statements 2017 54
+notes to the financial statements continued – year ended 31 december 2017
+22. acquisition of limited liability vehicles continued
+(a) 2017 acquisitions continued
+nottus (no 51) limited
+on 8 june 2017, helios underwriting plc acquired 100% of the issued share capital of nottus (no 51) limited for a total consideration of £965,000.goodwill has arisen on the acquisition of salviscount llp as a result of the purchase consideration being in excess of the fair value of net 
+assets acquired.helios underwriting plc — annual report and financial statements 2017 62
+notes to the financial statements continued – year ended 31 december 2017
+24. related party transactions continued
+the limited liability vehicles have entered into a members’ agent agreement with hampden agencies limited.under the agreement the limited liability vehicles will pay hampden agencies limited a fee based on a fixed amount, which will vary depending 
+upon the number of syndicates the limited liability vehicles underwrites on a bespoke basis, and a variable amount depending on the level 
+of underwriting through the members’ agent pooling arrangements.in addition, the limited liability vehicles will pay profit commission on 
+a sliding scale from 1% of the net profit up to a maximum of 10%.

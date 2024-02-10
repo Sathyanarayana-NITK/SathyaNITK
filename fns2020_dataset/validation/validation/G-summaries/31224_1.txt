@@ -1,0 +1,173 @@
+gan is one of those very few 
+companies, and the company’s technical 
+systems, operational know-how and proven 
+track record of excellence represent a 
+substantial competitive barrier to entry 
+together with the company’s strategic us 
+patent governing the all-important linkage 
+of an internet gaming account with an 
+on-property rewards account.the group has continued to rationalise its 
+cost base through the opening of a new 
+technical development office in bulgaria.net revenue for the year of £9.1m has increased 
+by 17% and is £1.3m higher than the net revenue 
+generated in the previous year of £7.8m.all of the organisations above have different 
+requirements and regulations and the group 
+is proud that we exceed these in all areas of 
+responsible gaming.the remuneration committee reviews the 
+performance of the executive director and 
+sets and reviews the scale and structure of his 
+remuneration.the 
+nomination committee comprises michael 
+smurfit jr., seamus mcgill and roger kendrick 
+and is chaired by michael smurfit jr.
+internal control
+the group has adopted a share dealing code 
+in conformity with the requirements of rule 
+21 of the aim rules and esm rules and will 
+take steps to ensure compliance by the board 
+and the group’s employees with the terms of 
+the code.in the opinion of the directors, continuity of investment in  
+this area is essential to strengthen the group’s market position and for future growth.under company law  
+the directors must not approve the financial 
+statements unless they are satisfied that  
+they give a true and fair view of the state  
+of affairs of the group and company and  
+of the profit or loss of the group for that 
+period.the maintenance and integrity  
+of the group’s website is the responsibility  
+of the directors.the directors’ responsibility 
+also extends to the ongoing integrity of the 
+financial statements contained therein.we reviewed a sample of key contracts entered 
+into during the year to assess whether the 
+revenue had been recognised in accordance 
+with the group’s accounting policy, and to 
+assess the critical estimates and judgements, 
+in particular in respect of the allocation of 
+revenue between performance objectives, 
+and whether any other terms within the 
+contract had any material accounting or 
+disclosure implications.the directors’ disclosures in respect to  
+going concern are set out in note 2.
+our response
+the forecasts have been prepared on two 
+bases, one being that there is a further equity 
+fund-raise in the forecast period and one 
+excluding any further fund-raising.in setting the level of 
+performance materiality we considered  
+a number of factors including the expected 
+total value of known and likely misstatements 
+(based on past experience and other factors) 
+and management’s attitude towards proposed 
+adjustments.we have nothing to report in respect of the 
+following matters in relation to which the 
+companies act 2006 requires us to report 
+to you if, in our opinion:
+• adequate accounting records have not been 
+kept by the parent company, or returns 
+adequate for our audit have not been 
+received from branches not visited by us; or
+• the parent company financial statements 
+are not in agreement with the accounting 
+records and returns; or
+• certain disclosures of directors’ 
+remuneration specified by law are not 
+made; or
+• we have not received all the information 
+and explanations we require for our audit.responsibilities of directors
+as explained more fully in the directors’ 
+responsibilities statement set out on page 28, 
+the directors are responsible for the preparation 
+of the financial statements and for being 
+satisfied that they give a true and fair view, 
+and for such internal control as the directors 
+determine is necessary to enable the preparation 
+of financial statements that are free from 
+material misstatement, whether due to  
+fraud or error.the consolidated financial statements present the results of the company and its subsidiaries (the group) as if they formed a single entity.all assets and liabilities of overseas operations, including goodwill arising on the acquisition of those operations, are translated at the rate  
+ruling at the reporting date.on disposal of a foreign operation, the cumulative exchange differences recognised in the foreign exchange reserve relating to that operation 
+up to the date of disposal are transferred to the consolidated statement of comprehensive income as part of the profit or loss on disposal.financial statements  |  governance  |  strategic report
+gan plc annual report and accounts 2017 41 2. summary of significant accounting policies continued
+2.6 intangible assets
+externally acquired intangible assets
+externally acquired intangible assets are initially recognised at cost and subsequently amortised on a straight line basis over their useful 
+economic lives.the amortisation expense is included within the distribution cost line in the consolidated statement of 
+comprehensive income.development expenditure not satisfying the above criteria and expenditure on the research phase of internal projects are recognised in the 
+consolidated statement of comprehensive income as incurred.the impact of the revision of the original estimates, if any, is recognised in profit or loss such that the cumulative expense 
+reflects the revised estimate, with a corresponding adjustment to equity reserves.financial statements  |  governance  |  strategic report
+gan plc annual report and accounts 2017 43 3. financial risk management (see also note 15)
+3.1 financial risk factors
+the group’s activities expose it to a variety of financial risks: market risk, credit risk and liquidity risk.management monitors rolling forecasts of the group’s liquidity and cash  
+and cash equivalents on the basis of expected cash flow.financing decisions are made by the board of directors based on forecasts of the expected timing and level of capital and operating expenditure 
+required to meet the group’s commitments and development plans.further details of the group’s accounting policy in relation 
+to impairment are disclosed in note 2.8. 
+the application of the policy requires the use of accounting estimates and judgements in determining the recoverable amount of cash-generating 
+units to which the intangible assets are associated.year ended 31 december 2017
+rmg
+£’000
+simgam
+£’000
+total
+£’000
+net revenue 5,014 4,106 9,120
+distribution costs (excluding depreciation and amortisation) (2,403) (1,195) (3,598)
+segment result 2,611 2,911 5,522
+administration expenses (5,223)
+depreciation on property, plant and equipment (379)
+amortisation of intangible assets (3,851)
+impairment of intangible assets (168)
+net finance cost (117)
+loss before taxation (4,216)
+tax credit 738
+loss for the year after taxation (3,478)
+year ended 31 december 2016
+rmg
+£’000
+simgam
+£’000
+total
+£’000
+net revenue 4,745 3,058 7,803
+distribution costs (excluding depreciation and amortisation) (2,077) (1,357) (3,434)
+segment result 2,668 1,701 4,369
+administration expenses (5,600)
+depreciation on property, plant and equipment (375)
+amortisation of intangible assets (3,203)
+impairment of intangible assets (411)
+net finance income 21
+loss before taxation (5,199)
+tax credit 1,440
+loss for the year after taxation (3,759)
+notes to the financial statements continued
+for the year ended 31 december 2017
+financial statements
+46 gan plc annual report and accounts 2017 5. segmental information continued
+the accounting policies of the reportable segments follow the same policies as described in note 2. segment result represents the gross profit 
+earned by each segment without allocation of the share of administration costs including directors’ salaries, finance costs and income tax expense.of the trade and other receivables financial instruments as at 31 december 2017, the group does not have a concentration of credit 
+risk exposure to a single counterparty (2016: £nil).the directors do not believe there is any equity component of the convertible loan notes as the interest rate reflects the fair value of the debt 
+and therefore the loan note is treated as a liability.financing decisions are made by the board of directors based on forecasts of the expected timing and level of capital and operating 
+expenditure required to meet the group’s commitments and development plans.the carrying amount of the group’s foreign currency denominated monetary assets and monetary liabilities and details of the exposure  
+at 31 december 2016 and 2017 are shown in notes 12, 13 and 14.
+at each year end, if the united states dollar, euro and australian dollar had weakened by 10% and by 20% against the uk pound sterling 
+with all other variables held constant, post tax loss for the year would have (increased)/decreased by:
+impact of  
+a movement  
+in stated 
+currencies of 
+10% on post tax 
+profit and 
+impact on 
+equity
+£’000
+impact of  
+a movement  
+in stated 
+currencies of 
+20% on post tax 
+profit and 
+impact on 
+equity
+£’000
+at 31 december 2016 (354) (570)
+at 31 december 2017 (312) (560)
+10% to 20% is the sensitivity rate range that represents management’s assessment of the reasonable possible change in foreign exchange rates.the directors currently believe that 
+interest rate risk is at an acceptable level.

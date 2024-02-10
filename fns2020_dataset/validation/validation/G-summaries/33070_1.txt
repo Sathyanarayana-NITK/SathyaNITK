@@ -1,0 +1,129 @@
+for a summary of the material
+differences between uk and us gaap and related information relevant to reuters group, see pages 74-80 of this report.for more information, see 
+pages 22-23.
+company information
+continued
+10 reuters group plc annual report and form 20-f 2004
+  operating and financial review
+reuters group plc annual report and form 20-f 2004   11
+review of year end results
+under us law, all statements other than statements of historical fact included
+in this review are, or may be deemed to be, forward-looking statements within
+the meaning of section 27a of the securities act of 1933 and section 21e of
+the securities exchange act of 1934. certain important factors that could
+cause actual results to differ materially from those discussed in such forward-
+looking statements are described under section 9 ‘risk factors’ on pages
+23-25 as well as elsewhere in this review.the rationale for this analysis is outlined below
+and reconciliations of the non-gaap measures used to uk gaap are included
+within the review of results.as part of the fast 
+forward programme, the portfolio of companies continues to be scaled back.operating costs
+reuters operating costs were £2,486 million in 2003, a reduction of 
+£309 million (11%) from 2002. this decrease was driven by savings from 
+fast forward and earlier transformation programmes.starting in 2005, reuters will be reporting under the
+new ifrs standards, which are not expected to significantly affect the amount
+of eps accretion or the impact of margin from the acquisition, but may affect
+reuters core eps calculation.for more information, see pages 7 and 89. the key objectives of the treasury function are to ensure sufficient liquidity
+exists to meet funding needs and to manage the interest rate and currency risks
+arising from reuters group’s operations and its sources of finance.the conversion of net investments in overseas subsidiaries into the group’s
+reporting currency of sterling creates translation exposure.instinet group and bridge
+trading face competition from securities brokers, trading venues and other
+financial service providers, including many that are well-capitalised and
+substantially larger than instinet group or bridge trading, as the case may 
+be, and have substantially greater financial, technical, marketing and other
+resources.to achieve its strategic objectives, reuters group has acquired, invested in
+and/or disposed of, and in the future may seek to acquire, invest in and/or
+dispose of various companies and businesses.subject to shareholders’ approval at the annual general meeting
+(agm) to be held on 21 april 2005, the final dividend will be paid on 28 april
+2005 to members on the register at the close of business on 11 march 2005. details of average number of employees by segment are given on 
+page 49.
+reuters policy is that selection of employees, including for recruitment, training,
+development and promotion, should be determined solely on their skills, abilities
+and other requirements which are relevant to the job and in accordance with the
+laws in the country concerned.06 authority for company to purchase own shares
+at the agm held on 22 april 2004, shareholders renewed the company’s
+authority under section 166 of the companies act 1985 to make purchases of
+up to 143,254,000 ordinary shares at a price of not more than 5% above their
+average middle market quotation in the london stock exchange daily official
+list for the five business days prior to the date of purchase.they are set out in the company’s constitutional documents and in the code of
+conduct which applies to every reuters employee.the board has determined that these directors
+are independent according to the nasdaq and sec definitions.if the target rate is not met by the end of the fifth year,
+the options will lapse.as the awards are calculated in sterling and devin wenig’s
+salary is denominated in us dollars, the proportion of his salary actually awarded
+is impacted by the exchange rate.these adjustments are discussed on page 74 and have
+the effect of increasing the group’s profits in each of 2002 and 2003 as stated
+under us gaap.an audit includes examination, on a test
+basis, of evidence relevant to the amounts and disclosures in the financial
+statements and the auditable part of the remuneration report.03 net interest receivable/(payable)
+2004 2003 2002
+£m £m £m
+interest receivable: 
+listed investments  – – 1
+unlisted investments  22 13 19
+share of joint ventures and associates interest (see note 16)  1 59
+interest receivable 23 18 29
+interest payable:  
+bank loans and overdraft  (2) (10) (4)
+other borrowings  (24) (36) (45)
+unwinding of discounts (1) (1) –
+interest payable (27) (47) (49)
+total net interest payable  (4) (29) (20) notes on the consolidated profit and loss account
+continued
+48 reuters group plc annual report and form 20-f 2004
+04 taxation on profit on ordinary activities
+2004 2003 2002
+£m £m  £m  
+uk corporation tax   
+uk corporation tax on profits of the period 25 68 43
+share of joint ventures and associates tax (see note 16)  1 1–
+adjustments in respect of prior periods  (32) (19) (13)
+(6) 50 30
+double taxation relief  (3) (4) (7)
+(9) 46 23
+foreign tax  
+current tax on income for the period  56 26 82
+share of joint ventures and associates tax (see note 16)  2 66
+adjustments in respect of prior periods  (9) (36) (9)
+49 (4) 79
+current tax charge for the period 40 42 102
+deferred taxation (see note 24)  33 (20) (79)
+taxation on profit on ordinary activities 73 22 23
+a reconciliation of the current tax charge on ordinary activities for the period reported in the profit and loss account is set out below.the acquisition of the remaining equity interests in multex investor europe
+and multex investor japan in 2003 was accounted for in accordance with frs
+2 ‘accounting for subsidiary undertakings’, which represented a departure
+from the requirements of the companies act 1985.
+basis of consolidation
+the consolidated financial statements include:
+• the financial statements of reuters group plc and its subsidiaries to 
+31 december.impairment is measured by comparing the carrying value of the asset with 
+the higher of the net realisable value and the value in use.under us gaap, shares held by esots
+are shown as a deduction from shareholders’ equity until share options are
+exercised by employees.a. revenue recognition
+under uk gaap , revenue from contracts for the outright sale of systems-based
+product solutions, which include the sale of fully developed software licences, 
+is recognised at the time of client acceptance.under uk gaap, interest on fixed income securities
+and on cash balances is recorded below operating activities in the profit and
+loss account.under uk gaap , stock compensation expenses are not required to be recorded
+in respect of certain joint ventures’ and associates’ stock option plans.under uk gaap , goodwill is amortised on 
+a systematic basis, whereas under us gaap, goodwill is not amortised but
+written down when an impairment arises.under
+us gaap, prior to 1 july 2001, goodwill was amortised over its estimated
+useful life consistent with uk gaap .under us gaap, if a saye scheme is offered at a lower price than those
+offered previously and participants are able to transfer out of an existing
+scheme into the new scheme, variable accounting rules apply.under the articles, the special
+rights attaching to the founders share may not be varied or abrogated in any
+respect without the prior written consent of the founders share company.for the purposes of this discussion, a ‘us holder’ is any beneficial owner of
+ordinary shares or adss that is (i) a citizen or resident for tax purposes of the
+us, (ii) a corporation organised under the laws of the us or any us state, 
+(iii) an estate the income of which is subject to us federal income tax without
+regard to its source, or (iv) a trust if a court within the us is able to exercise
+primary supervision over the administration of the trust and one or more us
+persons have the authority to control all substantial decisions of the trust.in addition, a us holder is subject to backup
+withholding (currently at a rate of 28%) on dividends paid in the us on
+ordinary shares or adss and disposal proceeds realised from the sale,
+exchange, redemption or other disposal of ordinary shares or adss unless 
+the us holder is a corporation, provides an irs form w-9 or otherwise
+establishes a basis for exemption.under the
+agreement, reuters has provided us$34 million (£18 million) in funding to
+telerate, which, together with interest, will be applied against the purchase
+price upon the closing or repaid through a draw on a letter of credit in the
+event the deal acquisition does not proceed.

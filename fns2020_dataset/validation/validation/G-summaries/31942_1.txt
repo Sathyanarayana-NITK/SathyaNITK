@@ -1,0 +1,531 @@
+revenue from continuing operations was steady compared with the prior 
+year, and the net loss for the year came in line with the board’s expectations.financial results and condition  
+revenues for the current year amounted to £2.00m, compared with £2.08m in the prior year (stated before 
+the intellisaw related license fee of £3.04m).the pre tax loss from continuing operations for the year was £2.16m compared with a profit of £1.59m 
+and loss in the prior year adjusted for the effects of the net intellisaw licence fee of £1.17m.the translogik product offerings are continually evolving with the focus on providing a comprehensive 
+service to clients in the mining and truck industry and this strategy has resulted in the successful launch 
+of the itrack ii system in september 2016. 
+our markets 
+saw sensing in global industries 
+ 
+sensor technology is widely used in virtually every industrial application across a broad range of industries, 
+contributing to many billions of dollars in revenue.transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+6 
+chairman’s statement (continued) 
+as original equipment manufacturers (oems) seek ever more data on a real-time basis to optimise the 
+performance of their products, accurate and frequent measurement becomes increasingly important.capital structure 
+during the year, the company undertook a reduction in share capital by the cancellation of the deferred 
+shares and the share premium account.probe 
+during the year, several multinational tyre manufacturers have commenced the implementation of new 
+software platforms that have been integrated with the probe and it has become clear that our product is 
+the tread depth tool of choice for bridgestone, goodyear and continental, amongst others and as a result 
+our probe revenue in the final quarter of the year experienced a marked upturn.executive share option schemes 
+the committee considers that potential for share ownership and participation in the growing value of the 
+group increases the commitment and loyalty of directors and senior executives.the prior year share price has 
+been adjusted to reflect the 50:1 share consolidation referred to in note 23. 
+share based payment option schemes 
+the remuneration committee is responsible for the operation and administration of the company’s 
+udsos and emi schemes.transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+22 
+directors’ report (continued) 
+auditors 
+in accordance with section 489 of the companies act 2006, a resolution to appoint grant thornton uk 
+llp as auditors of the company is to be proposed at the forthcoming annual general meeting.by order of the board 
+ 
+ 
+ 
+ 
+d m ford                                         g storey 
+chairman                                        chief executive 
+ 
+25
+th
+ september 2017 
+1 landscape close 
+weston on the green 
+oxon 
+ox25 3sx 
+ 
+   transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+ 
+ 
+23 
+statement of directors’ responsibilities in respect of the strategic report, 
+directors’ report and the financial statements   
+ 
+the directors are responsible for preparing the 
+ 
+strategic report, the directors’ report and the financial 
+statements in accordance with applicable law and regulations.these matters included those that 
+had the greatest effect on: the overall audit strategy, the allocation of resources in the audit; and directing the 
+efforts of the engagement team.materiality for the current year is lower than 
+the level that we determined for the year 
+ended 30 june 2016 to reflect lower 
+revenues in the year.the other information comprises the information 
+included in the annual report set out on pages 3 to 23, other than the financial statements and our auditor’s 
+report thereon.in connection with our audit of the financial statements, our responsibility is to read the other 
+information and, in doing so, consider whether the other information is materially inconsistent with the 
+financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.matters on which we are required to report by exception 
+we have nothing to report in respect of the following matters in relation to which the companies act 2006 
+requires us to report to you if, in our opinion: 
+• adequate accounting records have not been kept by the parent company, or returns adequate for 
+our audit have not been received from branches not visited by us; or 
+• the parent company financial statements are not in agreement with the accounting records and 
+returns; or 
+• certain disclosures of directors’ remuneration specified by law are not made; or 
+• we have not received all the information and explanations we require for our audit.responsibilities of directors for the financial statements 
+as explained more fully in the directors’ responsibilities statement set out on page 23, the directors are 
+responsible for the preparation of the financial statements and for being satisfied that they give a true and 
+fair view, and for such internal control as the directors determine is necessary to enable the preparation of 
+financial statements that are free from material misstatement, whether due to fraud or error.notes to the financial statements are from pages 35 to 60.  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+31 
+consolidated balance sheet 
+at 30 june 2017 
+  year ended 30 june year ended 30 june 
+  2017 2017 2016 2016 
+ 
+note £'000 £'000 £'000 £'000 
+ 
+   *restated *restated 
+non current assets 
+     
+property, plant and equipment 
+12 258  313  
+intangible assets 
+14 938  894  
+trade lease receivables 
+18 59  383  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+ 
+  1,255  1,590 
+current assets 
+     
+inventories  
+16 985  571  
+corporation tax 
+ -  74  
+trade and other receivables 
+17 702  1,742  
+cash and cash equivalents 
+19 2,520  3,654  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+   4,207  6,041 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+total assets 
+  5,462  7,631 
+ 
+     
+current liabilities 
+     
+trade and other payables 
+20 (511)  (614)  
+current tax liabilities 
+ (47)  (41)  
+provisions  
+21 (100) 
+ 
+(53)  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+total liabilities 
+  (658)  (708) 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+net assets 
+  4,804  6,923 
+ 
+  =================== ============== =============  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+equity 
+     
+issued share capital 
+23  4,766  11,546 
+share premium 
+  22  17,218 
+translation reserve 
+  21  - 
+accumulated loss 
+  (5)  (21,841) 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+ 
+  4,804  6,923 
+ 
+  =================== ============== =============  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+*see note 21 
+these financial statements were approved by the board of directors and authorised for issue on 25
+th
+ september 2017 
+and were signed on its behalf by: 
+ 
+ 
+d m ford    g storey 
+chairman    chief executive 
+ 
+company registered number: 01885075  
+notes to the financial statements are from pages 35 to 60.  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+32 
+company balance sheet 
+at 30 june 2017 
+  year ended 30 june year ended 30 june 
+  2017 2017 2016 2016 
+ 
+note £'000 £'000 £'000 £'000 
+ 
+   *restated *restated 
+non current assets 
+     
+property, plant and equipment 
+13 229  295  
+intangible assets 
+14 938  894  
+investments 
+15 56  3  
+trade lease receivables 
+18 59  383  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+ 
+  1,282  1,575 
+current assets 
+     
+inventories  
+16 967  571  
+corporation tax 
+ -  74  
+trade and other receivables 
+17 686  1,689  
+cash and cash equivalents 
+19 2,503  3,641  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+ 
+  4,159  5,975 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+total assets 
+  5,438  7,550 
+ 
+     
+current liabilities 
+     
+trade and other payables 
+20 (481)  (749)  
+current tax liabilities 
+ (41)  (46)  
+provisions 
+21 (100)  (53)  
+ 
+ --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- -  
+total liabilities 
+  (622)  (848) 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+net assets 
+  4,816  6,702 
+ 
+  =================== ============== =============  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+equity 
+     
+issued share capital 
+23  4,766  11,546 
+share premium 
+  22  17,218 
+accumulated profit/(loss) 
+  28  (22,062) 
+ 
+  --------------- ---------- ---------- ---------- -  --------------- ---------- ---------- ---------- - 
+ 
+  4,816  6,702 
+ 
+  =================== ============== =============  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+*see note 21 
+these financial statements were approved by the board of directors and authorised for issue on 25
+th
+ 
+september 2017 and were signed on its behalf by: 
+ 
+ 
+d m ford    g storey 
+chairman    chief executive 
+ 
+company registered number: 01885075  
+notes to the financial statements are from pages 35 to 60.  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+33 
+statement of changes in equity 
+ 
+group share 
+capital 
+share 
+premium 
+translation 
+reserve 
+cumulative 
+losses 
+total 
+equity 
+ £'000 £'000 £'000 £'000 £'000 
+      
+balance at 1 july 2015  
+9,779 16,523 - (22,994) 3,308 
+profit for the year 
+- - - 1,153 1,153 
+shares issued and share premium 
+1,767 695 - - 2,462 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+balance at 30 june 2016 
+11,546 17,218 - (21,841) 6,923 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+loss for the year 
+- - - (2,166) (2,166) 
+share reorganisation 
+(6,823) (17,218) - 24,041 - 
+costs of share reorganisation 
+- - - (39) (39) 
+shares issued and share premium 
+43 22 - - 65 
+currency movement on subsidiary 
+reserves 
+- - 21 - 21 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+balance at 30 june 2017 
+4,766 22 21 (5) 4,804 
+ 
+=================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= 
+ 
+company share 
+capital 
+share 
+premium 
+translation 
+reserve 
+cumulative 
+losses 
+total 
+equity 
+ £'000 £'000 £'000 £'000 £'000 
+      
+balance at 1 july 2015  
+9,779 16,523 - (23,150) 3,152 
+profit for the year 
+- - - 1,088 1,088 
+shares issued and share premium 
+1,767 695 - - 2,462 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+balance at 30 june 2016 
+11,546 17,218 - (22,062) 6,702 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+loss for the year 
+- - - (1,912) (1,911) 
+share reorganisation 
+(6,823) (17,218) - 24,041 - 
+costs of share reorganisation 
+- - - (39) (39) 
+shares issued and share premium 
+43 22 - - 65 
+ 
+--------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+balance at 30 june 2017 
+4,766 22 - 28 4,816 
+ 
+=================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== ============= 
+ 
+notes to the financial statements are from pages 35 to 60.  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+34 
+consolidated and company cash flow statement  
+for the year ended 30 june 2017 
+  
+  
+group company 
+  year ended 
+30 june 
+2017 
+year ended 
+30 june 
+2016 
+year ended 
+30 june 
+2017 
+year ended 
+30 june 
+2016 
+ 
+note £'000 £'000 £'000 £'000 
+(loss)/profit before taxation from 
+continuing operations 
+  
+(2,157) 
+ 
+              1,596 
+ 
+(1,907) 
+ 
+1,368 
+adjustments for: 
+     
+financial income 
+10 (23) (51) (24) (51) 
+depreciation 
+12,13 118 111 115 107 
+amortisation of intangible assets 
+14 238 170 238 170 
+loss on discontinued operation 
+6 (5) (472) (5) (309) 
+profit on disposal of discontinued operation 
+ - 32 - 32 
+unrealised currency translation gain 
+ 21 - - - 
+cost of capital restructure 
+ (39) - (39) - 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+operating cash flows before movements in 
+working capital  
+ (1,847) 
+ 
+1,386 
+ 
+(1,621) 
+ 
+1,317 
+decrease/(increase) in receivables  
+17 1,040  (802) 1,003 (763) 
+(decrease)/increase in payables 
+20 (50) 249 (226) 407 
+(increase)/decrease in inventories  
+16 (414) 13 (396) 13 
+decrease in trade lease receivables 
+18 324  324  
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+cash (used)/generated in operations 
+ (947) 846 (917) 974 
+taxation recovered/(paid) 
+ 70 (7) 74 (7) 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+net cash (used)/generated in operations 
+ (877) 839 (843) 967 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+investing activities 
+     
+interest received 
+10 23 51 24 51 
+acquisitions of property, plant and equipment 
+12,13 (63) (130) (49) (111) 
+acquisitions of intangible assets 
+14 (282) (258) (282) (258) 
+investments in associated companies 
+ - - (53) - 
+assets/liabilities held for sale 
+ - 218 - 115 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+net cash used in investing activities 
+ (322) (119) (360) (203) 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+financing activities 
+     
+proceeds from issue of equity share capital 
+23 65 2,462 65 2,462 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+net cash from financing activities 
+ 65 2,462 65 2,462 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+net (decrease)/increase in cash and cash 
+equivalents  
+  
+(1,134) 
+ 
+3,182 
+ 
+(1,138) 
+ 
+3,226 
+cash and equivalents at the beginning of 
+year 
+  
+3,654 
+ 
+472 
+ 
+3,641 
+ 
+415 
+ 
+ --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - --------------- ---------- ---------- ---------- - 
+cash and equivalents at the end of year  
+19 2,520 3,654 2,503 3,641 
+ 
+ =================== ============== ============= =================== ============== ============= =================== ============== ============= =================== ============== =============  transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+35 
+notes to the financial statements 
+1 general information  
+transense technologies plc (the “company”) is a company incorporated in the united kingdom under the 
+companies act 2006. the address of the registered office is given on page 3. the consolidated financial 
+statements of the company as at and for the year ended 30 june 2017 comprise the company and its subsidiaries 
+(together referred to as “the group” and individually as “group entities”).2 basis of preparation 
+both the parent company financial statements and the group financial statements have been prepared and 
+approved by the directors in accordance with international financial reporting standards as adopted by the eu 
+(“adopted ifrss”) and those parts of the companies act 2006 that are relevant to companies preparing accounts 
+under ifrs.on publishing the parent company financial statements here together with the group financial 
+statements, the company is taking advantage of the exemption in s408 of the companies act 2006 not to present 
+its individual statement of comprehensive income and related notes that form a part of these approved financial 
+statements.significant accounting judgements and sources of estimation uncertainty 
+certain estimates and judgements need to be made by the directors which affect the results and position of the 
+group as reported in the financial statements.the following judgements and 
+estimates have been identified by the group: 
+ 
+• determining when intangible assets are impaired is a judgement which requires an estimate of the value in use 
+of the asset based on management’s best estimate of the future cash flows that the assets are expected to 
+generate.the group attributes total comprehensive income or loss of subsidiaries between the owners of the parent and the 
+non-controlling interests based on their respective ownership interests.revenue and ebitda are the group’s key focus and in turn is the main performance measure adopted 
+by management.transense technologies plc 
+annual report and financial statements 
+for the year ended 30 june 2017 
+38 
+notes to the financial statements (continued) 
+4 accounting policies (continued) 
+ 
+research and development 
+expenditure on research (or the research phase of an internal project) is recognised as an expense in the period 
+in which it is incurred.goodwill represents amounts 
+arising on acquisition of subsidiaries and is the difference between the consideration transferred and the fair value 
+of the identifiable assets, liabilities and contingent liabilities acquired.the fair value so determined is expensed on a straight-
+line basis over the vesting period, based on the company’s estimate of shares that will eventually vest.finance lease income is recognised as revenue in the period to reflect a constant 
+periodic rate of return on the company’s remaining net investment in respect of the lease.18 trade leases and unearned finance income 
+ 
+the group offers its itrack solution to be sold via a finance lease, in which a significant portion of the risks and 
+rewards of ownership are transferred to the lessee.credit risk is considered to be low given the cash position of the group and that there is a low 
+exposure level in the trade and other receivables.

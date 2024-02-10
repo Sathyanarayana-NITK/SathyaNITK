@@ -1,0 +1,277 @@
+inmarsat plc | annual report and accounts 2017 16 strategic report | key performance indicators 2017 99.9%
+99.9% 2016
+99.9% 2015
+2017 9,711.7 tco 2e
+11,723.6 tco 2e 2016
+14,988.0 tco 2e 2015
+2017 9.7%
+8.4% 2016
+2015
+satellite network 
+availability
+ongoing investment in our space 
+and ground infrastructure ensures 
+that customers are supported 
+by an overall 99.9% l -band 
+network availability which meets 
+the gmdss requirements set by the 
+international maritime organization.we are targeting 
+to become the 
+market leader 
+in this rapidly 
+developing 
+market segment
+inmarsat plc | annual report and accounts 2017 19 
+governance financial statements strategic report
+strategic report | our markets providing safer,
+smarter and 
+greener shipping
+latest forecast
+0700 0800 0900 1000
+text
+call
+commercial 
+shipping
+vsat
+$11.25 $10.65 $12.30
+track market price
+log catch
+time caught
+08:00
+location
+atlantic [27]
+port
+coruña
+type
+herring
+commercial 
+shipping
+mid market
+safety and 
+cyber security
+smaller vessels
+vessel performance
+propeller me/gear aux eng/gen battery hull
+optimum
+refuelling
+schedule
+detect vulnerabilities
+alarm
+crew
+tracker
+20 inmarsat plc | annual report and accounts 2017 strategic report | business overview  2017 $564.7m
+$575.3m 2016
+2017 $441.9m
+$454.8m 2016
+2017 36,105
+38,088 2016
+2017 4,332
+3,028 2016
+business  
+overview  
+maritime
+we continue to expect 
+the business efficiency and 
+effectiveness that our services 
+drive to underpin strong demand 
+from merchant shipping fleets
+$564.7m
+$441.9m
+4,332
+36,105
+revenue
+ebitda
+vsat installed vessels
+fleetbroadband (standalone) 
+installed vessels
+1,000m
+tonnes of co
+2
+ emitted annually 
+by maritime transport (source: imo)
+making a difference  
+in greener shipping 
+transforming efficiency and 
+operations – environmental 
+compliance
+monitoring ships’ energy consumption and 
+emissions is required by law in many parts of the 
+world.evidence of this is continued 
+high utilisation of inmarsat’s unique l -band 
+tactical satellite service (‘l -tac’) – a highly 
+resilient communication service that 
+market outlook
+the growth of government and military 
+satellite communications will be driven by 
+internationalisation of demand beyond 
+the established space-equipped nations, 
+major events, budgetary stimulus, technology 
+obsolescence and new opportunities emerging 
+from a structural shift from government 
+procurement of proprietary space infrastructure 
+to the acquisition by governments of off-the-shelf 
+services from commercial partners to replace 
+or complement proprietary capabilities.over the medium term, we expect 
+to transition a portion of these customers 
+onto gx for aviation ifc services.as a result of the above, adjusted 
+ebitda in 2017, decreased by $43.4m from 
+the prior year, and adjusted ebitda margin 
+decreased to 53.7%, from 59.8% in 2016.
+operating profit
+as noted above, the one-off costs associated 
+with the headcount reduction programme reduced 
+operating profit in 2017. in addition, depreciation 
+and amortisation for 2017 increased by $57.3m 
+reconciliation of ebitda to profit after tax
+year ended 31 december
+2017
+$m
+2016
+$m change
+adjusted ebitda 751.4 794.8 (5.5%)
+restructuring charge (19.9) – –
+ebitda 731.5 794.8 (8.0%)
+depreciation and amortisation (406.7) (349.4) 16.4%
+other (3.3) 1.7 (294.1%)
+operating profit 321.5 447.1 (28.1%)
+net financing costs (91.7) (147.9) 38.0%
+taxation charge (47.5) (55.8) 14.9%
+statutory profit after tax 182.3 243.4 (25.1%)
+addback of change in fair value of derivative (2023 convertible bond) (7.7) 28.8 126.7%
+addback, post-tax, of cost of early redemption of 2017 convertible bond – 26.2 –
+addback restructuring charge after tax 16.1 – –
+adjusted profit after tax 190.7 298.4 (36.1%)
+inmarsat plc | annual report and accounts 2017 39 
+governance financial statements strategic report
+strategic report | chief financial officer’s review group balance sheet
+the table opposite shows the condensed 
+consolidated group balance sheet.› we continue to improve the reliability of our satellites 
+and services which are critical to our end-users.we may not be able to coordinate usage in the future  
+and/or may be charged for the spectrum which could 
+affect our ability to provide services.we work with organisations such 
+as the itu, and participate in conferences such as the 
+world radio conference to brief them on the ongoing 
+need for our frequency allocations.› we develop and implement a people strategy where we identify 
+key employees, skills and skills gaps to manage the human 
+resource effectively and enable delivery of the strategy of the 
+company.despite this reclassification 
+of sir bryan’s non-executive directorship, he 
+fulfils his responsibilities with an independent 
+view, providing critical thinking and contributions 
+and continues to act in the best interests of the 
+company.he is responsible for:
+ › the day-to-day management of inmarsat’s 
+operations and its financial results
+ › recommending the strategic objectives 
+for the inmarsat group, for debate, 
+challenge and approval by the board
+ › responsibility for ensuring we meet the 
+milestones for our key programmes with a 
+priority to target revenue growth and deliver 
+enhanced returns to shareholders and
+ › chairing the executive management board
+mr pearce is the board sponsor for environmental 
+and social governance, community investment, 
+and other corporate social responsibility matters, 
+as well as responsibility for health and safety.› monitoring of controls: the audit committee 
+receives regular reports from the internal 
+and external auditors and assures itself that 
+the internal control environment of the group 
+is operating effectively.management 
+continues to focus on how internal control and 
+risk management can be further embedded 
+into the operations of the business and to 
+deal with areas of improvement which come 
+to management’s and the board’s attention.the company has an established disclosure 
+committee with responsibility for reviewing 
+and approving controls and procedures over 
+the public disclosure of financial and related 
+information and other procedures necessary 
+to enable the chief executive officer and 
+the chief financial officer to provide their 
+certifications in relation to publicly disclosed 
+information.the committee also makes recommendations 
+to the board on the composition of the 
+board’s committees and will review and make 
+recommendations in relation to the structure, 
+size and composition of the board including 
+the diversity and balance of skills, knowledge 
+and experience, and the independence of 
+the non-executive directors, including the 
+tenure of each director.appointment and 
+reappointment
+the directors may appoint additional 
+members to join the board during the year.the committee comprised 
+a majority of independent non-executive 
+directors and meets as and when necessary, 
+generally twice a year.this enabled the audit committee 
+to review and clarify the completeness of 
+financial reporting disclosures prior to their 
+release by the board.the committee discussed these 
+with the external auditor during the year and, 
+where appropriate, details of how they have 
+been addressed are provided in the independent 
+auditors’ report on pages 105 to 111.
+change in accounting policies
+an in-depth review of revenue accounting, lease 
+accounting and financial instruments has been 
+completed in preparation for the implementation 
+of ifrs 15, ifrs 16 and ifrs 9 respectively in 2018. 
+ifrs 16 is to be early adopted in 2018 as the 
+overall impact on the financial statements 
+is considered low.the 
+b o n u s e s 	 r e fl e ct 	 b o th 	 the 	 fi na n ci a l 	 pe r f o rma n c e	
+of the company and the individual contributions 
+made by each of the executive directors 
+over the last year.the benefits provided may vary 
+by role and levels of cover provided 
+will reflect market practice and 
+the individual circumstances of the 
+executive directors.details of the measures and 
+weightings applicable for the 
+financial year under review are 
+provided in the annual report 
+on remuneration.summary of shareholder voting at the 2017 agm
+the following table shows the results of the binding shareholder vote on the 2017 remuneration policy and of the advisory shareholder vote on the 
+annual report on remuneration of the 2016 directors’ remuneration report, at the 2017 agm:
+2017 remuneration policy 2016 annual report on remuneration
+total number
+of votes
+% of
+votes cast
+total number
+of votes
+% of
+votes cast
+for (including discretionary) 291,331,925 90.39% 165,153,571 51.14%
+against 30,971,298 9.61% 157,818,509 48.86%
+total votes cast (excluding withheld votes) 322,303,223 322,972,080
+votes withheld 29,263,436 n/a 28,594,579 n/a
+in light of the voting outcome on the annual report on remuneration, the committee commenced a fresh review of the company’s approach to 
+remuneration, focusing on the bonus share award plan, which was the main area which drew shareholder comment.these travel expenses are subject to a specific deduction under 
+hmrc rules and are not taxable
+2 pension: payment made by the company as cash in lieu of pension (see page 92 for details)
+3 annual cash bonus: cash bonus payments in relation to the financial years ended 31 december 2017 and 2016 (see pages 87 and 90 for details)
+4 bsa: values the bsa shares in relation to the financial years ended 31 december 2017 and 2016. performance is tested prior to grant for bsa shares.the committee also considered 
+the market consensus as part of its deliberations as well as performance of other satellite operators.however, because mr sukawaty was the highest paid director as executive chairman in 2012, 2013 and 2014, 
+we have also shown his single figure in this table for information
+3 formulaic bonus outcome prior to application of voluntary reduction
+4 bsa payout calculated on new basis where 80% is paid for target performance
+percentage change in ceo remuneration
+the data for other employees relates to the average pay across staff based in the uk, which is deemed to be the most appropriate employee group.the purpose of this report is to provide 
+information to the company’s shareholders.due to the highly material nature of airtime revenue, the high volume of transactions and the inherent risk that manual postings  
+are susceptible to manipulation, a significant risk, whether due to fraud or error, has been identified that if these postings are not 
+accurate, complete or related to transactions which have occurred.inmarsat plc | annual report and accounts 2017 122 financial statements | consolidated financial statements 123 inmarsat plc | annual report and accounts 2017 financial statements | consolidated financial statements 
+ 
+ 
+4. critical accounting estimates and  
+key judgements 
+the preparation of the consolidated financial statements requires 
+management to make certain estimates and assumptions that affect the 
+reported amounts of assets and liabilities and disclosure of contingent assets 
+and liabilities at the balance sheet dates and the reported amounts of revenue 
+and expenses during the reported period.advances under the facility bear interest at a rate equal  
+to the applicable usd libor, plus a margin of between 0.70% and 1.70% determined by reference to the ratio of net debt to ebitda.further information on awards granted  
+to directors can be found in the remuneration report on pages 76 to 98. 
+awards are made in the form of a conditional allocation of shares.for share awards outstanding at the period end the weighted average of the remaining contractual life for the bsa and psa share awards  
+at 31 december 2017 is 0.8 and 1.3 years, respectively.

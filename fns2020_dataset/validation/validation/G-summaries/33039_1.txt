@@ -1,0 +1,180 @@
+in the 2007 ﬁnancial year, openreachinvestedsigniﬁcantlyin
+the installation of new network components, focused on improving
+the quality of individual workmanship and concentrated on
+identifying and upgrading the worst performing parts of the
+network.this allocation of proﬁts was linked to the
+achievement of corporate performance measures determined by
+the board.in the 2007 ﬁnancial year, we added a new
+indicator to measure the effectiveness of our investment.csr opportunities
+the increasing importance of sustainability issues both inside and
+outside bt is leading to a much greater focus on the
+opportunities that csr provides as well as the risks that need to
+be managed.the changes required to capture
+the separate reporting of these new products and services were
+introduced during the 2006 ﬁnancial year and therefore actual
+data was available to support the estimates and assumptions
+required to restate the results for that year.in addition, there has been
+increased 21cn related activity in the 2007 ﬁnancial year.the increase in the 2007 ﬁnancial year reﬂects the revenue
+growth of 4% offset by increased operating costs, described
+above.in addition, the
+group raised new sterling ﬂoating rate borrowing of £1,000
+million and issued commercial paper raising net proceeds of
+£464 million.in 2001, bt’s net debt
+reached £27.9 billion and as part of the group’s transformation
+strategy the group went through a major restructuring to reduce
+the level of net debt and improve the group’s ﬁnancial strength.capital expenditure is expected to
+remain at around £3.2 billion in the 2008 ﬁnancial year as the
+group continues to invest in its 21st century network (21cn)
+programme.the committee has collective responsibility for running the
+group’s business end-to-end.the eab reports regularly to the board.in order to safeguard the independence and
+objectivity of the external auditors, the board has determined
+policies as to what non-audit services can be provided by the
+company’s external auditors and the approval processes related
+to them.the committee agreed that
+kepler associates may advise both the committee and bt, and
+should be invited to attend meetings when major remuneration
+policy issues were discussed.b
+franc ¸ois barrault was appointed as a director on 24 april 2007.
+by order of the board
+maarten van den bergh
+deputy chairman and chairman of remuneration committee
+16 may 2007
+report of the directors corporate governance
+68 bt group plc annual report & form 20-f filename: 51384_05.3d time: 15:18:22 date: 19/05/07
+checksum: -186513728
+directors’ information
+election and re-election
+all directors are required by the company’s articles of association
+to be elected by shareholders at the ﬁrst annual general meeting
+(agm) after their appointment, if appointed by the board.r the group’s internal auditors carry out continuing assessments
+of the quality of risk management and control.bt complies with the legal and regulatory requirements
+introduced pursuant to this legislation, in so far as they are
+applicable to the group.the cumulative impact of
+a revision in estimates is recorded in the period in which such
+revisions become likely and can be estimated.the group also operates deﬁned contribution pension schemes
+and the income statement is charged with the contributions
+payable.critical accounting estimates and key
+judgements
+the preparation of ﬁnancial statements in conformity with ifrss
+requires the use of accounting estimates and assumptions.furthermore, the fundamental level of reorganisation and restructuring which occurred, combined with the fact that the products
+previously sold by bt wholesale no longer exist, mean it is also impracticable to report the results for the current ﬁnancial year on
+the old business segment structure.specific items
+therefore include a net credit of £1,067 million, which represents those elements of the tax charges previously recognised that were in excess of the final agreed liability of £938 million; interest
+income of £139 million on the repayment; and operating costs of £10 million, representing the costs associated with reaching the agreement.the group also acquired dabs.com and
+plusnet, for which the relevant cgus are considered to be the enterprises and consumer divisions of bt retail, respectively.bt group plc annual report & form 20-f 103
+financial statements filename: 51384_09.3d time: 15:18:57 date: 19/05/07
+checksum: 1810151087
+13. property, plant and equipment
+land and
+buildings
+a,b
+network
+infrastructure
+and equipment
+b
+other
+c
+assets in
+course of
+construction total
+£m £m £m £m £m
+cost
+at 1 april 2005 1,065 34,957 2,189 763 38,974
+additions 17 263 247 2,038 2,565
+acquisition through business combinations 23 265 33 2 323
+transfers 50 1,802 15 (1,867) –
+exchange differences 4 71 14 – 89
+disposals and adjustments (39) (1,447) (310) (41) (1,837)
+at 31 march 2006 1,120 35,911 2,188 895 40,114
+additions 19 296 210 1,936 2,461
+acquisition through business combinations 4 13 11 – 28
+transfers 57 1,767 9 (1,833) –
+exchange differences (10) (107) (20) (4) (141)
+disposals and adjustments (75) (1,031) (178) 19 (1,265)
+at 31 march 2007 1,115 36,849 2,220 1,013 41,197
+accumulated depreciation
+at 1 april 2005 371 21,865 1,544 – 23,780
+charge for the year 58 2,353 223 – 2,634
+acquisition through business combinations 14 200 28 – 242
+exchange differences 1 44 10 – 55
+disposals and adjustments (32) (1,479) (251) – (1,762)
+at 31 march 2006 412 22,983 1,554 – 24,949
+charge for the year 49 2,307 180 – 2,536
+acquisition through business combinations 2 7 7 – 16
+exchange differences (5) (64) (14) – (83)
+disposals and adjustments (32) (1,000) (150) – (1,182)
+at 31 march 2007 426 24,233 1,577 – 26,236
+carrying amount
+at 31 march 2007 689 12,616 643 1,013 14,961
+engineering stores – – – 36 36
+total at 31 march 2007 689 12,616 643 1,049 14,997
+at 31 march 2006 708 12,928 634 895 15,165
+engineering stores – – – 57 57
+total at 31 march 2006 708 12,928 634 952 15,222
+2007 2006
+£m £m
+a
+the carrying amount of land and buildings, including leasehold improvements, comprised:
+freehold 254 311
+long leases (over 50 years unexpired) 131 136
+short leases 304 261
+total land and buildings 689 708
+b
+the carrying amount of the group’s property, plant and equipment includes an amount of £353 million (2006: £460 million) in respect of assets held under finance leases.20. provisions
+property
+provisions
+a
+other
+provisions
+b
+total
+£m £m £m
+at 1 april 2006 226 105 331
+charged to the income statement
+c
+85 30 115
+unwind of discount 3– 3
+utilised in the year (74) (50) (124)
+at 31 march 2007 240 85 325
+2007 2006
+£m £m
+analysed as:
+current 100 70
+non current 225 261
+325 331
+a
+property provisions comprise amounts provided for obligations to complete nearly finished new properties and remedial work to be undertaken on properties and the onerous lease provision on
+rationalisation of the group’s property portfolio.d
+the translation reserve is used to record cumulative translation differences on the assets and liabilities of foreign operations.the cumulative translation differences are recycled to the income
+statement on disposal of the foreign operation.the guarantee lasts until o2 uk limited has discharged all its
+obligations, which is expected to be when the lease ends on 30 january 2017.
+the company does not believe there are any pending legal proceedings which would have a material adverse effect on the
+ﬁnancial position or results of operations of the group.during the 2007 ﬁnancial year the determination of fair value has been
+ﬁnalised and adjustments have been made to the balances previously reported.consolidated ﬁnancial statements notes to the consolidated ﬁnancial statements
+124 bt group plc annual report & form 20-f filename: 51384_09.3d time: 15:19:13 date: 19/05/07
+checksum: -434707937
+31. share based payments continued
+the number of shares issuable under the isp, dbp and rsp were as follows:
+isp dbp rsp total
+number of shares (millions)
+at 1 april 2004 – 5.2 3.0 8.2
+awards granted 12.6 2.9 1.6 17.1
+awards vested – (0.6) (2.0) (2.6)
+awards lapsed (0.3) – – (0.3)
+dividend shares reinvested 0.6 0.4 0.1 1.1
+at 31 march 2005 12.9 7.9 2.7 23.5
+awards granted 23.2 2.3 1.8 27.3
+awards vested – (2.0) (1.1) (3.1)
+awards lapsed (1.0) (0.2) – (1.2)
+dividend shares reinvested 1.7 0.4 0.2 2.3
+at 31 march 2006 36.8 8.4 3.6 48.8
+awards granted 24.9 5.8 0.8 31.5
+awards vested – (2.9) (1.2) (4.1)
+awards lapsed (5.3) (0.6) (0.1) (6.0)
+dividend shares reinvested 2.6 0.5 0.1 3.2
+at 31 march 2007 59.0 11.2 3.2 73.4
+in accordance with the terms of the isp, dbp and rsp plans, dividends or dividend equivalents earned on shares during the
+conditional periods are reinvested in company shares for the potential beneﬁt of the participants.in order to maintain the independence of the external auditors, the board has determined policies as to what non audit services
+can be provided by the company’s external auditors and the approval processes related to them.the following tables detail certain information
+concerning the exchange rates between pounds sterling and us dollars based on the noon buying rate in new york city for cable
+transfers in pounds sterling as certiﬁed for customs purposes by the federal reserve bank of new york (the noon buying rate).

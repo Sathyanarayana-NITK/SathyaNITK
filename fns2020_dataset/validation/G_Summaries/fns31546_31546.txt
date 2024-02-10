@@ -1,0 +1,93 @@
+30
+eddie stobart logistics plc annual report and accounts 2017
+governance statement
+“the breadth of experience of the directors 
+enables the board to provide strong and effective 
+stewardship of the business.the board has overseen the acquisitions of iforce and speedy freight 
+which have broadened our capabilities and expanded the services we 
+can offer our customers.as at 6 april 2018, the latest practicable date prior to the approval of this 
+document, there had been no change in the interests of directors in the 
+shares of the company.on admission the executive directors 
+subscribed for a ordinary shares (mip shares) in a subsidiary of the 
+company which shares can, subject to certain conditions, be sold to  
+the company in future at an aggregate value equivalent to a maximum 
+of 8% (relevant percentage) of the increase in shareholder value over a 
+share value hurdle (“hurdle”).legislation in the uk governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.in arriving at our audit opinion above, the key audit matters, in decreasing order of audit significance, were as follows: 40
+eddie stobart logistics plc annual report and accounts 2017
+independent auditor’s report
+to the members of eddie stobart logistics plc continued
+the risk our response
+existence, accuracy and 
+presentation of revenue 
+(£623.9m) 
+refer to page 55 
+(accounting policy) and 
+page 60 (financial 
+disclosures).these transactions require 
+management to make judgments in order to determine 
+the appropriate basis and timing of recognition of 
+income deriving from those transactions, and their 
+associated presentation within the consolidated income 
+statement.however, due to their materiality in the context of the 
+parent company financial statements, this is considered 
+to be the area that had the greatest effect on our overall 
+parent company audit.our procedures included: 
+• tests of detail: comparing the carrying amount of 
+100% of investments and intra-group debtors with 
+the relevant subsidiaries’ draft balance sheet to 
+identify whether their net assets, being an 
+approximation of their minimum recoverable amount, 
+were in excess of their carrying amount and 
+assessing whether those subsidiaries have 
+historically been profit-making.the group team instructed component 
+auditors as to the significant areas to be covered, including the relevant 
+risks detailed above and the information to be reported.the group team 
+performed procedures on the items excluded from group profit before 
+tax and exceptional items.8. the purpose of our audit work and to whom we owe 
+our responsibilities
+this report is made solely to the company’s members, as a body, in 
+accordance with chapter 3 of part 16 of the companies act 2006. our 
+audit work has been undertaken so that we might state to the company’s 
+members those matters we are required to state to them in an auditor’s 
+report and for no other purpose.unrealised gains arising from transactions with equity 
+accounted investees are eliminated against the investment to the extent of the group’s interest in the investee.this documentation identifies the hedging instrument, the hedged item or 
+transaction, the nature of the risk being hedged and how effectiveness will be measured throughout its duration.development costs that are directly attributable to the design and testing of identifiable and unique software products controlled by the group are 
+recognised as intangible assets when the following criteria are met:
+• it is technically feasible to complete the software product so that it will be available for use
+• management intends to complete the software product and use or sell it
+• there is an ability to use or sell the software product
+• it can be demonstrated how the software product will generate probable future economic benefits
+• adequate technical, financial and other resources to complete the development and to use or sell the software product are available
+• the expenditure attributable to the software product during its development can be reliably measured
+other development expenditures that do not meet these criteria are recognised as an expense as incurred.amortisation is charged to the income statement on a straight-line basis over the estimated useful life of the asset.in addition, in some circumstances employees may provide services in advance of the grant date and therefore the grant date fair value is estimated 
+for the purposes of recognising the expense during the period between service commencement period and grant date.revenue earned from providing property associated services is recognised in the consolidated 
+income statement at the fair value of the consideration received/receivable, net of professional fees, associated costs and vat .i. current tax – is the expected tax payable or receivable on the taxable income or loss for the year, using tax rates enacted or substantively enacted 
+at the reporting date, and any adjustment to tax payable in respect of previous years.however, given the 
+magnitude of the release and its unusual nature, management determined that the impact of this transaction should be disclosed separately.key sources of estimation in applying the group’s accounting policies
+the key assumptions concerning the future, and other key sources of estimation uncertainty at the balance sheet date, that have a significant risk of 
+causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year, are discussed below.the complexity of the assessment and the 
+sensitivity of the assumptions are described in note 25. in the year to 30 november 2017 the group managed its 
+operations via distinct functions although it is in the process of moving to managing the business via a sector based view.the gain arising on lease agreement has been added back into underlying profit as it arose as part of the strategy around management of 
+the property portfolio, full disclosure is provided in note 5. 
+a reconciliation between apms and the statutory ifrs measures is detailed on page 62. the group has been acquisitive during the year, with further one-off non-trading expenses incurred in the investments in iforce group, puro ventures 
+(trading as speedy freight), the logistics people and certain assets and liabilities of canute.the acquisition costs of £1.72m include £1.34m in 
+relation to contingent consideration accounted for as remuneration.goodwill arising on the acquisition represents the projected profitability of the iforce group, including the assembled workforce, together with further 
+potential to exploit synergies between group business units and within the logistics sector as a whole.acquisition of the remaining 50% 
+shareholding is expected to result in a higher payment than for the controlling interest due to the rapid projected growth of the business.the business 
+was acquired for consideration of £1, subject to the successful novation or buy out of the lease arrangements.the fair value adjustments arose as a result of a revaluation of the property plant, and equipment to market value.the contingent consideration is measurable over the following three 
+years and is in place to incentivise management to achieve strong commercial results.customer relationships represent the existing contractual and expected future relationships with customers of the group at the point of acquisition 
+and are being amortised over 15 years.financial risks and capital management
+through its operations, the group is exposed to the following financial risks:
+• funding and liquidity risk
+• credit risk from trade receivables 
+• interest rate cash flow risk from variable rate bank loans
+• foreign exchange risk
+in the process of managing these financial risks, the group uses the following financial instruments:
+• cash at bank
+• bank loans
+• trade receivables, including amounts owed by associates and joint ventures
+• trade and other payables, including amounts owed to associates and joint ventures
+• finance leases and hire purchase agreements
+the group’s overall risk management programme focuses on reducing financial risk as far as possible and therefore seeks to minimise potential 
+adverse effects on the group’s financial performance.employee claims
+the group has various ongoing and potential litigation and claims, principally relating to accidents in the workplace.

@@ -1,0 +1,135 @@
+the appointment 
+of a new data protection officer 
+for the group to assist with the 
+group’ s gdpr compliance.how we are performing
+during the year the group made 
+donations of varying sums to a wide 
+spectrum of charities including: 
+dementia uk, mind (a mental health 
+charity); prostate cancer uk; the 
+uncf (an american organisation 
+that funds and promotes minority 
+education); crisis uk (the uk’ s 
+national charity for homeless 
+people); the back up trust (which 
+supports people with spinal cord 
+injury); the children’ s sleep charity 
+and the lurie children’ s hospital  
+in chicago.how we are performing
+the average creditor days 
+outstanding at 28 july 2017  
+for the group was 79 days  
+(2016 – 86 days).what we report
+we report our co
+2
+e emissions in 
+line with the requirements of the 
+companies act 2006 (strategic 
+report and directors’ report) 
+regulations 2013. in doing so 
+we have adopted the following 
+methodology:
+a) an operational boundary 
+approach has been applied on 
+scope 1 and scope 2 emissions 
+in the uk using defra’ s standard 
+set conversion factors for 2017.
+b) where actual energy consumption 
+data cannot be obtained we have 
+estimated emissions, pro-rata, 
+based on the data recorded by 
+similar sites in the group.all of the businesses in the 
+group’ s portfolio are included in  
+this year’ s report.audit  
+committee
+remuneration 
+committee
+nomination 
+committee 33
+corporate governance strategic report our figures
+st ives plc annual report and accounts 2017
+2 october 2017
+dear shareholder
+the board invests a significant amount of time on maintaining high standards of governance, in recognition of the value that sound corporate 
+governance can add to the success and sustainability of the group’s business.the company secretary acts as secretary to all the committees  
+and each committee has written terms of reference available on the group’s website (www.st-ives.co.uk).the committee considered accounting papers which provided details on the main 
+financial reporting judgements and classifications, which were addressed as follows:
+significant matters considered how the committee addressed these issues
+the assessment of the carrying value
+of goodwill (£108.7 million), property, plant  
+and equipment (£26.2 million) and intangible  
+assets (£42.8 million)
+the committee received reports in relation to the assessment of the carrying value of the 
+goodwill for each cash generating unit (‘cgu’).the committee is satisfied that there  
+are no relationships between the company and deloitte, its employees or its affiliates that may reasonably be thought to impair the auditors’ 
+objectivity and independence.payments under the annual bonus plan are subject to:
+• compulsory payment of any bonus earned over 50% of salary (on an after tax basis) in the company’s 
+shares under the company deferred bonus shares (‘dbs’) arrangement which are subject to a holding 
+period of two years; and
+• the element of the annual bonus paid in shares is subject to malus provisions in the event of a material 
+misstatement of the company’s financial position.page 58 of the annual report on remuneration provides details of the performance measures and 
+weightings to apply for the year ended 3 august 2018. eligibility to receive awards is at the discretion of the committee each year.the committee would seek to ensure, where possible, that these awards replicate the potential value forfeited/lost in joining 
+the company, and in terms of time horizons, vesting periods, expected values and potential impact of performance conditions, these factors are 
+recognised in determining the quantum of such compensation.2013 ltip
+as reported last year, 2015/2016 adjusted eps performance was below threshold against targets set for 2013 ltip awards and accordingly  
+this element lapsed in november 2016. relative tsr performance would have been assessed over the three-year period to 12 november 2016;  
+however since the eps underpin applying to this element of the awards was also not met, the full award lapsed in november 2016. accordingly,  
+the value of 2013 ltip awards vesting included in the single figure table above for 2016 is £nil.for any shares to vest, the committee must be satisfied 
+with the underlying performance of the business.subsequent to the period end,  
+the group reduced its term loan by £5.5 million to £24.5 million.this confirmation is given and should be interpreted in accordance with the provisions of section 418 of the companies act 2006.
+political donations
+the company made no political donations during the period (2016 – £nil) and the board has no intention to seek shareholders’ approval to permit 
+the board to make political donations.under that law the directors are required to prepare  
+the group financial statements in accordance with international financial reporting standards (‘ifrss’) as adopted by the european union and 
+article 4 of the ias regulation and have chosen to prepare the parent company financial statements in accordance with united kingdom generally 
+accepted accounting practice (united kingdom accounting standards and applicable law).conclusions relating to principal risks, going concern and viability statement
+we have reviewed the directors’ statement regarding the appropriateness of the going concern basis  
+of accounting contained within note 1 to the financial statements and the directors’ statement on the  
+longer-term viability of the group contained within the strategic report.how the scope of our audit 
+responded to the key audit 
+matter
+we challenged management’s assumptions used in their impairment assessment of the group’s goodwill and 
+intangible assets.key observations we have not identified any issues or exceptions relating to revenue recognised over our reporting threshold.adjusting items is detailed in the significant accounting policies in note 2 and detailed in note 7, and 
+considered within the significant financial matters section of the audit committee report.post-acquisition, the risks relate to the ebitda estimates for the earn-out targets 
+and ensuring that the amounts classified as remuneration is correctly distributed over the period in which they 
+relate.ifrs 16
+the standard will primarily change lease accounting for lessees; lease agreements will give rise to the recognition of an asset representing the right 
+to use the leased item and a loan obligation for future lease payables.revenue for the level of services 
+performed is recognised using the stage of completion method when the outcome can be measured reliably.the impact of the revision of the original estimates, 
+if any, is recognised in the consolidated income statement such that the cumulative expense reflects the revised estimate, with a corresponding 
+adjustment to equity reserves.the cumulative expense is reversed when an employee in receipt of the share options terminates service prior to the completion of the vesting 
+period.rental costs under operating leases are charged to the consolidated income statement in equal amounts over the terms of the lease.the consideration for each acquisition is measured 
+at the aggregate of the fair values (at the date of exchange) of assets given, liabilities incurred or assumed by the group together with the equity 
+instruments equivalent to the mid-market share price on the date of completion, in exchange for control of the acquiree.3. revenue
+an analysis of the group’s revenue from continuing operations as defined by international accounting standard 18 − ‘revenue’ is as follows:
+       2017 2016
+      £’000 £’000
+sale of goods      230,206 223,391
+rendering of services      162,948 144,155
+revenue from the sale of goods and rendering of services     393,154 367,546 90 st ives plc annual report and accounts 2017
+our figures 
+notes to the consolidated financial statements continued
+4. segment reporting
+the group manages its business on a market segment basis, based on the group’s internal reporting to the chief operating decision maker 
+(‘codm’).tax
+in the current period, the tax credit of £5,694,000 (2016 – £3,931,000) relates to the items discussed above.the carrying amounts of these assets approximate to their fair value.the inputs to the model were:
+        2017 
+weighted average mid-market share price        £0.73 
+weighted average exercise price       £nil
+expected life       24-48 months
+expected volatility       28.31%
+risk free rate       2%
+dividend yield       0%
+weighted average fair value of the options        £0.73  st ives plc annual report and accounts 2017 117
+corporate governance strategic report our figures
+fripp, sandeman & partners limited
+      2017 2016
+      ‘000 ‘000
+number of options     
+outstanding at the beginning of the period      274 –
+granted during the period      – 274
+exercised during the period      (68) –
+outstanding at the end of the period      206 274
+exercisable at the end of the period      –  –
+estimated % of options vesting over next three years      100% 100%
+the fair value of the options granted were measured using a black-scholes option pricing model.

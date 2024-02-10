@@ -1,0 +1,235 @@
+the group makes significant investments  
+in exploration activities performed at 
+greenfield sites to develop the business  
+and at brownfield sites to extend the 
+life-of-mines.highland gold mining limited | annual report and accounts 2017
+21
+strategic report
+risk risk description mitigation movement
+production  
+risks and 
+failure to 
+deliver 
+production 
+plans
+the group’s mining operations are affected 
+by numerous risk factors not wholly within 
+the group’s control, including flooding, pit 
+slope and rim slide, unexpected/unusual 
+geological variations or technical issues, 
+extreme weather conditions and natural 
+disasters.he was 
+a member of the highland gold 
+board of directors from 2002 until 
+early 2008 and re-joined the board 
+in autumn 2008.
+colin belshaw studied mining 
+engineering at the camborne 
+school of mines in cornwall, uk, 
+graduating in 1979 with the dip.csm 
+(first class).he joined the 
+highland gold board of directors in 
+april 2008. highland gold mining limited | annual report and accounts 2017
+26
+governance
+directors’ report
+the directors of highland gold mining limited are pleased to submit their directors’ report together with the audited consolidated 
+financial statements for the year ended 31 december 2017.
+review of activities
+highland gold mining limited (‘highland gold’ or the ‘company’ or the ‘group’) was incorporated in jersey on 23 may 2002  
+for the principal purpose, then and now, of establishing a portfolio of gold mining operations within the russian federation.following consideration of this assessment the audit committee recommended to the board the reappointment of  
+ernst & young llp as the company’s auditors.the members of the executive committee, which meets weekly, include management from rdm’s 
+functional departments and the general directors of the mine sites.the committee delegates part of its duties to four internal rdm committees: the risk committee; the budget 
+committee; the production committee and the investment committee.relations with shareholders
+the group’s website provides comprehensive information on the company’s business, results and personnel and is used  
+to update shareholders and the market in respect of key developments and announcements (www.highlandgold.com).we focused on this area due to the 
+significance of the carrying value of the 
+assets being assessed, the number and  
+size of recent impairments, the current 
+economic environment in the group’s 
+operating jurisdictions and because the 
+assessment of the recoverable amount  
+of the group’s cash generating units 
+(“cgus”) involves significant judgements 
+about the future results of the business 
+and the discount rates applied to future 
+cash flow forecasts.highland gold mining limited | annual report and accounts 2017
+34
+accounts
+independent auditor’s report  
+to the members of highland gold mining limited (continued)
+risk our response to the risk
+key observations communicated  
+to the audit committee
+going concern
+the directors of the group are required  
+to make a rigorous assessment of whether 
+the group will remain a going concern  
+for a period of at least twelve months 
+from the date of approval of the financial 
+statements and assess whether there are 
+any material uncertainties in relation to 
+the going concern basis of preparation.in the current year the performance of  
+the group has improved largely as a result 
+of more favourable market conditions; 
+therefore we consider that the risk  
+has reduced.for the current year, the full scope 
+components contributed 100% (2016: 100%) of the group’s ebitda, 100% (2016: 100%) of the group’s revenue and 39% (2016: 
+40%) of the group’s total assets.in the current year, the range of performance materiality allocated to components was $1.6m to $3.2m  
+(2016: $1.1m to $2.2m).highland gold mining limited | annual report and accounts 2017
+39
+accounts
+consolidated statement of changes in equity
+for the year ended 31 december
+notes
+attributable to equity holders of the parent
+non-
+controlling 
+interest
+us$000
+total 
+equity
+us$000
+issued 
+capital
+us$000
+share 
+premium
+us$000
+assets 
+revaluation 
+reserve
+us$000
+retained 
+earnings 
+us$000
+total
+us$000
+at 31 december 2015   585 718,419 832 18,176 738,012 1,566 739,578
+total comprehensive income for the year   – – – 47,235 47,235 674 47,909
+novo share purchase 27 – – – 241 241 (381) (140)
+dividends paid to equity holders of  
+the parent 30 – – – (31,705) (31,705) – (31,705)
+at 31 december 2016   585 718,419 832 33,947 753,783 1,859 755,642
+total comprehensive income for the year   – – – 65,275 65,275 580 65,855
+novo share purchase 27  – – – 80 80 (130) (50)
+dividends paid to equity holders of  
+the parent 30 – – – (43,931) (43,931) – (43,931)
+at 31 december 2017   585 718,419 832 55,371 775,207 2,309 777,516 highland gold mining limited | annual report and accounts 2017
+40
+accounts
+consolidated statement of cash flows
+for the year ended 31 december
+notes
+2017
+us$000
+2016
+us$000
+operating activities      
+profit before income tax 100,316 66,228
+  100,316 66,228
+adjustments to reconcile profit before income tax to net cash flows from  
+operating activities:      
+depreciation of mine properties and property, plant and equipment 8 49,476 60,212
+impairment losses related to cash-generating units 5, 17 – 22,832
+movement in ore stockpiles obsolescence provision 10.2.1 3,185 9,869
+movement in raw materials and consumables obsolescence provision 10.2 416 600
+write-off of mine properties and property, plant and equipment 10.2, 15 949 1,180
+individual impairment of property, plant and equipment and mine assets 10.2.2 (4) 17
+loss/(gain) on disposal of property, plant and equipment 10.1, 10.2 (391) 318
+bank interest receivable 12.1 (175) (138)
+bonds fair value movement 12.1, 12.2, 29 – 1,013
+interest expense on bank loans 12.2 825 2,247
+accretion expense on site restoration provision 12.2 1,593 1,674
+gain on settlement of contingent consideration 10.1 – (400)
+net foreign exchange gain 11 (651) (1,909)
+movement in provisions   713 545
+unwinding costs and other non-cash expenses/(income)   (3) (6)
+    156,249 164,282
+working capital adjustments:      
+increase in trade and other receivables and prepayments   (997) (5,313)
+decrease in inventories   3,264 10,215
+increase in trade and other payables   6,984 1,770
+income tax paid   (34,510) (31,655)
+net cash flows from operating activities   130,990 139,299
+investing activities      
+proceeds from sale of property, plant and equipment   879 1,494
+purchase of property, plant and equipment 5 (58,336) (59,349)
+capitalised interest paid 5, 15 (7,378) (9,624)
+increase in stripping activity assets 15 (4,077) (5,884)
+interest received from deposits   175 138
+novo shares purchase 27 (50) (138)
+sale of investments – bonds 29 – 20,136
+net cash flows used in investing activities   (68,787) (53,227)
+financing activities      
+proceeds from borrowings 29 299,941 314,500
+repayment of borrowings 29 (304,310) (356,450)
+dividends paid to equity holders of the parent   (43,931) (31,705)
+withholding tax expense 13 (7,683) (3,135)
+payment under finance lease, including interest 29 (1,696) (1,277)
+interest paid 29 (817) (2,132)
+net cash flows used in financing activities (58,496) (80,199)
+net increase/(decrease) in cash and cash equivalents   3,707 5,873
+effects of exchange rate changes   (67) (183)
+cash and cash equivalents at 1 january 21 8,748 3,058
+cash and cash equivalents at 31 december 21 12,388 8,748 highland gold mining limited | annual report and accounts 2017
+41
+accounts
+notes to the consolidated financial statements
+1. corporate information
+the consolidated financial statements of highland gold mining limited for the year ended 31 december 2017 were authorised  
+for issue in accordance with a resolution of the directors on 16 april 2018. 
+highland gold mining limited is a public company incorporated and domiciled in jersey.to the extent that these values exceed their recoverable amounts, that excess is fully provided against in the financial year in 
+which this is determined.highland gold mining limited | annual report and accounts 2017
+44
+accounts
+3. summary of significant accounting policies continued 
+mine development expenditure
+capitalised mine development costs include expenditure incurred to develop new ore bodies, to define future mineralisation in 
+existing ore bodies, to expand the capacity of a mine and to maintain production, and also interest and financing costs relating  
+to the construction of mineral property.for the purpose of fair value disclosures, the group has determined classes of assets and liabilities on the basis of the nature, 
+characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above.the interest cost is charged to the statement of comprehensive income over the lease period.the group 
+determines the classification of its financial assets and liabilities at initial recognition (which, in the case of financial assets existing 
+at the transition date, includes designation at that date) and, where allowed and appropriate, re-evaluates this designation at each 
+financial year end.where input vat is not recoverable, the vat provision is created on the statement of financial position 
+corresponding with the statement of comprehensive income in a relevant period.deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which the asset  
+is realised or the liability is settled, based on tax rates and tax laws enacted or substantively enacted at the reporting date.in 2017, the group continued testing appropriate 
+systems, internal controls, policies and procedures necessary to collect and disclose the required information.management has assessed its cgus as being an individual 
+mine, which is the lowest level for which cash inflows are largely independent of those of other assets.in 2016 the gold and silver revenue reported in the gold production segment was received from sales to gazprombank (us$179.5 
+million) in the territory of the russian federation.there are no restrictions on the distribution of dividends and the repayment of capital.recoverable reserves and resources are based on the proven and probable reserves and a portion of resources expected to  
+be converted into reserves in existence at the end of the year.notes to the consolidated financial statements (continued) highland gold mining limited | annual report and accounts 2017
+65
+accounts
+the table below shows the key assumptions used in the fair value calculation at 31 december 2017 and 2016. the triggers for the impairment loss recognition 
+were primarily the effect of changes to the mine plan which resulted in lower recovery rate and higher future capital expenditure 
+accompanied by higher costs due to a stronger rouble.highland gold mining limited | annual report and accounts 2017
+66
+accounts
+18. other non-current assets
+ 
+2017 
+us$000
+2016 
+us$000
+non-current prepayments* 10,656 3,868
+other non-current assets 202 283
+total other non-current assets 10,858 4,151
+* the portion of prepayments and accounts receivable that will be realised in a period greater than 12 months from the reporting date is classified as 
+non-current assets.the group’s objective is to maintain a balance between continuity of funding and flexibility through the use of bank overdrafts, 
+bank loans, finance leases and hire purchase contracts.notes to the consolidated financial statements (continued) highland gold mining limited | annual report and accounts 2017
+75
+accounts
+assets measured at fair value
+31 dec 2017
+us$000
+level 1
+us$000
+level 2
+us$000
+trade receivables (embedded derivative) 165 – 165
+in 2017, concentrate sales include a positive fair value movement of us$0.2 (2016: a zero fair value movement) relating to an 
+embedded derivative.the dividend will be paid on 25 may 2018 to shareholders on the register at the close of business on 27 april 2018 (the record 
+date).8. that the directors of the company be authorised to offer any holders of any particular class of shares in the company the 
+right to elect to receive further shares (whether or not of that class), credited as fully paid, instead of cash, in respect of all  
+or part of any dividend declared within the period commencing 24 may 2018 and ending on the conclusion of the 5th (fifth) 
+annual general meeting of the company to be held following 24 may 2018.

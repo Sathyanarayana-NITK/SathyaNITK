@@ -1,0 +1,157 @@
+recruiters 
+using the platform will earn credits for any 
+executives who they introduce and who go 
+on to create a profile – those credits may 
+be used to search the anonymised database 
+of “unconnected executives” and make 
+connection requests to executives who are 
+currently not known to the firm.dillistone systems’ head office is in london and 
+it has offices in the us, germany and australia.the division is effectively a start-up business 
+within the group and is expected to be loss 
+making in 2018, although we do anticipate that 
+it will have a direct and positive impact on the 
+performance of our dillistone systems business 
+starting in 2018. during 2017, gatedtalent 
+incurred an operating loss of £0.439m and 
+development expenditure of £0.391m was 
+capitalised.as the business grows there 
+may be insufficient support to ensure that the growth is 
+effectively managed and integrated.acquisition related administrative costs totalled 
+£0.823m (2016: £0.331m) and were in respect 
+of the amortisation of intangibles arising on 
+the voyager, fcp and isv acquisitions and 
+movement in the estimation of contingent 
+consideration.on behalf of the board
+julie pomeroy
+finance director
+26 april 2018
+the strategic report is signed on  
+behalf of the board by
+jason starr
+chief executive
+26 april 2018 www.dillistonegroup.com 15
+governance
+board of directors 16
+corporate governance report 18
+report to the shareholders  
+on directors’ remuneration 20
+directors’ report 22 dillistone group plc - annual report and accounts 2017
+16
+board of directors
+for the year ended 31 december 2017
+mike love has a phd in theoretical physics and over 40 years’ 
+experience in the software industry.giles served as chairman of the association of train 
+operating companies in 1999/2000 and as chairman of  
+the confederation of passenger transport uk.the board has two committees:
+audit committee
+the audit committee comprises the chairman 
+and the non-executive director and usually 
+meets twice during the year.the more important elements of 
+this framework are as follows:
+• management structure
+the board has overall responsibility for 
+the group and each executive director 
+has been given responsibility for specific 
+aspects of the group’s affairs.www.dillistonegroup.com 21
+long term incentive payments made in the period are not included in the above figures but are detailed below.auditor
+a resolution proposing the reappointment of 
+bdo llp as auditor to the group and company 
+will be put to the forthcoming annual general 
+meeting.we tested that consistent revenue recognition procedures 
+have been adopted during the year by reviewing a selection of 
+contracts, tracing the satisfaction of performance obligations, 
+cash receipts and revenue postings into the income statement.overview governance dillistone group plc - annual report and accounts 2017
+26
+independent auditor’s report continued
+to the members of dillistone group plc 
+for the year ended 31 december 2017
+our application of materiality
+we apply the concept of materiality in performing our audit and evaluating the effect of misstatements.overall group materiality £143,000 (2016: £150,000)
+basis for determining 1.50% of total group revenue (2016: 1.50%)
+rationale for benchmark applied the ability of the group to generate continued and new sources of revenue is imperative for management to 
+conclude on the market feasibility of software projects and the ability to capitalised costs in accordance with ias 
+38. furthermore, as a significant driver of profit, revenue growth impacts the achievement of key performance 
+indicators resulting in bonus schemes and incentive plans offered by the group.www.dillistonegroup.com 29
+consolidated statement of comprehensive income
+for the year ended 31 december 2017
+note
+2017
+ £’000 
+2016
+ £’000 
+revenue 3 9,582 9,963
+cost of sales (1,536) (1,478)
+gross profit 8,046 8,485
+administrative expenses (8,560) (8,073)
+operating (loss)/profit 6 (514) 412
+adjusted operating profit before acquisition related and one-off items 2 309 1,463
+acquisition related and one-off items 5 (823) (1,051)
+operating (loss)/profit (514) 412
+financial income 8 1 3
+financial cost 8 (12) (23)
+(loss)/profit before tax (525) 392
+tax income 9 454 134
+(loss)/profit for the year (71) 526
+other comprehensive income 
+items that will be reclassified subsequently to profit and loss:
+currency translation differences (24) 16
+total comprehensive income for the year (95) 542
+earnings per share
+basic 10 (0.36)p 2.68p
+diluted 10 (0.36)p 2.62p
+the notes on pages 35 to 60 are an integral part of these consolidated financial statements.the principal activities have been detailed in the strategic report and the registered office is 50 leman st, london, e1 8hq.valuation techniques commonly used by market practitioners are applied.valuation of share-based payments
+the estimation of share-based payment costs requires the selection of an appropriate valuation model and consideration as to the inputs necessary for 
+the valuation model chosen.the group has made estimates as to the volatility of its own shares, the probable life of options granted, leaver rates and 
+the time of exercise of those options.the group uses the ‘live’ date as the 
+basis of determining the timing of customer practical acceptance, thereby reducing the judgement required to ascertain the timing of licence revenue 
+recognition.where revenue is invoiced in advance for such services, the amount in advance is 
+included in deferred revenue and released over the period to which the service relates.the cash awards are based on a capped cash bonus with performance conditions related to the 
+growth in earnings per share of the group.the data used 
+for impairment testing procedures are directly linked to the group’s latest approved budget, adjusted as necessary to exclude the effects of future 
+reorganisations and asset enhancements.where the individual fair values of the complementary assets are reliably measurable, the group recognises them as a 
+single asset provided the individual assets have similar useful lives.depreciation on these assets is provided at rates estimated to write off 
+the cost, less estimated residual value, of each asset over its expected useful life as follows:
+leasehold land and buildings the lower of 5 years or the remaining lease period
+office and computer equipment 3–5 years straight line
+fixtures, fittings and equipment 4–5 years straight line
+1.14 financial assets
+the group classifies its financial assets under the definitions provided in international accounting standard 39 (ias 39) financial instruments: 
+recognition and measurement, depending on the purpose for which the financial assets were acquired.the remainder of the proceeds is allocated to the conversion option and is recognised in the 
+‘convertible loan note reserve’ within shareholders’ equity, net of income tax effects.1.24 defined contribution pension scheme
+the pension costs charged in profit or loss represent the contributions payable by the group during the year.revenue is currently recognised over the life of the subscription, which is unchanged under ifrs 15;
+• outright licences – the customer pays a one-off amount to purchase a licence conferring a perpetual right to use a version of the software.key management of the group are the directors and the divisional directors of dillistone systems and voyager software.further details of the contingent consideration are given in note 24.
+strategic  
+report
+financial 
+statements
+overview governance dillistone group plc - annual report and accounts 2017
+52
+notes to the financial statements continued
+for the year ended 31 december 2017
+19. cash and cash equivalents
+group company
+2017
+ £’000 
+2016
+ £’000 
+2017
+ £’000 
+2016
+ £’000 
+cash balances available on demand 1,390 1,537 99 43
+20. borrowings
+group company
+2017
+ £’000 
+2016
+ £’000 
+2017
+ £’000 
+2016
+ £’000 
+current bank borrowings – 158 – 158
+current loan note borrowings 5 – 5 –
+non current loan note borrowings 386 – 386 –
+total borrowings 391 158 391 158
+the directors consider that the fair value of borrowings approximates to the carrying value except for the convertible loan note.at the year end the group had a liability for contingent consideration made up as follows:
+• 30% of net revenues in the nine month period to 30 september 2017 less £25,000 (calculated at £146,000).the group aims to manage foreign exchange risk at a local level by matching the currency in which revenue is generated and expenses are incurred.

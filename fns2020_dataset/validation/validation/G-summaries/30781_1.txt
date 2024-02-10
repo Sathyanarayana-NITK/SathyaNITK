@@ -1,0 +1,231 @@
+what we do: automatic real-time ddos protection
+product overview
+revenue-protecting 
+real-time ddos 
+mitigation product 
+optimised for service 
+providers and cloud 
+providers 
+available for rapid 
+deployment within 
+the provider’s own 
+infrastructure 
+delivering  
+compelling roi 
+revenue and 
+reputation-
+protecting real-time 
+ddos mitigation 
+product for digital 
+enterprises
+solves for the 
+scalability & accuracy 
+demands of both 
+service cloud providers 
+and digital enterprise 
+businesses
+corero’s product 
+mitigates attacks in 
+less than one second, 
+unlike competing 
+technologies which 
+mitigate attacks in  
+c.20 minutes
+smartwall
+®
+ 
+raw internet
+ good traffic allowed
+ attack traffic blocked
+protected 
+network
+corero has a market leading 
+smartwall product portfolio 
+endorsed by 90 customers, 
+recommended by nss labs (the 
+world’s leading independent product 
+testing laboratory) and selected by 
+juniper networks as a juniper 
+technology alliance partner.in addition, the service 
+portal, a turnkey solution for service provider customers to manage the 
+delivery of ddos mitigation services to their customers, has been an 
+important competitive differentiator.our marketing 
+automation investments allow us to 
+identify these followers and to qualify 
+them as “prospects”.• freedom of information data reveals lack of 
+cyber-resilience among critical national  
+infrastructure (“cni”) organisations
+• cni organisations could be ignoring 90% of 
+the ddos attacks on their networks by not 
+mitigating short duration ddos attacks, which 
+are frequently used by hackers to distract from 
+data theft attempts
+corero network security plc
+annual report & accounts 2017 16 corero is dependent on revenue growth to deliver on its strategy.to be successful corero will:
+• focus its lead generation 
+and sales resources, and 
+product development, on 
+its target markets
+• develop relationships with 
+go-to-market partners, 
+channel partners and 
+system integrators to 
+expand its routes to market.revenue for the year ending  
+31 december 2017 was however 
+impacted by delays in world-wide 
+implementation schedules for a large 
+digital enterprise customer win in q3 
+2017 and an existing customer’s ongoing 
+deployment (with the majority of the 
+revenue from these two customers now 
+expected in the first half of 2018).the board
+corero recognises its responsibility to 
+provide entrepreneurial and responsible 
+leadership to the group within a 
+framework of prudent and effective 
+controls (described below) allowing 
+assessment and management of the key 
+issues and risks impacting the business.going concern
+the financial position and cash flows are 
+described in the financial review on pages 
+18 and 19. an indication of likely future 
+developments affecting the company is 
+included in the strategic report on pages  
+6 to 19.
+on 5 april 2018, corero will announce a 
+conditional placing and subscription to raise 
+£4.0 million ($5.2 million).share capital
+the issued share capital of the company, 
+together with details of movements in the 
+company’s issued share capital during the 
+financial period are shown in note 20 to the 
+financial statements.an 
+exchange rate risk does arise in relation 
+to equity fund raises which are in gbp, 
+given the company’s aim listing, to the 
+extent these funds are required to 
+support us dollar denominated funding 
+requirements.this equity fund raise is subject to 
+shareholder approval at a general meeting 
+of the company on 26 april 2018.
+annual general meeting
+a circular including the notice convening 
+the agm together with the details of the 
+business to be considered will be sent to 
+shareholders in due course.the directors are responsible for ensuring 
+the annual report and the financial 
+statements are made available on a 
+website.key audit matter how we addressed the key audit matter in the audit
+revenue recognition
+see accounting policy at note 2.5.
+the group generates revenue primarily from the 
+sale of hardware and associated software and 
+related maintenance and support contracts.we considered there to be a significant audit risk 
+arising from the allocation of the value of the 
+transaction between the multiple elements or 
+deliverables included in the sale as well as the 
+timing of revenue recognition with regard to proper 
+deferral of support revenues.this work also included comparison to 
+industry data, historic trading, and macro-economic factors.responsibilities of directors
+as explained more fully in the directors’ responsibilities statement, the directors are responsible for the preparation of the 
+financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors 
+determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether 
+due to fraud or error.the company has taken advantage of the following disclosure exemptions:
+the requirements of ias 7 statement of cash flows, ifrs 7 financial instruments: disclosures and ias 24 related party 
+disclosures.corero network security plc
+annual report & accounts 2017 38 company statement of changes in equity
+for the year ended 31 december 2017
+share 
+capital 
+$’000
+capital 
+redemption 
+reserve
+$’000
+share 
+premium 
+account 
+$’000
+share 
+options 
+reserve 
+$’000
+translation 
+reserve 
+$’000
+retained 
+earnings 
+$’000
+total 
+equity 
+$’000
+1 january 2016 2,573 7,051 56,835 282 (3,755) (15,970) 47,016
+loss for the year – – – – – (19,975) (19,975)
+other comprehensive income – – – – (9,402) – (9,402)
+total comprehensive 
+expense for the year – – – – (9,402) (19,975) (29,377)
+contributions by and 
+distributions to owners
+share-based payments – – – 19 – – 19
+issue of share capital 546 – 10,846 – – – 11,392
+total contributions by and 
+distributions to owners 546 – 10,846 19 – – 11,411
+31 december 2016 and 
+1 january 2017 3,119 7,051 67,681 301 (13,157) (35,945) 29,050
+loss for the year – – – – – (10,466) (10,466)
+other comprehensive income – – – – 3,138 – 3,138
+total comprehensive 
+expense for the year – – – – 3,138 (10,466) (7,328)
+contributions by and 
+distributions to owners
+share-based payments – – – 21 – – 21
+issue of share capital 1,437 – 5,558 – – – 6,995
+total contributions by and 
+distributions to owners 1,437 – 5,558 21 – – 7,016
+31 december 2017 4,556 7,051 73,239 322 (10,019) (46,411) 28,738
+the notes on pages 40 to 63 form part of these financial statements.corero network security plc is a public limited company incorporated in the united kingdom under the companies act 2006 
+and registered in england and wales.the directors have prepared detailed income statement, balance sheet and cash flow projections for the period to 31 december 
+2019. these include cash of £4.0 million ($5.6 million) to be raised by the proposed equity fund raise to be announced by the 
+company on 5 april 2018 and bank loan of £3.0 million ($4.2 million) which is expected to be drawn down following the 
+completion of the equity fund raise.on this basis, the directors have therefore concluded that it is appropriate to prepare the financial statements on a going 
+concern basis.4. maintenance and support services
+revenue is recognised on a straight line basis over the life of the agreement.development expenditure is capitalised only when it is probable that future economic benefit will result from the project and 
+the following criteria are met:
+• the technical feasibility of the product has been ascertained;
+• adequate, technical, financial and other resources are available to complete and sell or use the intangible asset;
+• the group can demonstrate how the intangible asset will generate future economic benefits and the ability to use or sell the 
+intangible asset can be demonstrated;
+• it is the intention of management to complete the intangible asset and use it or sell it; and 
+• the development costs can be measured reliably.the following useful lives were applied during the year:
+• computer software acquired – 3 years straight line
+• capitalised development expenditure – 5 years straight line
+• amortisation costs are included within operating expenses in the statement of comprehensive income.effective date, periods beginning after 1 january 2019
+the effect on the financial statements of the application of the standards and interpretations that are expected to have a 
+significant impact or are relevant to the group, is:
+ifrs 15 – revenue from contracts with customers
+the standard requires an analysis of 5 key steps:
+1. identify the contract with the customer;
+2. identify the performance obligations in the contract;
+3. determine the transaction price;
+4. allocate the transaction price to the separate performance obligations; and
+5. recognise revenue when (or as) each performance obligation is satisfied.details of the main assumptions used in the assessment of the carrying value 
+of the group’s cash generating unit is set out in note 8.
+impairment of investments and intercompany balances (applies to the company financial statements only)
+the directors have reviewed the carrying value of the intercompany balances and cost of investments in subsidiaries of the 
+company with reference to current and future trading conditions.besp fair value prices are adjusted for future quarters if management identifies a  
+pattern of variances, greater than 10%, between actual selling prices versus the then current besp.the management of the group believe these growth rates are appropriate for the forecasts given the expected impact from 
+the smartwall sales traction in 2017, the focus on delivering sales growth through channel partners, the expected contribution 
+from go-to-market partners to expand the opportunities corero can sell into and the 100gbps and virtual software products 
+introduced in late 2017, all of which are expected to deliver a step change in revenue in the forecast period.24. contingent liabilities
+corero network security (uk) limited was in december 2015 awarded a grant of up to £600,000 for a development project over 
+three years from scottish enterprise.if an option holder ceases to be in employment or hold office within the group, options granted shall immediately lapse unless 
+such cessation is because of the option holder’s death; the option holder’s ill health or disability; the company that employs the 
+option holder ceasing to be under the control of the company or such company ceasing to be within the group; the transfer of 
+sale of the undertaking or part-undertaking in which the option holder is employed to a person who is neither under the control 
+of the company nor within the group; or any other reason that the board in its absolute discretion shall determine.on a cessation of employment or office as set out above, options shall be exercisable to the extent they have vested according 
+to the terms of the option agreement and the provisions of the relevant share option scheme and must be exercised within 30 
+days following such cessation unless it is by reason of death whereby the option holder’s personal representatives must exercise 
+the option within 12 months following the date of the option holder’s death.no options were exercised and 1,673,500 options were forfeited in the 12 months to 31 december 2017. on 9 june 2017, the 
+company announced the cancellation and re-granting of options over ordinary shares to certain directors and employees, with an 
+option re-grant price of 13.6p (“new option grant price”) being the weighted average price of the company’s historic investment 
+rounds).

@@ -1,0 +1,164 @@
+our operations may also  
+be affected by political and economic 
+instability, including terrorism, civil disorder, 
+violent crime, war and social unrest.the likely effect of these changes 
+will be to increase the cost for fossil fuels, 
+impose levies for emissions and increase 
+costs for monitoring and reporting and to 
+reduce demand for fossil fuels.3 refer to other reconciliations section for the allocation of the total income tax expense between pre-significant and significant items.it is contextually 
+noteworthy, given the earnings 
+enhancing controllable inventory 
+build, that funds from operations 
+significantly exceeded (nearly  
+double) the $3,898 million of net 
+capital expenditure, $342 million  
+of net acquisitions of subsidiaries  
+and investments, $561 million  
+of acquisitions of non-controlling 
+interests in subsidiaries (african 
+copper) and payment of $1,175 million 
+of dividends to shareholders and 
+non-controlling interests.owing to the 
+recent timing of the share tender in q4 2017 (glencore now has 63% of the voting 
+shares and a 23% overall economic interest), management is in preliminary stages  
+of reviewing the operations and the associated reporting framework.we recognise 
+the value of multi-stakeholder 
+dialogue in addressing these complex 
+situations through shared learnings 
+and expertise.the company secretary 
+attends all meetings of the board 
+and its committees.the chairman seeks to 
+ensure that the very significant work 
+of the committees feeds into, and 
+benefits as to feedback from, the full 
+board.in addition, 
+management in the business receives 
+weekly and monthly reports of 
+indicators which are the basis of 
+regular operational meetings, where 
+corrective action is taken if necessary.3. impairment 
+the committee considered whether 
+the carrying value of goodwill, 
+industrial assets, physical trade 
+positions and material loans and 
+advances may be impaired as a result 
+of commodity price volatility and 
+some asset specific factors.firstly, prior 
+to the notice of 2017 agm being 
+compiled, the committee considered 
+the performance of each director.summary of directors’ remuneration policy
+general policy for executive directors
+to facilitate the attraction, retention and motivation  
+of executive directors and other senior executives of 
+appropriately high calibre to implement the group’s 
+strategy.the powers of the directors are set out in the articles and 
+provide that the board may exercise all the powers of the 
+company including to borrow money.these matters included those which had the greatest effect on: the overall audit strategy, the allocation  
+of resources in the audit and directing the efforts of the engagement team.independent auditor’s report  
+to the members of glencore plc
+continued
+116
+glencore annual report 2017 credit and performance risk
+description of key audit matter how the scope of our audit responded to the key audit matter
+the group is exposed to credit and performance risk arising  
+from the group’s global production and marketing operations, 
+particularly in markets demonstrating significant price volatility 
+with limited liquidity and terminal markets.we challenged management on the disclosures in the  
+financial statements in relation to taxation, specifically on the 
+requirement for adequate assessment of uncertainties and 
+contingent liabilities.independent auditor’s report  
+to the members of glencore plc
+continued
+118
+glencore annual report 2017 our application of materiality
+we define materiality as the magnitude of misstatement in the financial statements that makes it probable that the economic 
+decisions of a reasonably knowledgeable person would be changed or influenced.we also report to the audit committee on disclosure matters that we identified when assessing the overall presentation of the 
+financial statements.the other information comprises the information 
+included in the annual report, other than the financial statements and our auditor’s report thereon.see note 24 for a summary of the acquisitions of subsidiaries completed during the year and the  
+key judgements made in determining control thereof.classification and measurement
+ifrs 9 modifies the classification and measurement of certain classes of financial assets and liabilities and will require the group 
+to reassess classification of financial assets from four to three primary categories (amortised cost, fair value through profit and loss,  
+fair value through other comprehensive income), reflecting the business model in which assets are managed and their cash flow 
+characteristics.historical cost is defined as the amount of cash or cash equivalents paid or the fair value 
+of the consideration given to acquire them at the time of their acquisition.total comprehensive income of subsidiaries is attributed to the owners of the company and  
+to the non-controlling interests even if this results in the non-controlling interests having a deficit balance.deferred taxes are recognised for temporary differences between the carrying amounts of assets and 
+liabilities in the financial statements and the corresponding tax bases used in the computation of taxable income, using enacted 
+or substantively enacted income tax rates which are expected to be effective at the time of reversal of the underlying temporary 
+difference.the amount recognised as a provision is the best estimate of the consideration required to settle the present obligation at the 
+balance sheet date, taking into account the risks and uncertainties surrounding the obligation, including interpretation of specific 
+laws and likelihood of settlement.summarised profit and loss in respect of glencore’s associates and joint ventures, reflecting 100% of the underlying associates’  
+and joint ventures’ relevant figures for the year ended 31 december 2016, including group adjustments relating to alignment  
+of accounting policies or fair value adjustments, is set out below.the carrying value of trade receivables approximates fair value.notes to the financial statements
+continued
+160
+glencore annual report 2017 other reserves
+us$ million
+translation
+adjustment
+cash flow
+hedge reserve
+net
+unrealised
+gain/(loss)
+net ownership
+changes in
+subsidiaries total
+1 january 2017 (2,553) 126 377 (752) (2,802)
+exchange gain on translation of foreign 
+operations 503 – – – 503
+loss on cash flow hedges, net of tax – (165) – – (165)
+gain on available for sale financial instruments – – 500 – 500
+change in ownership interest in subsidiaries – – – (318) (318)
+items recycled to the statement of income 
+upon disposal of subsidiaries (see note 24) (271) – – 128 (143)
+31 december 2017 (2,321) (39) 877 (942) (2,425)
+1 january 2016 (3,579) (21) 12 (831) (4,419)
+exchange gain on translation of foreign 
+operations 440 – – – 440
+gain on cash flow hedges, net of tax – 99 – – 99
+gain on available for sale financial instruments – – 365 – 365
+reclassifications (31) 30 – 1 –
+change in ownership interest in subsidiaries – – – 68 68
+discontinued operations 22 21 – – 43
+items recycled to the statement of income 
+upon disposal of subsidiaries (see note 24) 595 (3) – 10 602
+31 december 2016 (2,553) 126 377 (752) (2,802)
+16. earnings per share
+us$ million 2017 2016
+profit/(loss) attributable to equity holders of the parent
+ continuing operations 5,777 (744)
+ discontinued operations – 2,123
+profit attributable to equity holders of the parent for basic earnings per share 5,777 1,379
+weighted average number of shares for the purposes of basic earnings per share (thousand) 14,256,020 14,224,100
+effect of dilution:
+equity-settled share-based payments (thousand) 167,024 134,179
+weighted average number of shares for the purposes of diluted earnings per share (thousand) 14,423,044 14,358,279
+basic earnings/(loss) per share (us$)
+ continuing operations 0.41 (0.05)
+ discontinued operations – 0.15
+total basic earnings per share 0.41 0.10
+diluted earnings/(loss) per share (us$)
+ continuing operations 0.40 (0.05)
+ discontinued operations – 0.15
+total diluted earnings per share 0.40 0.10
+161
+glencore annual report 2017
+ 
+strategic report
+ 
+governance
+  
+financial  
+statements
+  
+additional  
+information 16. earnings per share continued
+headline earnings:
+headline earnings is a johannesburg stock exchange (jse) defined performance measure.3 comprises impairments of property, plant and equipment, intangible assets and investments (see note 5) and impairments related to cerrejón of $521 million in 2016. the bonus share awards may 
+be satisfied, at glencore’s option, in shares by the issue of new ordinary shares, by the transfer of ordinary shares held in treasury or by 
+the transfer of ordinary shares purchased in the market or in cash, with a value equal to the market value of the award at settlement, 
+including distributions paid between award and settling.under the terms of the arrangement, glencore is required to deliver an average of 19 million ounces of silver per 
+annum, over a 3 year period.the aggregate equity consideration for the combined 
+50% interest, including the indirect assumption of certain levels of net working capital and debt, amounted to $3.125 billion, payable 
+in cash upon closing.adjusted ebitda is a useful approximation of the operating cash flow generation by eliminating depreciation and amortisation 
+adjustments.

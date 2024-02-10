@@ -1,0 +1,136 @@
+the overall cloud analytics market stands with a total revenue of 
+$7.5bn in 2015, and is expected to grow to $23.1bn at a compound 
+annual growth rate (cagr) of 25.1% from 2015 to 2020.
+the growth in data is well documented with the majority of industry 
+analysts pointing towards exponential growth in consumer, m2m, 
+mobile and enterprise data while industry players are basing their 
+business models on 5–10x growth in volume of data over the next 
+five years.the payback from investing funds into the 
+business takes time and management expects 
+this payback to continue into the current year, 
+and beyond, as the investment into sales, 
+marketing and product innovation bears fruit.the investment into product development will 
+yield market-ready services to drive further 
+revenue growth; payback here will take longer 
+but should drive incremental returns.going concern
+following the placement of 111,142,031 
+ordinary £0.005 shares at the price of £0.045 
+on 15 may 2017, the directors believe that the 
+group has sufficient resources to continue 
+trading for the foreseeable future.disclosure of information to auditor
+the directors who held office at the date 
+of approval of this directors’ report confirm 
+that, so far as they are aware, there is no relevant 
+audit information of which the company’s 
+auditor is unaware, and each director has 
+taken all the steps that he ought to have taken 
+to make himself aware of any relevant audit 
+information and to establish that the company’s 
+auditor is aware of that information.the chairman, 
+john o’hara, is a member of each of the 
+board committees.the board has 
+a list of matters reserved for its consideration 
+which include, but are not limited to, matters 
+of strategy, risk management, consideration 
+and approval of financial budgets, major 
+capital expenditure decisions, acquisitions 
+and disposals, approval of the interim and 
+final results and the recommendation of any 
+dividends.john o’hara is the other 
+permanent member of this committee, which 
+co-opts other directors as necessary for its 
+deliberations.the committee is responsible for 
+considering the selection, and re-appointment, 
+of the directors.the group’s internal financial control procedures 
+and monitoring systems include:
+• an annual budgetary process to set 
+appropriate measurable targets for 
+monitoring group progress;
+• financial policies and approval processes 
+to ensure proper authorisation is obtained 
+for spending;
+• segregation of duties within 
+financial management;
+• maintenance of proper records for the 
+production of accurate and timely financial 
+information; and
+• detailed monthly reporting to the board 
+against the operating budget and analysis 
+of cash management.going concern
+notwithstanding that the group has made losses in the current year, these financial statements have been prepared on the going concern basis, 
+which assumes that the group will continue to be able to meet its liabilities as they fall due for the foreseeable future.following the placement 
+of 111,142,031 ordinary £0.005 shares at the price of £0.045 on 15 may 2017, the directors believe that the group has sufficient working capital 
+to meet its present requirements for at least the next twelve months from the date of this consolidated financial information.judgements and estimates
+the preparation of the financial statements requires management to exercise judgement in applying the group’s accounting policies.the remainder of the contract 
+value (20%) is recognised over the course of each appropriate period.deferred tax assets are reduced to the extent that it is no longer probable that the related tax benefit will be realised.contributions payable to the group’s pension scheme are charged to the income statement 
+in the period to which they relate.trade and other payables
+trade payables are stated at their original invoiced value, as the interest that would be recognised from discounting future cash payments over the 
+expected payment period is not considered to be material.borrowings are subsequently carried at amortised cost; any 
+difference between the proceeds (net of transaction costs) and the redemption value is recognised in the income statement over the period of the 
+borrowings using the effective interest method.segment reporting
+operating segments are reported in a manner consistent with the internal management reporting of the business to the executive directors, who have 
+been identified as the chief operating decision-maker.all segment revenue, loss before taxation, assets and liabilities are attributable to the principal activity of the group, being the provision of data 
+analytics using a proprietary form.financial statements
+rosslyn data technologies plc / annual report and accounts 2017 /  35 notes to the consolidated financial statements continued 
+for the year ended 30 april 2017
+4. employees and directors continued
+information regarding the highest paid director is as follows:
+year ended
+30 april
+2017
+£
+year ended
+30 april 
+2016
+£
+aggregate emoluments 156,966 150,000
+there were pension contributions in respect of the highest paid director of £15,354 (2016: £12,000).diluted earnings per share is calculated by dividing the net profit for the year attributable to ordinary shareholders by the weighted average number 
+of ordinary shares outstanding during the year plus the weighted average number of ordinary shares that would be issued on the conversion of all 
+dilutive potential ordinary shares into ordinary shares.the group policy is to try to match the timing 
+of the settlement of sales and purchase invoices so as to eliminate, as far as possible, currency exposure.the fair value review is also incomplete as the final workings for the net working capital adjustment and contingent 
+liabilities have not yet been agreed by the sellers.the following are the directors’ provisional estimates of the fair value of the consideration transferred and the identifiable 
+assets and liabilities:
+£’000
+amount settled in cash to the sellers —
+amount settled in cash to repay loans from the sellers 229
+amount settled in cash to repay 3rd party loans 764
+fair value of equity issued 55
+fair value of contingent consideration (provisional amount) 750
+fair value of consideration transferred 1,798
+provisional recognised amounts of identifiable assets:
+book value
+£’000
+fair value 
+adjustments
+£’000
+fair value
+£’000
+property, plant and equipment 15 — 15
+software licences 920 — 920
+software development 1,494 (1,494) —
+intangible assets 496 3,569 4,065
+trade and other receivables 1,130 — 1,130
+deferred receivable 275 — 275
+cash and cash equivalents — — —
+borrowings (1,552) — (1,552)
+deferred tax liabilities/assets — — —
+deferred income (1,480) — (1,480)
+other liabilities — — —
+trade and other payables (1,575) — (1,575)
+net identifiable assets and liabilities (277) 2,075 1,798
+goodwill — — —
+the software development will be written off to be consistent with rosslyn data technologies’ accounting policies; the value of the software products 
+forms part of the intangible asset fair value adjustment.the fair value of the 
+employee services received in exchange for the grant of the options is recognised as an expense.resolution 6 – authorisation to allot relevant securities (ordinary resolution)
+under section 551 of the 2006 act, the directors of the company require the authority of the shareholders of the company to be able to issue 
+shares in the capital of the company.this resolution gives authority to the directors of the company to allot ordinary shares of £0.005 each in the 
+capital of the company.resolution 7 – disapplication of statutory pre-emption rights (special resolution)
+this resolution gives the directors of the company the authority to allot equity securities on a non-pre-emptive basis solely for the purposes 
+of an allotment of shares in the company pursuant to an authority given by resolution 6. it will disapply the statutory pre-emption rights for 
+such allotments until the earlier of the date which is 15 months after the resolution is passed and the conclusion of the next annual general 
+meeting of the company.please state clearly on each form of proxy the number of shares in relation to 
+which the proxy is appointed.the vote 
+of the senior joint holder who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of other joint holders, 
+and, for this purpose, seniority shall be determined by the order in which the names stand in the register of members in respect of the joint holding.whether or 
+not you intend to attend the annual general meeting, you are requested to complete, sign and return the form of proxy in accordance with the instructions 
+printed on it.

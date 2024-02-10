@@ -1,0 +1,93 @@
+impact on society
+the company has a positive impact on society by offering
+internet services in developing countries, contributing to the
+united nations broadband commission’s objective of
+connecting the 50% of the world that is still offline with
+affordable internet.diluted
+earnings per share, at 1.04 pence (2016: 0.97 pence),
+reﬂected the dilutive effect of the share options “in the money”
+at the average share price for the year.dividends
+it remains the intention of the group to generate income
+returns for investors in the future as part of a progressive and
+commercially prudent dividend policy.with the exception of goodwill, the group’s intangible assets
+are amortised in line with the accounting policy.banking facilities
+a new facility agreement was entered into with svb on
+29 august 2017, which was amended and restated on the
+30th november 2017 to support the sk-nic acquisition on
+5 december 2017.
+this agreement refinanced the remaining principal of £1.75m
+due under the original svb facility agreement entered into for
+the purposes of acquiring instra in december 2015.
+the new svb facilities comprises a £12m term loan, a £6m
+revolving credit facility, and a £3m overdraft facility.18    centralnic group plc annual report 2017 the board considers the carrying value of intangible assets in
+particular given the relative materiality to the group.financial instruments
+details of the use of financial instruments and financial risk
+management are included in note 29 to the financial statements.details of the committees of the
+board and their activities are contained in the corporate
+governance report on pages 26 to 28 of this report.as a
+result, at the time of approving the financial statements, the
+directors consider that the company and the group have
+sufficient resources to continue in operational existence for the
+foreseeable future and that it is appropriate to adopt the going
+concern basis in the preparation of the financial statements.the board
+meets regularly to consider the business strategy, performance
+and the framework of internal controls.details of
+objectives and policy are provided in the remuneration report
+on pages 29 to 30.
+the remuneration committee has tom pridmore as its chairman
+and other members of the committee include mike turner,
+samuel dayani and thomas rickert.centralnic group plc annual report 2017 27 corporate governance continued
+accounting procedures are managed on a day to day basis by
+the finance team.therefore, our assessment of the most significant risks of
+material misstatement and resulting key audit matters, which are
+those risks having the greatest effect on the audit strategy and
+requiring particular focus, are otherwise the same as in the prior
+year and are detailed below.the other
+information comprises the information included in the annual
+report, other than the financial statements and our auditor’s
+report thereon.in connection with our audit of the financial statements, our
+responsibility is to read the other information and, in doing so,
+consider whether the other information is materially inconsistent
+with the financial statements or our knowledge obtained in the
+audit or otherwise appears to be materially misstated.a further description of our responsibilities for the audit of the
+financial statements is located on the financial reporting
+council’s website at: www.frc.org.uk/auditorsresponsibilities.• merger relief reserve represents the cumulative excess of the fair value of consideration received for the issue of shares in excess
+of their nominal value less attributable share issue costs and other permitted reductions.• retained earnings represent the cumulative value of the profits not distributed to shareholders, but retained to finance the future
+capital requirements of the centralnic group.the consolidated financial statements are presented in pounds
+sterling (£) the group’s and the company’s presentational currency.centralnic group plc annual report 2017 43 3. summary of significant accounting policies continued
+the group documents at the inception of the transaction the relationship between hedging instruments and hedged items, as well as
+risk management objectives and strategy for undertaking various hedging transactions.subsequent component replacement costs are included in the asset’s carrying amount or recognised as a separate asset, as
+appropriate, only when the cost is incurred and it is probable that the future economic benefits associated with the asset will flow
+to the centralnic group and the cost of the asset can be measured reliably.the useful economic life for the software acquired as part of the internet.bs, instra and sk-nic acquisitions is five years with the
+customer list acquired being amortised over ten years.current tax is the expected amount of income taxes payable in respect of the taxable profit for the year and is measured using the tax
+rates that have been enacted or substantively enacted at the end of the reporting period.deferred tax liabilities are recognised for all taxable temporary differences other than those that arise from goodwill or excess of the
+acquirer’s interest in the net fair value of the acquiree’s identifiable assets, liabilities and contingent liabilities over the business
+combination costs or from the initial recognition of an asset or liability in a transaction which is not a business combination and at the
+time of the transaction, affects neither accounting profit nor taxable profit.deferred tax assets are recognised for all deductible temporary differences, unused tax losses and unused tax credits to the extent
+that it is probable that future taxable profits will be available against which the deductible temporary differences, unused tax losses and
+unused tax credits can be utilised.revenue from the sale of services is recognised when the amounts of revenue and cost can be measured reliably.the enterprise including premium domain name sales were principally driven by premium domain name sales of £2,992,000
+(2016: £3,744,000) of which £2,638,000 was made to one customer (2016: £3,555,000 to one customer).2017                                                                            2016
+                                                                                                                               senior key                                                                    senior key 
+                                                                                                      directors           personnel                    total              directors             personnel                     total
+                                                                                                            £’000                   £’000                   £’000                   £’000                   £’000                   £’000
+wages and salaries                                                      621                743             1,364               623               328               951
+employers ni                                                                  68                  70                138                 57                 18                 75
+pension                                                                          21                  37                  58                 16                 16                 32
+share based payments                                                 317                  35                352               498                 25               523
+directors consultancy fees                                            133                    –                133               162                   –               162
+settlements                                                                  315                    –                315                 67                   –                 67
+                                                                                 1,475                885             2,360            1,423               387            1,810
+the group made contributions to defined contribution personal pension schemes for 6 directors in the period (2016: 5).the cost of equity is derived
+from the expected return on investment by the group’s investors.the valuation method applied to
+this investment is considered the most appropriate with regard to the stage of the development of the business and the ipevcv
+guidelines.if the gbp strengthened or weakened by 10% against the other currencies, with all other variables in each case remaining constant,
+then the impact on the centralnic group’s post-tax profit or loss would be gains or losses as follows:
+                                                                                                                                                                                                                                    strengthen/weaken
+                                                                                                                                                                                                                                                         £’000
+2017
+usd                                                                                                                                                                                  +/– 378 
+eur                                                                                                                                                                                   +/– 225 
+aud                                                                                                                                                                                  +/– 337 
+interest rate risk
+interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market
+interest rates.the centralnic group’s exposure to interest rate risk arises mainly from interest-bearing financial assets and liabilities.

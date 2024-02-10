@@ -1,0 +1,331 @@
+annual report and accounts 2017
+corero network security plc
+a leader in real-time,  
+high performance, 
+ddos protection. service 
+providers, cloud providers and digital enterprises rely on corero’s award 
+winning smartwall® network threat defense system (“smartwall”) 
+technology to eliminate the ddos threat to their environment through 
+automatic attack detection and mitigation, coupled with network 
+visibility, analytics and reporting. the corero solutions are among the 
+highest performing in the industry, while 
+providing the most automated ddos 
+protection at unprecedented scale with 
+the lowest total cost of ownership to  
+the customer. how 
+we do this by combining our patents, algorithms, more than a decade of  
+cyber-security experience and our threat analytics. operating highlights 
+ 
+• strong performance of flagship 
+smartwall product
+• existing customer add-on orders up 
+320% over the prior year
+• high customer delight with >95% 
+renewal rates for support and services
+• first two $1.0 million customers
+• encouraging uptake of ddos 
+protection as-a-service (launched in 
+late 2016)
+revenue
+$8.5m
+as contribution from  
+legacy products  
+reduced as expected  
+(2016: $8.8 million)
+*	 	 c ompr is es	the	oper a tin g	loss	less	unr ealis e d	f or eign	e x chan g e	differ enc es	on	an	in ter c ompan y	loan,	 
+depr ecia tion,	amor tisa tion	and	impairmen t	of	g oodwill. the	dir ec t ors	c onsider	ebitd a	t o	be	a	bet ter	meas-
+ur e	of	pr ofitabilit y	as	it	e x cludes	non	c ash	items. the	2016	ebitd a	has	been	adjuste d	t o	be	on	a	c onsisten t	
+basis. **	 	 recurr in g	r e v enue	c ompr is es	main ten anc e ,	suppor t	s er vic es	and	aas	r ec ognis e d	r e v enue . a distributed denial of service 
+attack is a cyber-threat, in which 
+multiple computer systems 
+attack a target, such as a server, 
+website or other network asset, 
+and cause a denial of service for 
+users of the targeted resource. the flood of incoming messages, 
+connection requests or 
+malformed packets to the target 
+system, forces it to slow down or 
+shut down, thereby denying 
+service to legitimate users or 
+systems. ddos attacks are a 
+threat to service availability, 
+network security, brand 
+reputation and ultimately lead to 
+lost revenues. attackers are continuing to 
+leverage ddos attacks as part of 
+their cyber-threat arsenal to 
+either disrupt business 
+operations or provide a 
+smokescreen while they access 
+sensitive corporate information, 
+and they are doing it in 
+increasingly creative ways that 
+circumvent traditional security 
+solutions or reduce the previous 
+effectiveness of ddos scrubbing 
+centres. corero’s key operational centres are in 
+marlborough, massachusetts in the usa 
+and edinburgh in the uk, with the 
+company’s registered office in uxbridge 
+in the uk. the science behind this 
+tool is consistent with that promoted by 
+bain consulting’s net promoter score® 
+(“nps”). richard  
+is a fellow of the institute of chartered 
+accountants in england and wales  
+(“fca”). ashley began his career at ibm research & 
+development in the uk. corero network security plc annual report and accounts 2017 what is a ddos attack? • availability and security of internet services and applications is essential  
+for digital / online businesses 
+• downtime or compromise equates to:
+• lost revenues and additional operational costs
+• unhappy customers with increased costs for retention of existing  
+customers and acquisition of new customers
+• brand and reputation damage 
+• legal liability and fines 
+(source: neustar global ddos attacks & cyber security insights report october 2017)
+* as estimated by 49% of over 1,000 respondents in a neustar survey for more information  
+www.corero.com
+contents
+overview
+01 highlights
+02 corero at a glance
+03 what we do
+05 our proposition
+strategic report
+06 chief executive’s strategic update
+10 market overview
+12 our business model
+14 our strategy
+17 principal risks and uncertainties
+18 financial review
+governance
+20 board of directors
+22 chairman’s introduction
+23 corporate governance report
+26 directors’ report
+29 statement of director’s responsibilities
+financial statements
+30 independent auditor’s report
+34 consolidated statement of  
+comprehensive income
+35 consolidated statement of financial position
+36 company statement of financial position
+37 consolidated statement of cash flows
+38 consolidated statement of changes in equity
+39 company statement of changes in equity
+40 notes to the financial statements
+corporate directory
+64 corporate directory
+highlights
+customer wins across the smartwall target markets – service providers, 
+cloud providers and digital enterprises. (source: corero ddos trends report 
+q2-q3 2017)
+corero network security plc
+annual report & accounts 2017 02 why 
+we believe in a safe internet protected from cyber-attacks. revenue and the ebitda loss for the year 
+ending 31 december 2017 was impacted 
+by delays in world-wide implementation 
+schedules for a large digital enterprise 
+customer win in q3 2017 and an existing 
+customer’s ongoing deployment (with 
+the majority of the revenue from these 
+two customers now expected in the first 
+half of 2018). legacy smartwall smartwall
+2015 2016 2017
+9, 000
+5 , 000
+3 , 000
+1, 000
+7 , 000
+2015 2016 2017
+4, 000
+2, 000
+1, 000
+3 , 000
+smartwall revenue growth 
+43%  
+over the prior year
+• signed partnerships with global 
+blue-chip technology companies to 
+accelerate revenue growth strategy
+• juniper networks, mcafee, gigamon
+• new technology launched following 
+two-year development programme
+• added 100gbps capacity product 
+• launched vntd virtual software 
+appliance
+recurring** revenue growth
+125% 
+over the prior year
+re duc e d	ebitd a	loss*
+$5.1m
+(2016: $6.4 million)
+loss per share
+3.1c
+(2016: 9.0 cents)
+net cash
+$1.4m
+at 31 december 2017  
+(2016: $2.9 million)
+revenue – $’000
+recurring revenue – $’000
+01
+financial statements corporate directory governance strategic report  corero at a glance
+corero is dedicated to improving the 
+security and availability of the internet 
+through the deployment of innovative  
+ddos mitigation solutions. 05
+financial statements governance corporate directory strategic report  results
+corero revenue for the year ended 31 
+december 2017 was $8.5 million (2016: 
+$8.8 million) with smartwall revenue up 
+43% over the prior year whilst legacy 
+product revenues declined as expected. smartwall recurring revenue increased 
+to $3.4 million (2016: $1.5 million). the 
+ebitda loss reduced to $5.1 million  
+(2016: ebitda loss $6.4 million). the head of the national cyber security 
+centre (“ncsc”), ciaran martin, recently 
+commented that while the uk is fortunate 
+to have avoided a so-called category one 
+cyber-attack so far, it is only a matter of 
+time before a catastrophic cyber-attack is 
+launched on its critical infrastructure or 
+election setup. a recent report from neustar revealed 
+that many businesses viewed unsecured 
+internet of things (“iot”) devices as a 
+major concern. but it’s not just a password problem 
+anymore. in an ideal 
+world, all devices should be forced to 
+go through some sort of network 
+configuration before being used, 
+rather than being exploitable from a 
+default position. 49%
+of companies discovered 
+a virus following a ddos 
+attack 
+ 
+ 
+27 %
+increase in breach incidents 
+experienced in concert  
+with ddos attacks
+$250,000
+(per hour)
+revenue at risk in the  
+face of a ddos attack*
+  
+ 
+90%
+of organisations report 
+some form of breach or  
+associated activity with 
+ddos attacks
+corero network security is a leader in real-time, high-performance 
+distributed denial of service (“ddos”) defence solutions. 35%
+increase in attacks  
+per quarter
+8
+attacks per  
+customer per day
+71%
+attacks 10 minutes  
+or less
+96%
+attacks 5gbps  
+or less
+service providers, cloud providers and internet 
+connected businesses require real-time protection 
+against this evolving threat landscape. what
+our smartwall product detects and mitigates ddos attacks in seconds  
+(or less) allowing our customers to stay open for business (during an attack). automatic real-time ddos protection
+			block ed					 	 	allo w e d
+corero customer – multiple attacks over 24 hour period
+corero customer – single large attack
+mbps
+100, 000
+100, 000
+75 , 000
+75 , 000
+50, 000
+50, 000
+25, 000
+25, 000
+5:30am
+8:00am 12:00pm 4:00pm 8:00pm
+6:00am 6:30am
+0
+0
+mbps
+friday february 9, 2018
+thursday february 8, 2018
+corero network security plc
+annual report & accounts 2017 04 what we do how we do it
+our proposition
+corero provides dedicated technology for 
+real-time mitigation of ddos attacks in 
+seconds versus minutes, allowing good user 
+traffic to flow uninterrupted. jens is chairman of the corero 
+remuneration committee. richard is chairman of the  
+corero audit committee. * andrew lloyd was appointed an executive 
+director on 3 january 2017. he was 
+previously a non-executive director 
+(appointed 19 november 2012). board changes
+the notice of agm will include a resolution 
+to reappoint jens montanana and andrew 
+miller who retire by rotation in accordance 
+with the company’s articles of association. these services, delivered by 
+the corero security operations centre, are customised to 
+meet the security policy requirements and business goals 
+of each smartwall customer that engages in a 
+securewatch service plan. government regulations
+corero welcomes the investment and 
+attention that governments are 
+committing to the cyber-security of 
+critical national infrastructure (“cni”), 
+particularly recent guidance from the us 
+government which sets out detailed 
+recommendations on how to boost 
+resilience and ensure suitable 
+protections and mitigation systems are 
+deployed. corero recently submitted a 
+response to the joint committee on the 
+national security strategy’s inquiry 
+‘cyber security: uk national security in a 
+digital world’ and recommended the 
+following actions are taken:
+chief executive’s strategic update
+corero is well positioned to deliver on its goal  
+of being the leading player in the real-time 
+ddos mitigation market with smartwall 
+solution validation from over 90 customers. • ddos attacks on cni, particularly 
+frequent low-volume and short 
+duration attacks, must be a priority 
+area for government;
+• government must take advantage of 
+opportunities, such as that provided by 
+the implementation of the nis 
+directive, to fulfil its ambition of 
+becoming ‘the safest place in the  
+world to live and work online’;
+• the implementation of the directive 
+on security of network and 
+information systems (“nis directive”) 
+should not be treated as a tick box 
+exercise but instead should be grasped 
+as an opportunity for the uk to lead 
+the world in the strength of its 
+cyber-security regulatory framework;
+• government should look at 
+international best practice and adopt a 
+more attack-specific and specialist-led 
+approach towards cyber-security, 
+moving away from generic wide-
+ranging statements;
+• government must set out and 
+rigorously enforce detailed cyber-
+security requirements for operators  
+of critical national infrastructure; and
+• government should clarify 
+departmental cyber-security 
+responsibilities and allocate further 
+resource to the ncsc.

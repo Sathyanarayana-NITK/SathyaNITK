@@ -1,0 +1,87 @@
+deferred income
+deferred income arises where revenue 
+is invoiced ahead of delivery of 
+performance obligations and therefore 
+recognition of revenue.based on the funding available, the 
+directors have a reasonable expectation 
+that the group has adequate resources 
+to continue in operational existence for 
+the foreseeable future.the directors have decided to adopt the corporate governance code for small and mid-sized quoted 
+companies, as published by the quoted companies alliance, and have sought to meet its recommendations in so far as it 
+considers them appropriate for a company of castleton’s size and nature.the board of directors
+at the financial year-end the board comprised the non-executive chairman (david payne), the executive deputy chairman (ian 
+smith), the chief executive officer (dean dickinson), the chief financial officer (haywood chapman) and one non-executive 
+director (phil kelly).the audit committee has formal terms of reference (available on request from the company secretary).these include the 
+recommendation, appointment, re-appointment and removal of the external auditors, the review of the scope and results of 
+the interim review and external annual audit by the auditors, their cost effectiveness, independence and objectivity.in addition, the group maintains written processes to control 
+expenditure, authorisation limits, purchase ordering, sales order intake, project management, inventories and assets to the extent 
+applicable given the changes in the group’s activities during the year.performance related bonus
+the remuneration committee determines the criteria for the award of performance bonuses for the executive directors in 
+advance of each year.in addition on 29 january 2016, in order to fund the acquisition of kypera, the company issued £3.5 million of unsecured loan 
+notes (“kypera loan notes”), which have a term of 5 years and carry interest at a rate of 5% per annum, which is not cash paid.21 castleton technology plc annual report 2017
+strategic report
+governance
+financial statements
+directors
+as at 31 march 2017 the directors and their beneficial interests and those of their families in the share capital of the company were 
+as follows:
+31 march  
+2017
+number of ordinary
+shares of 2p
+31 march  
+2016
+number of ordinary
+shares of 2p
+ian smith (note a) 20,021,211 18,094,336
+dean dickinson 185,000 –
+david payne 50,313 50,313
+phil kelly 136,386 136,386
+note (a) – these shares are in the name of mxc capital limited, a company in which ian smith is a substantial shareholder.in our opinion the financial statements:
+• give a true and fair view of the state of the group’s and of the parent company’s affairs as at 31 march 2017 and of the group’s 
+profit for the year then ended;
+• have been properly prepared in accordance with ifrss as adopted by the european union; and
+• have been prepared in accordance with the requirements of the companies act 2006.
+basis for opinion
+we conducted our audit in accordance with international standards on auditing (uk) (isas (uk)) and applicable law.conclusions relating to going concern
+we have nothing to report in respect of the following matters in relation to which the isas (uk) require us to report to you where:
+• the directors’ use of the going concern basis of accounting in the preparation of the financial statements is not appropriate; or
+• the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt 
+about the group’s or the parent company’s ability to continue to adopt the going concern basis of accounting for a period of at 
+least twelve months from the date when the financial statements are authorised for issue.our response to the risk included:
+• assessment of whether revenue has been recognised in line with the group’s  revenue recognition policies, and ias 18;
+• performance of substantive analytical review by revenue stream to assess unexpected trends and patterns that could be 
+indicative of incorrect revenue recognition;
+• recalculation of the revenue recognised on a sample of contracts, corroborating the details to the underlying contracts.an overview of the scope of our audit
+the group has fifteen components, of which eight are non-trading or dormant.misstatements can arise from fraud or error and are considered material if, individually or 
+in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements.a further description of our responsibilities for the audit of the financial statements is located on the financial reporting council’s 
+website at: http://www.frc.org.uk/auditorsresponsibilities.(b) merger reserve
+the merger reserve arose from the acquisition of redstone communications limited (£216,000) and maxima holdings limited 
+(formerly maxima holdings plc) (£7 ,750,000) and represents the difference between the value of the shares acquired (nominal 
+value plus related share premium) and the nominal value of the shares issued.the group controls an entity 
+when the group is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect 
+those returns through its power over the entity.impairment is determined by 
+assessing the recoverable amount of the cash generating unit to which the goodwill relates.12 foreign currencies
+the functional and presentation currency of castleton is pounds sterling (£) and the group conducts the majority of its business 
+in sterling.36 castleton technology plc annual report 2017
+notes to the consolidated financial statements continued
+year ended 31 march 2017
+1 accounting policies – group continued
+• based on the nature of our software and the complexity of implementation we expect to combine the provision of a licence and 
+its implementation into one performance obligation.ifrs 9
+the introduction of ifrs 9 is not expected to have a material impact on the results of the group.• business combinations
+in accounting for business combinations the directors have exercised judgement in assessing the valuation of intangibles and the 
+associated estimates about future revenues, costs, cash flows and the cost of capital for the group.in the year ended 31 march 2016, this segment comprised the results of castleton managed services ltd for the year and keylogic 
+limited, from 1 april 2015 to 20 september 2015, at which point the trade and assets of keylogic were hived up into castleton 
+managed services ltd. 
+the segment is engaged in the provision of it infrastructure and support for businesses throughout the united kingdom.the group had no customers who accounted for more than 10% of the group’s revenue during the year (2016: nil).this is because the outstanding share options and 
+warrants would have the effect of reducing the loss per ordinary share and would, therefore, not be dilutive under the terms of 
+ias 33. the depreciation for the year of £225,000 (2016: £168,000) and has been charged to administrative expenses.the carrying amounts of the group’s trade and other receivables are denominated in pounds.the overdraft is secured on the assets of the group by way of fixed and floating charges.the financial statements set out on pages 56–64 
+were approved by the board of directors and authorised for issue on 17 july 2017 and are signed on its behalf by.the profit made by the company in the year was £624,000 (2016: loss of 
+£8,846,000).(a) basis of preparation
+the financial statements of the company have been prepared on the going concern basis and in accordance with eu adopted 
+international financial reporting standards (ifrs), ifric interpretations and the companies act 2006 applicable to companies 
+reporting under ifrs.(c) investments in subsidiaries
+investments are initially recognised at cost, being the fair value of the consideration given and including acquisition costs 
+associated with the investment.

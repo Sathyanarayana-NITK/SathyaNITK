@@ -1,0 +1,196 @@
+our development process uses our proprietary 
+cobra development tools and technology 
+to facilitate innovative features and the 
+creation of top quality self-published games 
+with strong differentiation for the pc and 
+console audiences.we will continue to expand 
+planet coaster’s pdlc offering, 
+as we have with elite dangerous.the largest element of 
+cost of sales is the margin payable to our 
+digital distribution partners.as per the individual 
+biographies, the directors have a range of 
+experience and provide a balance of skills, 
+experience and knowledge to the board.the company secretary is 
+available to all directors to provide advice 
+and assistance and is responsible for 
+providing governance advice to the board.the audit committee determines the terms 
+of engagement of the company’s auditor and, 
+in consultation with the auditor, the scope 
+of the audit.it will receive and review reports 
+from management and the auditor relating 
+to the interim and annual accounts as well 
+as the accounting and internal control systems 
+in use by the company and group.frontier developments plc
+annual report and accounts 2017 22 key areas of activity
+• financial reporting
+• internal control and risk 
+management reviews
+• external audit
+• significant audit issues 
+• treasury policy and foreign exchange 
+risk review
+remuneration committee
+during the financial year the remuneration 
+committee comprised david gammon 
+(committee chair), david walsh, jonathan 
+milner, neil armstrong and, as required, 
+yvonne dawes (hr manager).key areas of activity during the period
+• assessing the need for further non-executives
+• review of senior positions required to strengthen the organization
+• appointment of cfo and company secretary
+attendance at meetings during the period
+board
+remuneration
+committee
+nominations
+committee
+audit
+committee
+number of meetings 8 5 2 4
+david gammon 8 5 2 4
+david braben 8 — 2 —
+david walsh 8 5 — —
+jonathan watts 8 — — —
+jonathan milner — — — —
+charles cotton 7 5 1 3
+neil armstrong 3 2 1 4
+alex bevis 2 1 — 1
+auditor independence
+frontier developments’ external auditor is 
+grant thornton uk llp, who has served the 
+company since 2012. the external audit 
+function provides independent review and 
+audit.it is the responsibility of the audit 
+committee to review and monitor the 
+external auditor’s independence, objectivity 
+and the effectiveness of the audit process, 
+taking into consideration relevant uk 
+professional and regulatory requirements 
+as well as developing and implementing 
+policy on the engagement of the external 
+auditor to supply non-audit services.the executive directors and officers 
+also took the opportunity during the year to 
+hold external (london based) and on-site 
+meetings to demonstrate elite dangerous: 
+horizons and planet coaster to both 
+investors and potential investors.the committee believes it is 
+important to achieve an appropriate balance 
+between fixed elements of remuneration 
+and performance related elements, with 
+a particular focus on the latter given the 
+company’s growth aspirations.directors and staff are all encouraged 
+to acquire shares in the company and 
+to hold these shares for the long term.in the 
+year to 31 may 2017 the following grants 
+were made to directors:
+jonathan watts was awarded an unapproved 
+option over 60,000 ordinary shares at an 
+exercise price of 174 pence per share under 
+the same terms as the csop.this report is made solely to the company’s members, as a body, in accordance with chapter 3 of part 16 of the companies act 2006. our 
+audit work has been undertaken so that we might state to company’s members those matters we are required to state to them in an auditor’s 
+report and for no other purpose.opinion on financial statements
+in our opinions:
+• the financial statements give a true and fair view of the state of the group’s and of the parent company’s affairs as at 31 may 2017 and 
+of the group’s profit for the year then ended;
+• the group financial statements have been properly prepared in accordance with ifrss as adopted by the european union; and
+• the financial statements have been prepared in accordance with the requirements of the companies act 2006
+opinion on other matters prescribed by the companies act 2006
+in our opinion:
+• the information given in the strategic report and directors’ report for the financial year for which the financial statements are prepared 
+is consistent with the financial statements; and
+• the strategic report and directors’ report has been prepared in accordance with applicable legal requirements 
+matter on which we are required to report under the companies act 2006
+in the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not identified 
+material misstatements in the strategic report and directors’ report.notes
+31 may 2017
+p
+31 may 2016
+p
+earnings per share 9
+basic earnings per share 22.7 4.2
+diluted earnings per share 22.4 4.1
+consolidated statement of comprehensive income
+for the year ended 31 may 2017
+ 
+31 may 2017
+£’000 
+31 may 2016
+£’000
+profit for the period 7,711 1,432
+other comprehensive income:
+exchange differences on translation of foreign operations 57 (4)
+total comprehensive income for the period attributable to the equity holders of the parent 7,768 1,428
+the accompanying accounting policies and notes form part of this financial information.reconciliation of operating profit to cash generated from operations  
+31 may 2017
+£’000
+31 may 2016
+£’000
+operating profit 7,792 1,238 
+depreciation and amortisation 4,864 3,638 
+ebitda 12,656 4,876 
+capitalised development costs (9,647) (8,857)
+movement in unrealised exchange (gains)/losses on forward contracts (337) 551 
+share-based payment expenses 687 738 
+operating cashflow 3,359 (2,692)
+net changes in working capital:
+change in inventories 9 4 
+change in trade and other receivables (479) 603 
+change in trade and other payables 1,293 925 
+change in provisions 2 13 
+cash generated from operations 4,184 (1,147) frontier developments plc
+annual report and accounts 2017 32
+notes to the financial statements
+for the year ended 31 may 2017
+1. corporate information
+frontier developments plc ‘the group’ develops video games for the interactive entertainment sector.the group therefore 
+continues to adopt the going concern basis in preparing its financial statements.where pre-orders include 
+delivery of the final version of the game, an estimate is made of this final element and moved to deferred income.an estimate of the final 
+element is based on the number of man months it would take to complete the development and is released from deferred income when 
+the final version is released to the public.in estimating the amount of the deferred tax asset that should be recognised, the directors make judgements based on 
+current forecasts about the amount of future taxable profits and the timings of when these will be realised.in most circumstances amortisation commences upon completion of the asset and is shown within research and 
+development expenses in the income statement.employee benefits
+all accumulating employee compensated absences that are unused at the balance sheet date are recognised as a liability within trade 
+and other payables.segment reporting
+the group identifies one operating segment as the business is managed as a whole reflecting the transition of the group from an external 
+publisher to self-publishing.upon exercise of share options, the proceeds received up to the nominal value of the shares issued are allocated 
+to share capital with any excess being recorded as share premium.4. segment information
+the group identifies operating segments based on internal management reporting that is regularly reviewed by the chief operating 
+decision maker and reported to the board.31 may 2017 31 may 2016
+profit attributable to shareholders (£’000) 7,711 1,432
+diluted weighted average number of shares 34,446,017 35,302,973
+diluted earnings per share (pence) 22.4 4.1
+the reconciliation of average number of ordinary shares used for basic and diluted earnings per share is as follows:
+31 may 2017 31 may 2016
+weighted average number of shares 33,943,972 33,812,840
+dilutive effect of share options 502,045 1,490,133
+diluted average number of shares 34,446,017 35,302,973 frontier developments plc
+annual report and accounts 2017 42
+notes to the financial statements continued
+for the year ended 31 may 2017
+10. intangible assets 
+group and company
+the group and company intangible assets comprise capitalised development tools and self-published software from internal development 
+activities and acquired software licences.frontier developments plc
+annual report and accounts 2017 45
+financial statements
+15. deferred income
+deferred income in the statement of financial position can be analysed as follows:
+consolidated year ended company year ended
+31 may 2017
+£’000 
+31 may 2016
+£’000
+31 may 2017
+£’000 
+31 may 2016
+£’000
+deferred income – current 459  1,085  390 822
+deferred income – non-current 927  1,148  740 940
+total deferred income 1,386  2,233  1,130  1,762 
+non-current deferred income is due to be recognised over the expected remaining life of the franchise period.frontier developments plc
+annual report and accounts 2017 48
+notes to the financial statements continued
+for the year ended 31 may 2017
+22. share options continued
+22.1 fair value assumptions of share-based payments
+the fair value of services received in return for share options is measured by reference to the fair value of share options granted.in respect of trade and other receivables the group is exposed to significant credit risk for a single counterparty.

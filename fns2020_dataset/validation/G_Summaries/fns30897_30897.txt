@@ -1,0 +1,110 @@
+as at 
+31 december 2017, the balance of the facility was £2.5 million.the board has a policy to set 
+out which matters are reserved for the 
+decision of the board and those to which 
+the executive directors need not refer 
+for approval.• ensuring contractual terms and payments 
+made on termination are fair to both 
+the individual and the group.the directors are responsible for the 
+maintenance and integrity of the corporate 
+and financial information included on 
+the company’s website.the financial reporting framework that has been applied 
+in the preparation of the parent company financial statements is applicable law and united kingdom accounting standards, including 
+financial reporting standard 102 ‘the financial reporting standard applicable in the uk and republic of ireland’ (united kingdom 
+generally accepted accounting practice).to the fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the company and the company’s members as a body, for our audit work, for this report, or for 
+the opinions we have formed.the appropriateness 
+of any deferred or accrued income balances was verified by 
+recalculating revenue recognised to date against invoices and 
+other supporting documentation.management’s 
+assessment of the potential impairment of the group’s development 
+costs incorporates key assumptions over the timing and extent 
+of future revenues, gross margin and the discount rate used.our audit work included, but was not restricted to: 
+• assessing the amortisation policy applied against capitalised 
+development costs for consistency with prior year and 
+adequacy of the useful economic life; 
+• comparing projects against which amounts are capitalised to 
+the net present value calculations, produced by management, 
+based on future income generation the technology will realise; 
+• checking the mathematical accuracy of the impairment models;
+• testing the accuracy of management’s estimates used in 
+the net present value calculations by comparing the 2017 
+budgeted sales and gross profit to the results achieved for 
+the year and performing sensitivity analysis of expected 
+revenue for 2018 onwards;
+• evaluating the sensitivity of the discount rate applied 
+to future cash flow;
+• discussing and corroborating the ongoing viability of 
+projects with relevant group personnel; and
+• assessing management’s review of possible impairment 
+of intangible assets and challenging the basis of key 
+assumptions used.materiality for the current year is higher 
+than the level that we determined for the 
+year ended 31 december 2016 using the 
+same basis.overall materiality – group overall materiality – parent
+tolerance for potential uncorrected 
+mistatements
+performance materiality
+25%
+75%
+25%
+75%
+an overview of the scope of our audit
+our audit approach was a risk-based approach founded on a thorough understanding of the group’s business, its environment 
+and risk profile and in particular included:
+• evaluation by the group audit team of identified components to assess the significance of that component and to determine 
+the planned audit response based on a measure of materiality.our opinion on the financial 
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not 
+express any form of assurance conclusion thereon.currently, software licence revenue is recognised at the point the software is delivered to 
+the customer, hardware is recognised on dispatch to the customer, maintenance and services are recognised over the term of the 
+agreement on a straight line basis and installation and consultancy services are recognised as the service is performed.in reaching their going concern conclusion, the directors have considered the following points:
+• the group had cash, net of debt of £6.6 million as at 31 december 2017.• the group has met the next repayment instalment of £0.75 million during january 2018 and no further capital repayments are 
+due within the next 12 months.b. transactions and balances
+foreign currency transactions are translated into the functional currency of each group entity using the exchange rates prevailing 
+at the dates of transactions.the codm and the rest of the board are provided with information on a divisional basis to assess the financial performance of, 
+and allocate resources to, each division and central resources.goodwill
+goodwill is initially measured as the excess of the aggregate of the consideration transferred and the fair value of non-controlling 
+interest over the net identifiable assets acquired and liabilities assumed.among other things, this requires that there is a market 
+for the output from the intangible asset or for the intangible asset itself, or, if it is to be used internally, the asset will be used 
+in generating such benefits;
+• there are adequate technical, financial and other resources to complete the development and to use or sell the intangible 
+asset; and
+• the expenditure attributable to the intangible asset during its development can be measured reliably.trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest 
+method, less provision for impairment.translation reserve
+exchange differences relating to the translation of the results and net assets of the group’s foreign operations from their functional 
+currencies to the group’s presentation currency of gbp, are recognised directly in other comprehensive income and accumulated 
+in the translation reserve.the carrying value of trade receivables is considered a reasonable approximation of fair value.notes to the consolidated financial statements continued
+62 ubisense group plc annual report 2017
+14 trade and other receivables continued
+14.1 movement in allowance for doubtful debts
+2017
+£’000
+2016
+£’000
+at 1 january (2,151) (1,691)
+exchange differences 50 (158)
+amounts recovered in the year 519 6
+amounts written off in the year 217 —
+allowance released 30 —
+allowance made (125) (308)
+at 31 december (1,460) (2,151)
+as at 31 december 2017, the allowance for doubtful debts includes £1,326,000 (2016: £2,065,000) in respect of amounts owed by 
+two entities in the asia pacific region.ubisense group plc granted 5,600,000 options of two pence each in the company with an exercise price 
+set at the nominal value.the options vest if the company’s share price exceeds 70p for 60 consecutive calendar days between 
+the 2nd and 3rd anniversary of issue and the period of employment continues for over three years.no charge had been 
+recognised in the 2016 financial statements in respect of these share options granted and the directors had assessed the impact 
+on the 2016 financial statements to be immaterial.the group lease rental charge is disclosed in note 8.1. there are no other material off-balance sheet arrangements.for subsidiaries which have a different financial year-end to the group, additional co-terminus 
+accounts are prepared reflecting the same financial reporting as the group for the purposes of consolidation.nonetheless, 
+the analysis above is considered to be representative of the group’s exposure to currency risk.the group policy throughout the year has been to remit surplus 
+working capital balances at the subsidiary level to group treasury and place on short-term deposit or interest bearing reserve 
+accounts and to draw down on borrowing facilities and distribute funds locally when required.the company has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted 
+by frs 102, as it is a qualifying entity and its financial statements are included in the consolidated financial statements of 
+ubisense group plc.• the requirements of section 4 statement of financial position 4.12(a)(iv);
+• the requirements of section 7 statement of cash flows;
+• the requirements of section 3 financial statement presentation paragraph 3;
+• the requirements of financial instruments paragraphs 11.41(b), 11.41(c), 11.41(e), 11.41(f), 11.42, 11.44, 11.47, 11.48(a)(iii), 11.48(iv), 11.48(b) 
+and 11.48(c); and
+• the requirements of section 33 related party disclosures paragraph 33.7.
+the company has taken advantage of the exemption under frs102 paragraph 1.12(b), from preparing a statement of cash flows, 
+on the basis that it is a qualifying entity and the consolidated financial statements of ubisense group includes the company’s 
+cash flows.

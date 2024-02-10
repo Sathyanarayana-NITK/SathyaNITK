@@ -1,0 +1,160 @@
+6. affordability 
+ka-band hts services are far cheaper than 
+traditional and hts ku-band systems. the finite life of the satellite combined with falling capacity prices  
+resulted in  an accounting impairment of $53.3m. hylas 1 remains 
+an integral part of the avanti fleet, is forecast to generate good 
+ebitda and cash flows, and continues to serve some important 
+customers in western europe. in addition we have impaired hylas 2 by $60.8m, once again 
+reflecting falling capacity prices and the finite life of the satellite. of the high 
+probability pipeline that existed at 30 june 2016, 30% was signed 
+by 31 december 2016 compared to historic conversion rates of 
+over 60%. the amended fleet utilisation is 
+in the 30-35% band (june 2016 re-based: 25-30% band). revenues from this customer group 
+were 15% lower in the 2017 financial year ($24.6m) versus 2016 
+($28.4m). it is 
+calculated by expressing utilised capacity as a percentage of total 
+available capacity for the fleet of hylas 1 (3 ghz), hylas 2 (11 
+ghz), hylas 2b (3ghz) and artemis (1 ghz).. the addition of 
+hylas-2b in the current year increases available capacity from 
+15ghz to 18 ghz and as a result the utilisation metric has been re-
+based. alan harper, who at the time was a non-
+executive director of the company, agreed to take up the role of 
+interim chief executive. he has worked at 
+vodafone as group strategy director and more recently founded 
+and ran eaton towers, which served most of the major telco that are 
+a key part of the strategy for expansion at avanti. alan harper  
+chief executive  strategic report 
+market overview 
+ 
+6 
+avanti communications group plc  
+annual report and accounts 2017 
+ 
+satellites provide data communications and 
+broadcasting services around the world. we were also pleased at that point to welcome onto the 
+board craig chobor, michael leitner and peter reed as 
+representatives of key stakeholders. 2. flexibility 
+avanti has a unique cloud-based customer 
+interface that provides a single point of co-
+ordination and control, allowing partners to 
+become virtual network operators without the 
+need to deploy their own capital or expertise. 3. innovation 
+we’ve developed proprietary and patented 
+technology which is deployed throughout  
+our network. 5. high speed 
+our network can provide download speeds  
+of up to 380mbps, no matter how challenging 
+the location. this project will research, develop and validate key 
+technologies required to enable the plug-and-play integration of 
+satellite communications into 5g networks.  cash at the year end of $32.7m (2016: $56.4m) 
+ net debt
+1
+ at the year end of $562.0m (2016: $588.9m) 
+ david williams, ceo, steps down shortly after the year end. 1 net debt comprises current and non-current loans and borrowings less cash and cash equivalents. our products are sold as mb or managed accounts or as 
+fully integrated projects but we calculate the price, or yield, per 
+mhz per month. our average price per mhz in the last 12 months across the fleet 
+was $1,400. we have 
+market-beating service level agreements and 
+no in-country coverage gaps. each research area will deliver outputs and benefits in 
+relation to 5g ecosystem stakeholders. avanti delivers the level of quality and flexibility that the 
+most demanding telecoms customers seek. we have chosen to 
+remove these from backlog whilst at the same time working with 
+those partners to find more appropriate terms on which to continue 
+to work. contents 
+ 
+ 
+strategic report 
+01 key strengths 
+02  highlights  
+03  chairman’s statement 
+04 chief executive’s review 
+06 market overview 
+06 key performance indicators  
+07 our business model and strategy 
+08 financial review 
+12 sustainability 
+governance 
+14 board of directors  
+16 chairman’s introduction to governance 
+17 corporate governance report 
+21 audit committee report 
+23 nominations committee report  
+24 remuneration committee report 
+27 report of the board of directors 
+30 statement of directors’ responsibilities 
+financial statements 
+31 independent auditor’s report 
+35 consolidated income statement 
+36  consolidated statement of financial position  
+37 company statement of financial position 
+38  consolidated and company statement of cash flows  
+39 consolidated and company statement of changes in equity 
+40 notes to the accounts 
+  strategic report 
+key strengths 
+ 
+ 
+ 
+avanti communications group plc  
+annual report and accounts 2017 
+1
+ 
+1. quality 
+our network mirrors the quality of service  
+that terrestrial communications offer. strategic report 
+chairman’s statement 
+ 
+ 
+avanti communications group plc  
+annual report and accounts 2017 
+3
+ 
+in the first half of the financial year, avanti’s financial 
+position suffered disruption when the additional debt 
+facilities sought were not forthcoming on suitable 
+terms. the disruption of the first six months of the year led to a lengthening 
+of the sales cycle as our customers and potential customers waited 
+for the refinancing and strategic review to be completed. following 
+the completion of the transaction, some confidence did return to the 
+customer base, but the lag in the sales cycle has taken some time 
+to reverse, meaning that our revenues for the year were significantly 
+lower than initially expected. after a period of very hard work, our existing 
+bondholders and long term investors supported the 
+company through a refinancing transaction that 
+provided $242million of additional liquidity through a 
+mixture of new money and interest deferrals. i hope that you see fit to support this 
+initiative which will give avanti a significantly strengthened balance 
+sheet and remove a significant impediment to sales growth. trading 
+trading in the first half of the year was slower than hoped for 
+primarily as a result of the uncertainty associated with the strategic 
+review which the company initiated in july 2016. 
+this uncertainty manifested itself in lower than normal levels of 
+pipeline conversion and an extension in the sales cycle. this impairment effectively eliminates previously capitalised 
+financing costs leaving the carrying value close to the net book 
+value of the procured asset cost. strategic report 
+highlights 
+2 
+avanti communications group plc  
+annual report and accounts 2017 
+ 
+ revenue of $56.6m for the full year (2016: $82.8m)  
+ significant provision against receivable from the government of indonesia 
+ impairment charges against hylas 1, hylas 2, and filiago 
+ finance restructuring plan launched to equitise all of the 2023 notes, and to reduce the 
+interest rate on the 2021 notes. it is proposed to issue new shares to repay all of the 2023 
+notes which would reduce the group’s debt by in excess of $500m. this is subject to the agreement of the shareholders at a general 
+meeting to be held in early 2018. in addition, the board has agreed 
+with our bondholders, subject to necessary consents, to reduce the 
+interest rate on the 2021 notes to 9% with the ability to pay cash or 
+roll up the interest as appropriate. in late december 2016 we received significant new tender awards 
+and signed contracts in the wi-fi and cellular backhaul markets and 
+in government networks. 4. very high throughput 
+the hylas fleet uses ka-band which enables 
+our high throughput satellites (‘hts’) to 
+transmit over 10 times more data per satellite 
+than legacy systems. furthermore, 
+the sat5g (satellite and terrestrial network for 5g) project has 
+started well. a few notable examples are: 
+satellite and terrestrial network for 5g (sat5g). live demonstrations and 
+validations will take place at the testbeds for the project which are 
+located in the uk, germany and finland.

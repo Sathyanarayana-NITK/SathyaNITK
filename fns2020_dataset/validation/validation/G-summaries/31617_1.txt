@@ -1,0 +1,137 @@
+she 
+was chief information officer from 2008 
+to 2011, she became operations and it 
+director in 2011, was appointed executive 
+director in 2014 and chief operating 
+officer in 2015. debbie was acting chief 
+executive officer from february 2015 to 
+june 2015 and during this period led the 
+preparation for the group’s demerger and 
+ipo and was part of the management team 
+which completed the transaction.in order to carry out its 
+work, a yearly planner is prepared by the company secretary to 
+map out the flow of key items of business to the board and to 
+ensure that sufficient time at the meeting is provided for debate 
+and challenge.since the completion of the review the governance and 
+nomination committee has overseen the preparation and 
+implementation of a detailed action plan incorporating the priority 
+actions agreed by the board and has kept the board informed 
+of progress.skills and independence – assessed the independence of non-executive directors having regard to both the 
+code requirements on independence and factors such as length of tenure and the 
+ability of non-executive directors to objectively challenge the executive, free from 
+relationships or circumstances which are likely to affect, or could appear to affect, the 
+director’s judgement.the group continues to enhance its control environment.the disclosures relating the group’s retirement benefit obligations at 30 september 2017 
+are set out in note 3.16. cybg plc annual report and accounts 2017 84
+governance
+audit committee report
+role of the committee key matters considered and actions completed
+fair value of financial instruments
+significant management judgement is 
+required for level 3 measurements, 
+as one or more inputs are 
+unobservable.cybg plc annual report and accounts 2017 85
+strategic report governance financial results risk report financial statements additional information
+role of the committee key matters considered and actions completed
+regulatory compliance
+oversight of the group’s compliance 
+with all necessary regulatory 
+reporting.this policy is reviewed at least annually and 
+was refreshed during 2017.
+following the committee’s review of the effectiveness of the external audit process and the assessment of the external auditor’s 
+independence and objectivity, it has recommended to the board the reappointment of ey as the group’s external auditor for 
+recommendation to and approval by shareholders at the 2018 agm.looking ahead
+the group has made significant advances this year towards its 
+delivery on executing its three-year strategic plan to establish 
+itself as the uk’s leading full service challenger bank.maintaining awareness of the risk of significant 
+unforeseen credit losses occurring within a short time period which has the potential to 
+have a detrimental impact on earnings and profitability.performance conditions service and performance conditions must be met over a three-year period.in particular:
+ – the targets for the 2018 annual bonus are considered to be commercially sensitive at this time but will be disclosed along with 
+measures and weightings on a retrospective basis;
+ – details of the ltip award for 2017 are set out in the annual report on remuneration including how they are aligned with our strategic 
+priorities of delivering sustainable customer growth, improving efficiency and capital optimisation and link to our risk and compliance 
+and customer-focused culture objectives; 
+ – salary change for the cfo is intended from the 1 october 2017 reflecting his role since the ipo;
+ – the annual bonus for executive directors for the performance year 2018 will be capped at 100% of base salary;
+ – the ltip for executive directors for the performance year 2018 will be capped at 100% of base salary; 
+ – non-executive directors fees in 2018 may be reviewed as the group progresses with its strategic priorities and to reflect any 
+changes in the nature of a non-executive director’s role and responsibilities;
+ – to comply with remuneration regulation changes effective for 2018 the deferral of awards has been extended to between three 
+and seven years; and
+ – in addition, dividends will not accrue on bonus and ltip awards made in relation to fy2018 (in line with regulatory requirements).further information is set out in the notice of agm.on behalf of the board:
+ 
+lorna mcmillan
+company secretary
+20 november 2017
+cybg plc.risk appetite statement (ras)
+risk appetite is defined as the level and types of risk the group 
+is willing to assume within the boundaries of its risk capacity to 
+achieve its strategic objectives.transitional service agreement (tsa) exits:
+priorities for early fy2018 include actions to fully implement 
+the new credit risk engine, cease the reliance on nab in relation 
+to the calculation of rwas and the delivery of the treasury 
+management system.the executive leadership team and board engages at critical 
+points of the stress-testing cycle to provide a robust challenge 
+in relation to the selection and development of scenarios and, 
+thereafter, considers how the results are integrated into future 
+strategic decision making, contingency planning, capital and 
+business planning and risk appetite.risk appetite
+the group controls the levels of credit risk it takes by placing limits 
+on the amount of risk accepted in relation to one borrower, or 
+group of borrowers, and to geographical, product and industry 
+segments.cybg plc annual report and accounts 2017 144
+risk report
+credit risk
+mitigation and management of credit risk
+credit quality of loans and advances
+for sme lending, the group has an internally developed credit rating system, as defined under the group’s credit risk management policy, 
+which uses data drawn from a number of sources to assess the potential risk in lending to the group’s customers.the table below sets out the indexed ltv analysis of the group’s retail mortgage stock.cybg plc annual report and accounts 2017 152
+risk report
+credit risk
+movement in gross impaired loan balances throughout the year (unaudited)
+2017
+£m
+2016
+£m
+opening balance 214 238
+new 72 96
+write-off (49) (41)
+returned to performing (62) (79)
+closing balance 175 214
+in addition to the gross impaired loans, there were also £4m and £19m impaired fair value loans for september 2017 and 
+september 2016 respectively.cybg plc annual report and accounts 2017 155
+strategic report governance financial results risk report financial statements additional information
+measurement
+the group manages capital in accordance with prudential rules 
+issued by the pra and fca, which implemented crd iv legislation 
+with effect from 1 january 2014. the group’s approach to pillar 1 
+is to use the standardised approaches to calculating rwas.as a result of these 
+activities, the group may be exposed to forms of market risk that would arise from movements in price on these products.fair value hedges
+the group hedges part of its existing interest rate risk, resulting from potential movements in the fair value of fixed rate assets and 
+liabilities.third-party risk the risks associated with ensuring the group’s outsourced and offshoring arrangements are 
+controlled effectively, including the risk of failure to service existing and new customers, and 
+the potential cessation of specific activities, or the risk of personally identifiable information 
+or group sensitive data being exposed or exploited, or the risk of financial, reputational and 
+regulatory censure if the third party enters into any illegal or unethical activities.we considered the results of the testing 
+of key controls operating within the ppi 
+and other conduct case handling and 
+recording processes which supported the 
+data used in the determination of key 
+provision assumptions.we communicated to the audit 
+committee that the impairment models, 
+calculations and assumptions employed 
+by the group were reasonable as at 
+30 september 2017 and that these 
+resulted in impairment provisions that 
+were appropriately estimated.a further description of our responsibilities for the audit of the financial statements is located on the financial reporting council’s 
+website at www.frc.org.uk/auditorsresponsibilities.these are unlikely to result in significant changes to existing measurement bases; however, the final impact will be dependent on 
+the circumstances prevailing on 1 october 2018.
+impairment overview
+the group’s ifrs 9 implementation programme is progressing as planned with models built and an end-to-end parallel run exercise to 
+commence during the year beginning 1 october 2017. as expected, there will be a period of refinement required where the series of 
+complex decisions, judgements and assumptions made, particularly in relation to the group’s model methodology, that will be reviewed, 
+sufficiently tested and benchmarked.the mortgage loans do not qualify for derecognition because the group remains exposed to the majority of the risks and rewards 
+of the mortgage loan portfolio, principally the associated credit risk.the securitisation structured entities are consolidated and the 
+securitised mortgage loans retained on the group’s balance sheet.cybg plc annual report and accounts 2017 231
+strategic report governance financial results risk report financial statements additional information
+(b)   available for sale investments 
+ – listed (level 1) – the fair values of listed investments are based on quoted closing market prices.

@@ -1,0 +1,119 @@
+this 
+resulted in an increase in cyberghost’s 
+user base by over 30% compared to 
+december 2016 and the last quarter of 
+2017 saw record sales for the business 
+in terms of volume and ebitda.1 adjusted ebitda is a company specific measure which is calculated as operating loss before depreciation, amortisation, exceptional and non-recurring 
+costs, employee share-based payment charges and impairment of intangible assets which are considered to be one-off and non-recurring in nature as set 
+out in note 6. the directors believe that this provides a better understanding of the underlying trading performance of the business.the review identified the 
+key risks, risk control measures and the implementation 
+status of the risk control measures.the report was 
+presented to the committee by the chief financial officer.audit of the group’s annual report financial 
+statements
+in advance of the audit of the group’s annual report 
+financial statements the audit committee reviewed the 
+plans as presented by the group’s external auditor, bdo 
+llp.bdo was appointed as auditor of the group for the year 
+ended 31 december 2013. the audit committee will keep 
+under review, in consultation with major shareholders, the 
+decision as to whether to conduct a tender in respect of 
+the audit in line with the recommendations of the financial 
+reporting council.the 
+committee terms of reference, which can be found on the 
+company’s website www.kape.com, are reviewed on an 
+annual basis and updated as required.service contracts
+executive directors
+the service agreements of the executive directors are for an indefinite term and provide for formal notice of six months for 
+the chief executive director and three months for the chief financial officer to be served to terminate the agreement, either 
+by the company or by the director.a summary of the group’s financial 
+instruments, changes in share capital and related 
+disclosures are set out in notes 15 and 17 to the financial 
+statements.the company has one class of 
+ordinary shares, which carry no right to fixed income.there are no specific restrictions on the size of a holding 
+nor on the transfer of shares, which are both governed by 
+the general provisions of the articles of association and 
+prevailing legislation.as at 31 december 2017 the company held 6,644,738 
+shares in treasury and no shares in the capital of the 
+company are held by or on behalf of the company or by 
+any of the company’s subsidiaries.isle of man company law does not require the directors to 
+prepare financial statements for each financial year, however 
+the group is required to do so to satisfy the requirements of 
+the aim rules for companies.under company law, when 
+preparing the financial statements, the directors are 
+required to prepare the group financial statements in 
+accordance with an appropriate set of generally accepted 
+accounting principles or practice.in preparing these financial statements, international 
+accounting standard 1 (revised) requires that directors: 
+ › properly select and apply accounting policies; 
+ › present information, including accounting policies, in a 
+manner that provides relevant, reliable, comparable and 
+understandable information; 
+ › provide additional disclosures when compliance with the 
+specific requirements in ifrss are insufficient to enable 
+users to understand the impact of particular transactions, 
+other events and conditions on the entity’s financial position 
+and financial performance; and 
+ › make an assessment of the company’s ability to continue as 
+a going concern.by critically challenging the group’s proposed adoption of 
+the new revenue standard we have been able to assess 
+the reasonableness of this adoption.we also examined 
+the key assumptions used as inputs to the valuation 
+models to assess whether these were consistent with our 
+understanding of the businesses acquired, their historical 
+performance and the markets in which they operate.we also considered the changes to the 
+overall group as a result of the acquisitions of cyberghost 
+sa and clearvelvet trading limited and where the key 
+business activities and transactions reside.the 
+other information comprises the information included in the 
+annual report, other than the financial statements and our 
+auditor’s report thereon.going concern
+the directors have, at the time of approving the financial statements, a reasonable expectation that the company and the 
+group have adequate resources to continue in operational existence for the foreseeable future.34
+kape technologies plc
+annual report and accounts
+(b) transactions and balances
+foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates 
+of the transactions.2. an upfront payment of the entire consideration is in accordance with the typical payment terms in the industry.gains or losses arising from derecognition of an intangible asset, measured as the difference between the net disposal 
+proceeds and the carrying amount of the asset are recognised in profit or loss when the asset is derecognised.the recoverable amount is the higher 
+of an asset’s fair value less costs to sell and value in use.the fair value of the options and share awards is recognised as an 
+employee benefit expense.the group 
+assesses a number of criteria in making these judgements, including the party, who is responsible for price setting and 
+credit risk of the transaction, the losses the group would suffer for non-delivery of service as well as the perceived and 
+contractual relationship between the media publisher and seller or ad network.the asset is recognised as the company 
+expects to recover the cost over the expected relationship period with the customer which includes the initial contract period 
+and expected renewals.as a result of the reduction in the management forecasted cash flows 
+attributable to the acquired intangible assets, the carrying value of the goodwill has therefore been reduced to its 
+recoverable amount of $685,000 through recognition of an impairment loss of $4,683,000.principal financial instruments
+the principal financial instruments used by the group, from which financial instrument risk arises are as follows:
+• trade and other receivables
+• trade and other payables
+• cash and cash equivalents
+• loans receivable
+• deferred consideration 
+financial assets
+the group held the following financial assets:
+2017
+$’000
+2016
+$’000
+trade receivables and accrued income 8,536 5,604
+other receivables 1,872 1,955
+cash 69,502 72,064
+79,910 79,623 50
+kape technologies plc
+annual report and accounts
+financial liabilities
+the group held the following financial liabilities:
+2017
+$’000
+2016
+$’000
+amortised cost
+trade payables 2,469 1,879
+other payables and accrued expenses 5,939 4,611
+deferred consideration (see note 25) 1,915 403
+10,323 6,893
+the group’s directors monitor and manage the financial risks relating to the operation of the group.the acquisition is in line with the company’s stated strategy to broaden its product offering to service high-growth 
+consumer markets, of which cybersecurity is a key vertical.the consideration 
+options are exercisable in two equal portions on the second and third anniversary of the acquisition completion and 
+contingent on the continued employment of the founder.the controlling party is the solidinsight trust, established under the laws of the isle of man.

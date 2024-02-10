@@ -1,0 +1,135 @@
+operational review
+customer and sales growth 
+the 609 software licence deals secured during the 12 
+months ended 31 october 2017 equates to more than 3 
+times the number of software licence deals won in the prior 
+year.this is an indicator of the level of 
+licence business the group would achieve on a monthly basis if 
+there was no new business generated in the future and if there 
+were 100% renewals.blue prism group plc annual report and accounts 2017
+principal risks and uncertainties 
+risk description
+growth strategies
+failing to successfully implement its  
+growth strategies
+the company intends to carry out certain growth and expansion strategies.the group’s 
+growth and future success will be dependent to some extent on the successful completion of 
+such growth and expansion strategies currently or proposed to be undertaken by the group 
+and the sufficiency of demand for the group’s software.failure by the group to bring about a change in the 
+market’s readiness to accept a new technology will lead to slower than projected growth  
+in the group’s revenues and profits.the group moreover may not always be able to identify the cause of 
+performance problems in its software.the chairman and neds have held meetings throughout the year 
+with the various senior managers to improve insight into the 
+business operations and the marketplace.the chairman, jason kingdon is not 
+independent, however the board considers that jason kingdon’s 
+long experience as chairman of the board of blue prism limited 
+(which until the ipo was the parent of the group) will be of 
+benefit to the board in providing continuity of knowledge and 
+additional industry expertise to the group.for this reason they continue to adopt the going concern basis in preparing the annual report and 
+accounts.the directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company’s 
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure 
+that the financial statements comply with the requirements of the companies act 2006. they are also responsible for safeguarding 
+the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.the directors’ responsibility also extends to the ongoing 
+integrity of the financial statements contained therein.directors’ responsibilities blue prism group plc annual report and accounts 2017
+independent auditor’s report
+to the members of blue prism group plc
+opinion
+we have audited the financial statements of blue prism group plc (the “parent company”) and its subsidiaries (the “group”) for  
+the year ended 31 october 2017 which comprise the consolidated statement of profit or loss and comprehensive income, the 
+consolidated statement of financial position, the consolidated statement of cash flows, the consolidated statement of changes in 
+equity, the company statement of financial position, the company statement of changes in equity, the company statement of cash 
+flows and notes to the financial statements, including a summary of significant accounting policies.key audit matters
+key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the financial 
+statements of the current period and include the most significant assessed risks of material misstatement (whether or not due to 
+fraud) we identified, including those which had the greatest effect on: the overall audit strategy, the allocation of resources in the 
+audit; and directing the efforts of the engagement team.revenue recognition
+key audit matter international standards on auditing (uk) (isas (uk)) note that there is a presumed significant 
+audit risk arising from inappropriate or incorrect recognition of revenue unless conditions 
+exist that permit the rebuttal of that risk.performance materiality levels used for the 2 key components identified within the group were based upon the same benchmarks 
+and percentages detailed for the group, due to each component being consistent in both nature, audit risks identified and control 
+environment to the group as a whole.• critically reviewing the existence and accuracy of deferred revenue balances shown in  
+the statement of financial position at year end to ensure no material misstatements  
+were identified.the 2 significant components audited for group reporting purposes accounted for 100% (2016: 100%) of the group’s revenue, 86% 
+(2016: 65%) of the group’s loss before tax and 59% (2016: 62%) of the group’s total assets and have been subject to a full scope 
+audit.matters on which we are required to report by exception
+in the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course 
+of the audit, we have not identified material misstatements in the strategic report or the directors’ report.misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably 
+be expected to influence the economic decisions of users taken on the basis of these financial statements.consolidated statement of profit or loss 
+and other comprehensive income
+for the year ended 31 october 2017 blue prism group plc annual report and accounts 2017
+34 – 35
+note
+2017
+£’000
+2016
+£’000
+non-current assets
+property, plant and equipment 10 400 158
+total non-current assets 400 158
+current assets
+trade and other receivables 12 14,912 5,585
+cash and cash equivalents 21 16,331 11,788
+total current assets 31,243 17,373
+total assets 31,643 17,531
+current liabilities
+trade and other payables 13 8,435 3,224
+deferred revenue 23,016 9,079
+total current liabilities 31,451 12,303
+non-current liabilities
+deferred revenue 4,312 1,358
+total non-current liabilities 4,312 1,358
+total liabilities 35,763 13,661
+net (liabilities)/assets (4,120) 3,870
+equity attributable to shareholders
+called up share capital 15 1,678 1,674
+share premium 15 9,625 9,194
+merger reserve 17 356 356
+foreign exchange reserve 17 314 –
+share-based payment reserve 17 1,286 287
+accumulated losses 17 (17,379) (7,641)
+(4,120) 3,870
+the financial statements on pages 34 to 58 were approved and authorised for issue by the board of directors on 25 january 2018 
+and were signed on its behalf by:
+g johnson
+director
+the notes on pages 38 to 53 form part of these financial statements.consolidated statement of 
+changes in equity
+for the year ended 31 october 2017 blue prism group plc annual report and accounts 2017
+1 accounting policies
+basis of preparation
+the principal accounting policies adopted in the preparation of the consolidated financial statements are set out below.it may be that if blue 
+prism’s recognition of licence income 
+is accelerated, and this forms the 
+bulk of revenues under the standard, 
+then the current policy of expensing 
+commissions may not require 
+substantial amendment.the deferred income is non-
+refundable and so the directors are confident that the business has sufficient working capital to satisfy liabilities as they arise.this is recognised up front as opposed to deferring this cost over the period of the contract as 
+it is deemed an introductory fee, and is not affected by the future performance of a contract.non-market vesting conditions are taken into account by 
+adjusting the number of equity instruments expected to vest at each reporting date so that, ultimately, the cumulative amount 
+recognised over the vesting period is based on the number of options that eventually vest.the overall objective of the board is to set policies that seek to reduce risk as far as possible without unduly affecting the group’s 
+competitiveness and flexibility.during the year the group’s potential exposure to currency risk has increased due to the increased level of business in the us.the maximum exposure to liquidity risk is the trade payables and sales introduction commissions accrued at the year end, these are 
+all current and expected to be settled within 90 days of the year end.notes forming part of the  
+financial statements continued
+for the year ended 31 october 2017 blue prism group plc annual report and accounts 2017
+44 – 45
+4 segmental analysis
+the group has one operating segment being the licensing of rpa software used to automate routine, rules-based back office 
+processes.notes forming part of the  
+financial statements continued
+for the year ended 31 october 2017 blue prism group plc annual report and accounts 2017
+48 – 49
+12 trade and other receivables
+2017
+£’000
+2016
+£’000
+trade receivables 13,547 5,251
+less: provision for impairment of trade receivables (15) (320)
+trade receivables – net 13,532 4,931
+prepayments 1,380 654
+total trade and other receivables 14,912 5,585
+as at 31 october 2017 trade receivables of £4,062k (2016: £1,795k) were past due but not impaired.funds are accumulated during a series of “offering periods”, 
+normally of 6 months each, at the end of which the employee may use the accumulated funds to purchase ordinary shares or to have the 
+funds repaid to them without interest.if the funds are used to purchase ordinary shares, the purchase may be made at a discount of 15% 
+from whichever is the lower of the market value of ordinary shares at the beginning or the end of the offering period.at the year end a balance of £nil was due to the entity.

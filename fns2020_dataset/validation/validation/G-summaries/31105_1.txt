@@ -1,0 +1,168 @@
+this was driven by continuing 
+strong organic growth at sumo digital, the 
+release of its first own ip title, snake pass, and 
+the acquisition of atomhawk, which contributed 
+revenue of £1.3m in the six months following 
+its acquisition on 29 june 2017. development 
+fees for the year were £28.4m (unaudited pro 
+forma 2016: £23.8m), an increase of 19.5% 
+on the prior year and an increase of 33.5% on 
+a like for like basis excluding pass-through 
+revenue.the adjustment in respect of interest cost is to reflect the ungeared structure of the group as it is following the ipo in december 2017.
+the amortisation charge in respect of software in 2016 is extracted from historical financial information in the admission document dated 15 december 2017.
+this table is presented to help users of this information to assess the underlying financial performance of the group in a period of significant change, mainly arising from the ipo and where the comparative period is 
+unusual.the directors believe that the group is putting in place the appropriate remuneration and other 
+incentivisation structures and processes to attract and retain the calibre of employees necessary to ensure the efficient 
+management and development of the group.michael sherwin
+chair of the audit committee
+23 april 2018 financial statements governance strategic  report
+sumo group plc  annual report 2017 23
+financial statements governance strategic  report
+corporate governance
+under the rules of aim, the group is not required to comply with the uk corporate governance code 2016, but the board has chosen to apply the 
+corporate governance code for small and mid-size quoted companies 2013 published by the quoted companies alliance (the ‘qca code’), as far as 
+it considers appropriate for a company of the company’s size and nature.accordingly, the directors have a reasonable expectation that the company and the group have adequate resources to continue 
+in operational existence for the foreseeable future and they have adopted the going concern basis of accounting in preparing the annual group 
+financial statements.pwc is a member of the remuneration consultants group and the voluntary code of conduct of that body is 
+designed to ensure objective and independent advice is given to remuneration committees.our overall remuneration policy is to:
+be consistent and principled • maintain a consistent executive compensation strategy, based on 
+ clear principles and objectives
+link pay to strategy • support the company’s strategy and its execution
+align with shareholders’ interests • closely align executive reward with shareholder returns
+be competitive • ensure that the organisation can attract, motivate and retain  
+ high-calibre talent, to enable it to compete successfully in 
+ an international market
+link pay to performance • provide the opportunity for executives and other colleagues to receive 
+ competitive rewards for performance, aligned to the sustained 
+ success of the overall group, paying what is commensurate with 
+ achieving these aims
+reflect the internal landscape • operate broadly-based incentives to recognise talented performers 
+ throughout the group and take account of pay and conditions for all 
+ employees in the group when setting executive remuneration
+• the committee has regard to pay structures across the wider group 
+ when setting the remuneration policy for executive directors.long-term incentive 
+plan (‘l tip’)
+• as disclosed in the admission document, a nil-cost option 
+ was granted to the cfo on admission over 500,000 shares and 
+ becomes exercisable in june 2019, subject to remaining 
+ in employment
+• in accordance with the intention referred to in the admission 
+ document, awards under the l tip were also granted to the 
+ ceo and cfo in march 2018 under which:
+ – performance against earnings per share and total shareholder 
+  return targets is measured over three years.to recruit and retain the right people to deliver 
+the strategy.the agreements require a 
+notice period of one year from the company and from the executive.3 using the value of £1 per share used to determine the number of shares awarded.directors and their interests
+the directors of the company who were in office during the year and up to the date of signing the group financial statements were:
+• ken beaty  appointed 20 november 2017
+• carl cavers  appointed 20 november 2017
+• david wilton appointed 20 november 2017
+• ian livingstone  appointed 20 november 2017
+• michael sherwin appointed 21 december 2017
+all the directors are subject to election by shareholders at the forthcoming agm following their appointment during the year .financial statements governance strategic  report
+sumo group plc  annual report 2017 31
+financial statements governance strategic  report
+significant shareholdings
+as at 23 april 2018, the company has been advised, in accordance with the disclosure and transparency rules of the financial conduct 
+authority, or was made aware through the ipo process of the following notifiable interests in 3% or more of its voting rights:
+perwyn bidco (uk) limited 41,170,961 27.5 %
+aghoco 1337 limited (as trustee of the sumo group plc employee benefit trust) 21,235,933 14.2%
+blackrock investment management (uk) limited 16,124,718 10.8%
+liontrust investment partners llp 8,000,000 5.4%
+schroder investment management 6,500,000 4.3%
+employees
+the group regularly provides employees with information on matters of concern to them, consulting them or their representatives regularly, so 
+that their views can be taken into account when making decisions that are likely to affect their interests.key audit matter – group how the matter was addressed in the audit – group 
+the recognition of contract revenue 
+there is a risk that revenue may be misstated due to the improper 
+recognition of revenue.we therefore identified the accounting treatment of vgtcs as one  
+of the matters of most significance in the audit of the group  
+financial statements.sumo group plc  annual report 2017 39
+financial statements governance strategic  report
+consolidated statement of changes in equity
+for the year ended 31 december 2017
+    foreign
+   reverse currency
+ share share acquisition translation retained total
+ capital premium reserve reserve earnings equity
+ £’000 £’000 £’000 £’000 £’000 £’000
+loss for the period ended 31 december 2016 – – – – (1,385) (1,385)
+exchange differences on retranslation of foreign operations – – – 43 – 43
+total comprehensive income/(expense) for the period – – – 43 (1,385) (1,342)
+transactions with owners:      
+issue of share capital 45 352 – – – 397
+ 45 352 – – – 397
+balance at 31 december 2016  45 352 – 43 (1,385) (945)
+loss for the year – – – – (23,435) (23,435)
+exchange differences on retranslation of foreign operations – – – (16) – (16)
+total comprehensive expense for the year – – – (16) (23,435) (23,451)
+transactions with owners:      
+issue of shares in year 1 7 – – – 8
+issue of shares on conversion of debt 18 28,879 – – – 28,897
+issue of shares pre ipo 1,065 88,867 – – – 89,932
+group reorganisation (note 24) (64) (29,238) (60,623) – – (89,925)
+capital reduction – (88,867) – – 88,867 –
+issue of shares on ipo 385 38,061 – – – 38,446
+expenses of the ipo – (1,940) – – – (1,940)
+ 1,405 35,769 (60,623) – 88,867 65,418
+balance at 31 december 2017 1,450 36,121 (60,623) 27 64,047 41,022
+the notes on pages 41 to 65 form part of these group financial statements.the group financial statements present 12 months results for the year ended 31 december 2017, with a comparative period for the four months 
+from 26 august 2016 to 31 december 2016, and were approved by the directors on 23 april 2018. at the date of the reorganisation the ownership of the new entity was the same as the previous group.the company became the ultimate holding company of the group with topco becoming the company’s direct subsidiary on 13 december 2017  
+by the issue of 3,900 ordinary shares of £0.00001 each to the existing shareholders of topco in return for the entire issued share capital of topco.the directors have reviewed the forecasts for the years ending 31 december 2018 and 31 december 2019 and consider the forecasts to be prudent 
+and have assessed the impact of them on the group’s cash flow, facilities and headroom within its banking covenants.the directors have reviewed the group’s activities using the five-step model set out in 
+ifrs 15 and as a result consider that adoption of this standard is not expected to have a material impact.the directors are still assessing the impact of ifrs 16 which is expected to increase the carrying value of property, plant, and equipment, and lease 
+liabilities by a range of £3.5m to £4.5m.sumo group plc  annual report 2017 43
+financial statements governance strategic  report
+2 basis of preparation and accounting policies continued
+foreign currency 
+transactions in foreign currencies are translated into the group’s functional currency at the foreign exchange rate ruling at the date of the 
+transaction.the revenues and expenses of these subsidiary undertakings are translated at average 
+rates applicable in the period.the estimated useful lives, which were reviewed and amended in the year resulting in an accelerated amortisation charge, are as follows:
+customer relationships 2 years
+customer contracts over period of contract
+software 2 years sumo group plc  annual report 2017 44
+notes to the group financial statements continued
+for the year ended 31 december 2017
+2 basis of preparation and accounting policies continued
+impairment
+for goodwill that has an indefinite useful life, the recoverable amount is estimated annually.current tax is the expected tax payable on the taxable income for the period, using tax rates enacted or substantively enacted at the balance sheet 
+date, and any adjustment to tax payable in respect of previous years.sumo group plc  annual report 2017 45
+financial statements governance strategic  report
+2 basis of preparation and accounting policies continued
+cash and cash equivalents
+cash and cash equivalents comprise cash balances and call deposits.all assets of the group reside in the uk, with the exception of non-current assets with a net 
+book value of £400,000 (2016: £242,000) which were located in india and canada.sumo group plc  annual report 2017 55
+financial statements governance strategic  report
+17 cash and cash equivalents 
+      2017  2016
+      £’000 £’000
+cash and cash equivalents   
+cash at bank and in hand     12,424 4,482
+the following amounts were held in foreign currencies: 
+      2017  2016
+       £’000 £’000
+british pound     11,937 4,226
+canadian dollar     30 –
+united states dollar     335 134
+indian rupee     122 122
+     12,424 4,482
+18 trade and other payables 
+      2017  2016
+      £’000 £’000
+trade payables     2,468 764
+tax and social security     474 961
+other payables, accruals and deferred income     7,821 5,663
+      10,763 7,388
+the fair value of financial liabilities approximates their carrying value due to short maturities.the existence of these financial instruments exposes the group to a number of financial risks, which are described in more detail below.decisions on whether to raise funding using debt or 
+equity are made by the board based on the requirements of the business.this has historically been shown in other operating income and  
+is now shown within direct costs (net) – see note 6.
+the reason for the change is that video games tax relief credits are closely related to the production of the games and therefore should be reflected  
+in the gross margin reported.sumo group plc  annual report 2017 68
+notes to the company financial statements
+for the year ended 31 december 2017
+1 basis of preparation and accounting policies 
+basis of preparation
+sumo group plc (‘the company’) was incorporated and registered in england and wales on 20 november 2017 as a private company limited  
+by shares under the companies act 2006 with the name aghoco 1611 limited and with the registered number 11071913. the company was  
+re-registered as a public limited company with the name sumo group plc on 14 december 2017. the address of its registered office is  
+32 jessops riverside, brightside lane, sheffield s9 2rx.

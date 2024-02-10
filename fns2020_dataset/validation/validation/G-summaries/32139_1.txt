@@ -1,0 +1,188 @@
+the 
+risk committee is not responsible 
+for internal audit activities which 
+remain under the responsibility of 
+the audit committee.corpora te responsibility
+aveva is committed to supporting its employees and 
+local communities around the world, and this 
+report continues to demonstrate the broad range 
+of activities aveva and its employees participate in.there 
+is a formal schedule of matters 
+specifically reserved for the board’s 
+decision that covers key areas of 
+the group’s affairs, which include:
+• overall responsibility for the strategy 
+of the group; 
+• corporate governance;
+• review of trading performance and 
+forecasts;
+• risk management;
+• board membership; 
+• communications with shareholders;
+• approval of major transactions, 
+including mergers and  
+acquisitions; and 
+• approval of the financial statements 
+and annual operating and capital 
+expenditure budgets.the board is considered 
+to be of the right size and having 
+appropriate skills representation.he is a fellow of 
+the institute of directors and of 
+the energy institute.christopher humphrey
+audit committee chairman
+during 2016/17 the members were:
+chairman
+christopher humphrey  
+(from 2 november 2016)
+jonathan brooks  
+(until 2 november 2016)
+members
+philip dayer
+jennifer allerton
+christopher humphrey  
+(from 8 july 2016)
+ron mobed (from 1 march 2017)
+brief biographical details for all the 
+members of the committee are 
+included on pages 42 and 43.
+the audit committee provides 
+effective governance over external 
+financial reporting, risk management 
+and internal controls and reports its 
+findings and recommendations to the 
+board.the committee also assesses the 
+process that has been established 
+to ensure that the annual report is 
+fair, balanced and understandable, 
+reporting to the board on their findings.the proposal was approved by the committee and incorporates the 
+establishment of a minimum controls framework, against which internal audit testing will be focused.key estimates
+the audit committee discusses 
+with management and the auditor 
+the approach that has been taken in 
+assessing all key estimates.therefore, the committee is taking 
+a prudent approach to james’ salary 
+progression by phasing the increases.philip dayer will be standing down at the agm on 7 july and jennifer allerton will succeed him as the chair of the 
+remuneration committee.jennifer has been a member of the remuneration committee since 2013. 
+the role of the committee is set out in its terms of reference which are available on the company’s website at 
+www.aveva.com.annual incentive scheme
+for 2017 /18, the maximum opportunity for executive directors under the annual incentive will continue to be 125% of base 
+salary although the out-performance element has been incorporated into the core scheme, albeit still requiring a stretch level 
+of performance for full payout.the board believes that, given the annual incentive scheme rewards the achievement of the annual business plan, the targets 
+are market sensitive and therefore should not be disclosed in advance, but ordinarily will be disclosed retrospectively.– due to commercial sensitivity, the committee does not believe it to be in shareholders’ interests to prospectively 
+disclose details of the revenue growth targets.richard’s accrued entitlements under the pension scheme are as follows:
+accumulated accrued 
+pension at 
+31 december 2016 
+£
+accumulated accrued 
+pension at 
+31 march 2016 
+£
+increase in 
+accrued pension 
+during year 
+£
+increase in accrued 
+pension during the year, 
+after removing the 
+effects of inflation 
+£
+transfer value of 
+increase, after removing 
+the effects of inflation, less 
+director’s contributions 
+£
+richard longdon 165,810 166,354 (544) – –
+the pension entitlement shown is that which would be paid annually, based on service to the end of the year.the 
+directors consider such properties 
+to be of significant value to the 
+business and have a comprehensive 
+programme to protect it.in the same 
+way as other employees, the executive 
+directors of the company are potential 
+beneficiaries under the trust.we have performed a test of detail on a sample of deferred revenue and accrued revenue items to ensure it is in accordance with the 
+revenue recognition principles.we have performed analytical review by revenue stream and geography to access unexpected trends and patterns that could be indicative 
+of incorrect revenue recognition.aveva group plc annual report and accounts 2017
+74
+independent auditor’s report continued
+the scope of our audit 
+tailoring the scope
+our assessment of audit risk, our 
+evaluation of materiality and our 
+allocation of performance materiality 
+determine our audit scope for each 
+entity within the group.for the current year we have 
+scoped out malaysia and japan from the 
+specific scope category and scoped in 
+sweden as part of our rotational scope 
+for the smaller components  
+of the group.we are required to report to you if, in our opinion:
+–  adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received 
+from branches not visited by us; or
+–  the parent company financial statements and the part of the directors’ remuneration report to be audited are not in agreement with 
+the accounting records and returns; or
+–  certain disclosures of directors’ remuneration specified by law are not made; or
+–  we have not received all the information and explanations we require for our audit.financial statements
+81
+consolidated cash flow statement
+for the year ended 31 march 2017
+notes
+2017 
+£000
+2016 
+£000
+cash flows from operating activities
+profit for the year 38,066 20,474
+income tax 11(a) 8,834 8,955
+net finance revenue 8, 9 (381) (7)
+other income (indemnified receivable) 7 (1,753) –
+amortisation of intangible assets 15 6,160 5,954
+depreciation of property, plant and equipment 16 2,487 2,167
+(profit)/loss on disposal of property, plant and equipment 6 (27) 2
+share-based payments 26 1,084 494
+difference between pension contributions paid and amounts charged to operating profit (1,139) (1,849)
+research & development expenditure tax credit (1,750) (2,076)
+changes in working capital:
+trade and other receivables 2,567 514
+trade and other payables 3,711 1,076
+changes to fair value of forward foreign exchange contracts (669) 432
+cash generated from operating activities before tax 57,190 36,136
+income taxes paid (9,332) (11,798)
+net cash generated from operating activities 47,858 24,338
+cash flows from investing activities
+purchase of property, plant and equipment 16 (2,419) (2,056)
+purchase of intangible assets 15 (2,252) (393)
+acquisition of subsidiaries and business undertakings, net of cash acquired – (2,540)
+refund of consideration from business combinations 1,753 4,349
+proceeds from disposal of property, plant and equipment 194 429
+interest received 8 777 633
+(purchase)/maturity of treasury deposits (net) 19 (2,170) 1,932
+net cash flows (used in)/from investing activities (4,117) 2,354
+cash flows from financing activities
+interest paid 9 (58) (48)
+purchase of own shares 27(b) (40) (94)
+proceeds from the issue of shares 27(a) 1 –
+dividends paid to equity holders of the parent 12 (27,500) (19,814)
+net cash flows used in financing activities (27,597) (19,956)
+net increase in cash and cash equivalents 16,144 6,736
+net foreign exchange difference 4,707 (644)
+opening cash and cash equivalents 19 64,611 58,519
+closing cash and cash equivalents 19 85,462 64,611
+the accompanying notes are an integral part of this consolidated cash flow statement.in the prior year, deferred revenue was presented as part of the line item ‘trade and other payables’; in the current year 
+deferred revenue is presented as a separate line item on the balance sheet.on average, the element attributable to customer support and 
+maintenance as a proportion of the initial software delivery is 17%.financial statements
+95
+21 financial liabilities
+2017 
+£000
+2016 
+£000
+current
+fair value of forward foreign exchange contracts 196 864
+borrowing facilities
+as at 31 march 2017 the group had no committed bank overdraft or loan facilities.contributions to the scheme are made in accordance with advice from an external, professionally qualified actuary, 
+broadstone corporate benefits limited, at rates which are calculated to be sufficient to meet the future liabilities of the 
+scheme.the assets of the schemes are held separately from those of the group.the 
+performance conditions attached to this award are based on eps growth over the three years from 2016/17 to 2018/19.under ifrs 15, revenue is recognised when a customer obtains control of the services.revenue in respect of the continuing right to use and customer support and 
+maintenance element is valued at fair market value based on the value established when annual fees are charged separately  
+to the customer.

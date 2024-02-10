@@ -1,0 +1,154 @@
+of the group’s
+underlying proﬁts after tax in each ﬁnancial year.whilst we are constantly looking for ways to
+acquire new clients, we remain dedicated to
+providing the very best levels of service to our
+existing client base.•  options department formed, led by an fca approved
+individual with over ten years’ experience, expanding the
+range of products we can oﬀer our clients and allowing us
+to cater eﬀectively to the needs of those with more complex
+exposures.therefore, in addition to the
+statutory cash ﬂow, the group presents an
+adjusted net cash summary below which excludes
+the above items.financial review
+“2017 was another impressive year for alpha with strong revenue growth
+and robust proﬁt margins.”
+248225 alpha fx_pp12-pp26.qxp  03/04/2018  15:07  page 19 strategic report financial review
+20
+                                                                                                                                31 december 2017 31 december 2016
+                                                                                                                                                         £’000                          £’000
+net cash and cash equivalents                                                                                                  13,073                          7,581
+variation margin paid to banking counterparties                                                                      3,517                          4,342
+                                                                                                                                                      16,590                        11,923
+margin received from clients & client held funds*                                                                   (4,036)                        (9,772)
+net mtm timing loss/(proﬁt) from client drawdowns and extensions
+within trade receivables                                                                                                                1,102                            (350)
+adjusted net cash**                                                                                                                13,656                          1,801
+* represents ‘other payables’ within ‘trade and other payables’ 
+** excluding collateral received from clients, early settlements and the unrealised mark to market proﬁt or loss
+from client swaps
+the table below presents the operating cash conversion on a similar basis, which excludes collateral
+received from clients, early settlements and the unrealised mark to market proﬁt or loss from client
+swaps.if a client should fail to
+make payments to the group when due, this
+could have a material adverse eﬀect on the
+group’s business, results of operations, ﬁnancial
+condition and prospects.the
+directors implement appropriate measures
+(having regard to the current stage of
+development of the group) to comply, so far as
+practicable, with the uk corporate governance
+code.lisa gordon
+chair of the remuneration committee
+248225 alpha fx_pp27-pp30.qxp  03/04/2018  14:31  page 30 go vernance direct ors’ report
+31
+the directors present their annual report and
+the audited ﬁnancial statements for the year
+ended 31 december 2017.
+the corporate governance statement on page 27
+also forms part of this directors’ report.directors’ report
+248225 alpha fx_pp31-pp33.qxp  03/04/2018  15:09  page 31 go vernance 
+32
+direct ors’ report
+financial instruments
+the ﬁnancial risk management objectives and
+policies of the group, including credit risk, liquidity
+risk, cash ﬂow risk, interest rate risk and currency
+risk, are provided in note 17 to the consolidated
+financial statements on pages 61 to 64.
+share capital structure
+details of changes in the group’s share capital are
+disclosed in note 20 of the consolidated ﬁnancial
+statement.the directors are responsible for ensuring the
+annual report and the ﬁnancial statements are
+made available on a website.the ﬁnancial reporting framework that has been applied in the preparation of the group ﬁnancial
+statements is applicable law and international financial reporting standards (ifrss) as adopted by the
+european union.to the fullest extent permitted by law, we do not accept or assume
+responsibility to anyone other than the parent company and the parent company’s members as a body,
+for our audit work, for this report, or for the opinions we have formed.conclusions relating to going concern
+we have nothing to report in respect of the following matters in relation to which the isas (uk) require
+us to report to you where:
+•  the directors’ use of the going concern basis of accounting in the preparation of the ﬁnancial
+statements is not appropriate; or
+•  the directors have not disclosed in the ﬁnancial statements any identiﬁed material uncertainties that
+may cast signiﬁcant doubt about the group’s or the parent company’s ability to continue to adopt the
+going concern basis of accounting for a period of at least twelve months from the date when the
+ﬁnancial statements are authorised for issue.key audit matters
+key audit matters are those matters that, in our professional judgment, were of most signiﬁcance in our
+audit of the ﬁnancial statements of the current period and include the most signiﬁcant assessed risks of
+material misstatement (whether or not due to fraud) we identiﬁed, including those which had the
+greatest eﬀect on: the overall audit strategy, the allocation of resources in the audit; and directing the
+eﬀorts of the engagement team.248225 alpha fx_pp34-pp42.qxp  03/04/2018  14:33  page 36 financial statements  independent auditor’s
+report
+37
+(2016: £31,000).the group is currently
+assessing leases under ifrs 16 and expects an impact as the ‘right of use’ assets and corresponding
+lease liabilities will come onto the consolidated statement of ﬁnancial position for the ﬁrst time in
+respect of its current operating leases.in accordance with ias 27, the group recognises any non-controlling interest at the non-
+controlling interest’s proportionate share of the acquiree’s net assets on a transaction by transaction basis.segment reporting
+in accordance with ifrs 8 ‘operating segments’, an operating segment is deﬁned as a business activity
+whose operating results are reviewed by the chief operating decision maker and for which discrete
+information is available.248225 alpha fx_pp43-pp59.qxp  03/04/2018  14:34  page 46 financial statements notes to the c onsolidated 
+financial statements
+47
+2. accounting policies (continued)
+financial assets at fair value through income statement
+financial assets at fair value through income statement include ﬁnancial assets designated upon initial
+recognition at fair value through income statement.subsequent changes in fair value are
+recognised directly in the statement of comprehensive income.all ﬁnancial
+liabilities are recognised initially at fair value and, in the case of loans and borrowings, carried at
+amortised cost including directly attributable transaction costs.248225 alpha fx_pp43-pp59.qxp  03/04/2018  14:34  page 47 financial statements notes to the consolidated
+financial statements
+48
+2. accounting policies (continued)
+credit valuation adjustment (“cva”) reﬂects the credit risk of the counterparties inherent in the valuation
+of the derivative ﬁnancial instruments.in the process of applying
+the group’s accounting policies, management has made the following judgements and estimates which
+have the most signiﬁcant eﬀect on the amounts recognised in the ﬁnancial statements:
+estimates
+impairment of ﬁnancial assets
+impairment provisions are recognised when there is objective evidence that the group will be unable to
+collect all the amounts due under the terms receivable, the amount of such a provision being the
+diﬀerence between the net carrying amount and the present value of the future expected cash ﬂows
+associated with the impaired receivable.credit value adjustment
+the credit value adjustment has been calculated by management based on the assumption that the
+group will be unable to collect all the amounts due under the terms receivable, and therefore, is a
+method of counterparty credit risk management.share-based payments
+as described in note 2 (share-based payments), equity settled share awards are recognised as an
+expense based on their fair value at date of grant.248225 alpha fx_pp43-pp59.qxp  03/04/2018  14:34  page 52 financial statements notes to the c onsolidated 
+financial statements
+53
+6. finance income and expenses
+                                                                                                                                          31 december            31 december
+                                                                                                                                                         2017                          2016
+                                                                                                                                                                £                                  £
+finance income                                                                                                                                                                        
+interest on bank deposits                                                                                                          25,110                                  –
+                                                                                                                                                      25,110                                  –
+                                                                                                                                                                                                      
+finance costs                                                                                                                                                                             
+interest payable on loans and borrowings                                                                               32,626                        43,804
+other interest payable                                                                                                                         –                          1,360
+                                                                                                                                                      32,626                        45,164
+7. employee costs
+staﬀ costs, including directors’ remuneration, were as follows:
+                                                                                                                                          31 december            31 december
+                                                                                                                                                         2017                           2016
+                                                                                                                                                                £                                  £
+wages and salaries                                                                                                                4,066,677                   2,227,634
+social security costs                                                                                                                  531,279                      297,936
+share-based payment charge                                                                                                 511,332                                  –
+other pension costs                                                                                                                   18,770                                  –
+employee beneﬁt expense included in operating proﬁt                                         5,128,058                   2,525,570
+the share-based payment charge includes employer’s national insurance amounting to £28,960 relating
+to an unapproved option scheme.the fair value of
+option foreign exchange contracts is measured using an industry standard external model that best
+presents the unpublished interbank valuations.it is the board’s responsibility to set appropriate limits to the liquidity risk of the group, as well as
+ensuring that a strong system of internal controls is implemented and enforced, whilst the daily
+management of liquidity risk rests with the head of product and liquidity risk (overseen by its cfo).in conjunction with the cfo, they are also
+responsible for ensuring the group has capital and liquidity resources, in suﬃcient amount and quality,
+to meet its liabilities as they fall due and to support its growth and strategic objectives.in order to maintain or adjust the capital structure, the company may issue new shares or adjust the
+dividends paid to shareholders.based on share price of the company of 487.5p at 31 december 2017, it is estimated upon exercise of
+the put options in respect of the year ended 31 december 2017, the company will issue 565,387
+shares.seniority is determined
+by the order in which the names of the joint holders appear in the company’s register of members
+in respect of the joint holding (the ﬁrst-named being the most senior).
