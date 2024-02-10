@@ -22,9 +22,9 @@ nltk.download('punkt')  # one-time download
 nltk.download('stopwords')  # one-time download
 
 
-# Running the File
+## Running the File
 
-## Steps:
+### Steps:
 
 1. Run the file `Hybrid_Text_Summarization_Project-Updated.ipynb` in Jupyter Notebook or Colab.
 
