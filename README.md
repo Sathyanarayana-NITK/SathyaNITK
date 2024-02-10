@@ -4,7 +4,6 @@
 
 The dataset can be downloaded from the following links:
 
-- [Dataset Sample](http://bit.ly/2PaUdbL)
 - [Partial Dataset](http://wp.lancs.ac.uk/cfie/fns2020/)
 
 ## Library Importing for Implementation
